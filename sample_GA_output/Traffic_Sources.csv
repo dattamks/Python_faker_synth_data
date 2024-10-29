@@ -1,0 +1,5001 @@
+Source_ID,Session_ID,Source,Medium,Campaign,Keyword
+1,1,Twitter,Organic,cover,
+2,2,Twitter,Organic,collection,north
+3,3,Direct,Referral,there,citizen
+4,4,Email Campaign,Social,dinner,continue
+5,5,Direct,Social,,determine
+6,6,Direct,Paid,,
+7,7,Twitter,Social,send,source
+8,8,Direct,Paid,,
+9,9,Facebook,Paid,can,
+10,10,Direct,Social,guess,
+11,11,Google,Organic,look,
+12,12,Twitter,Social,consider,
+13,13,Direct,Referral,,
+14,14,Google,Paid,just,air
+15,15,Twitter,Paid,field,
+16,16,Direct,Referral,place,think
+17,17,Direct,Social,,
+18,18,Twitter,Organic,project,
+19,19,Twitter,Organic,,
+20,20,Google,Referral,,
+21,21,Facebook,Referral,,
+22,22,Google,Paid,professor,
+23,23,Google,Referral,fund,
+24,24,Google,Organic,,green
+25,25,Direct,Referral,,suddenly
+26,26,Facebook,Social,,
+27,27,Twitter,Social,close,who
+28,28,Facebook,Referral,forget,
+29,29,Email Campaign,Social,choice,
+30,30,Twitter,Organic,prepare,
+31,31,Twitter,Paid,skill,
+32,32,Twitter,Social,,
+33,33,Google,Organic,third,
+34,34,Google,Referral,,
+35,35,Google,Paid,last,
+36,36,Email Campaign,Referral,food,
+37,37,Email Campaign,Paid,page,
+38,38,Facebook,Referral,,
+39,39,Email Campaign,Organic,teach,several
+40,40,Google,Paid,,
+41,41,Twitter,Social,,
+42,42,Direct,Organic,,
+43,43,Direct,Organic,,
+44,44,Email Campaign,Paid,,
+45,45,Direct,Organic,,
+46,46,Facebook,Social,,
+47,47,Google,Organic,such,
+48,48,Direct,Paid,the,
+49,49,Twitter,Organic,by,laugh
+50,50,Email Campaign,Referral,million,second
+51,51,Google,Organic,,
+52,52,Twitter,Referral,,
+53,53,Facebook,Referral,,
+54,54,Direct,Paid,throughout,
+55,55,Facebook,Social,most,
+56,56,Twitter,Organic,nature,miss
+57,57,Twitter,Paid,,
+58,58,Twitter,Social,,
+59,59,Google,Referral,,
+60,60,Google,Referral,,
+61,61,Email Campaign,Organic,,
+62,62,Direct,Organic,parent,
+63,63,Facebook,Paid,,
+64,64,Direct,Organic,,
+65,65,Direct,Referral,,
+66,66,Direct,Referral,order,
+67,67,Direct,Paid,paper,
+68,68,Direct,Referral,series,financial
+69,69,Twitter,Referral,,
+70,70,Facebook,Referral,sing,
+71,71,Facebook,Paid,,various
+72,72,Email Campaign,Paid,again,
+73,73,Email Campaign,Social,size,rule
+74,74,Twitter,Organic,,
+75,75,Email Campaign,Paid,,
+76,76,Google,Referral,,vote
+77,77,Google,Organic,number,nation
+78,78,Twitter,Referral,,discussion
+79,79,Google,Social,,
+80,80,Facebook,Referral,moment,
+81,81,Facebook,Paid,,better
+82,82,Twitter,Referral,keep,
+83,83,Email Campaign,Social,side,
+84,84,Direct,Paid,compare,
+85,85,Twitter,Paid,,bed
+86,86,Direct,Referral,thought,
+87,87,Facebook,Referral,boy,
+88,88,Facebook,Organic,picture,
+89,89,Twitter,Referral,,by
+90,90,Email Campaign,Social,court,
+91,91,Twitter,Organic,,interview
+92,92,Email Campaign,Social,,thus
+93,93,Google,Organic,,exactly
+94,94,Direct,Organic,,
+95,95,Google,Paid,way,
+96,96,Direct,Social,,
+97,97,Google,Paid,,
+98,98,Twitter,Organic,education,all
+99,99,Email Campaign,Organic,main,street
+100,100,Email Campaign,Paid,,maybe
+101,101,Google,Paid,,
+102,102,Email Campaign,Referral,church,
+103,103,Direct,Organic,,
+104,104,Facebook,Organic,,
+105,105,Email Campaign,Social,big,
+106,106,Facebook,Social,,
+107,107,Google,Social,,
+108,108,Direct,Referral,contain,
+109,109,Google,Social,rate,professional
+110,110,Direct,Social,,
+111,111,Direct,Paid,when,
+112,112,Direct,Referral,down,
+113,113,Facebook,Paid,,
+114,114,Facebook,Social,,former
+115,115,Twitter,Referral,of,
+116,116,Twitter,Referral,prevent,believe
+117,117,Direct,Organic,,test
+118,118,Facebook,Referral,,shoulder
+119,119,Twitter,Referral,believe,
+120,120,Email Campaign,Referral,prevent,
+121,121,Facebook,Organic,season,deal
+122,122,Direct,Referral,hold,around
+123,123,Twitter,Social,,
+124,124,Direct,Paid,,citizen
+125,125,Twitter,Referral,,
+126,126,Twitter,Organic,,
+127,127,Google,Referral,,
+128,128,Google,Social,feeling,blue
+129,129,Email Campaign,Paid,service,
+130,130,Email Campaign,Referral,house,base
+131,131,Twitter,Organic,,
+132,132,Email Campaign,Social,movie,
+133,133,Facebook,Social,,against
+134,134,Direct,Organic,policy,
+135,135,Twitter,Referral,whether,
+136,136,Twitter,Social,,
+137,137,Email Campaign,Referral,,compare
+138,138,Facebook,Organic,,
+139,139,Facebook,Social,general,
+140,140,Direct,Organic,,
+141,141,Email Campaign,Social,,story
+142,142,Facebook,Organic,,investment
+143,143,Direct,Organic,thought,
+144,144,Facebook,Organic,,
+145,145,Twitter,Organic,,
+146,146,Direct,Referral,skill,
+147,147,Google,Social,,
+148,148,Facebook,Referral,size,prevent
+149,149,Twitter,Paid,,
+150,150,Twitter,Referral,,
+151,151,Facebook,Organic,,
+152,152,Direct,Paid,,
+153,153,Email Campaign,Referral,,
+154,154,Direct,Referral,approach,head
+155,155,Google,Social,time,
+156,156,Facebook,Paid,,
+157,157,Email Campaign,Social,,
+158,158,Google,Referral,thus,
+159,159,Twitter,Social,teacher,
+160,160,Email Campaign,Social,,
+161,161,Email Campaign,Referral,career,
+162,162,Direct,Organic,,yes
+163,163,Google,Organic,national,
+164,164,Facebook,Organic,,
+165,165,Email Campaign,Social,,
+166,166,Facebook,Organic,,who
+167,167,Twitter,Paid,modern,
+168,168,Google,Social,class,
+169,169,Email Campaign,Social,,
+170,170,Direct,Organic,,
+171,171,Twitter,Organic,consider,
+172,172,Facebook,Paid,apply,
+173,173,Facebook,Paid,they,
+174,174,Email Campaign,Referral,indicate,
+175,175,Google,Organic,performance,
+176,176,Facebook,Organic,act,choice
+177,177,Google,Referral,of,
+178,178,Email Campaign,Referral,,
+179,179,Facebook,Social,,gas
+180,180,Twitter,Organic,,produce
+181,181,Direct,Social,,population
+182,182,Email Campaign,Referral,stock,
+183,183,Email Campaign,Organic,research,
+184,184,Direct,Referral,,
+185,185,Direct,Organic,,
+186,186,Twitter,Paid,,
+187,187,Google,Organic,situation,
+188,188,Facebook,Paid,figure,
+189,189,Facebook,Social,boy,
+190,190,Email Campaign,Social,,
+191,191,Facebook,Organic,official,
+192,192,Google,Paid,,
+193,193,Google,Social,head,
+194,194,Email Campaign,Paid,beat,
+195,195,Email Campaign,Social,,style
+196,196,Facebook,Referral,individual,
+197,197,Direct,Social,,
+198,198,Google,Organic,,glass
+199,199,Twitter,Paid,attention,
+200,200,Twitter,Organic,,before
+201,201,Facebook,Paid,,leave
+202,202,Email Campaign,Social,,
+203,203,Email Campaign,Organic,,try
+204,204,Facebook,Referral,drug,
+205,205,Facebook,Paid,,deep
+206,206,Email Campaign,Referral,day,
+207,207,Email Campaign,Paid,end,
+208,208,Direct,Paid,gas,
+209,209,Twitter,Paid,seat,
+210,210,Facebook,Social,,
+211,211,Facebook,Referral,,probably
+212,212,Google,Social,,
+213,213,Direct,Social,,
+214,214,Google,Organic,,be
+215,215,Google,Referral,skill,short
+216,216,Twitter,Referral,,
+217,217,Facebook,Referral,,defense
+218,218,Direct,Paid,,art
+219,219,Twitter,Paid,somebody,
+220,220,Direct,Social,whose,
+221,221,Twitter,Referral,decade,
+222,222,Google,Paid,least,
+223,223,Twitter,Referral,reveal,civil
+224,224,Google,Referral,help,
+225,225,Email Campaign,Paid,although,
+226,226,Twitter,Referral,soldier,stuff
+227,227,Facebook,Paid,deep,everybody
+228,228,Google,Social,stage,player
+229,229,Direct,Referral,,second
+230,230,Twitter,Organic,,
+231,231,Facebook,Referral,,
+232,232,Twitter,Social,,very
+233,233,Google,Referral,,
+234,234,Twitter,Referral,,industry
+235,235,Facebook,Paid,prepare,because
+236,236,Email Campaign,Organic,inside,
+237,237,Facebook,Organic,agent,
+238,238,Direct,Organic,single,
+239,239,Google,Referral,,hear
+240,240,Email Campaign,Referral,whole,
+241,241,Direct,Paid,,
+242,242,Email Campaign,Paid,,this
+243,243,Facebook,Paid,,position
+244,244,Facebook,Referral,a,
+245,245,Google,Paid,society,
+246,246,Email Campaign,Organic,,hold
+247,247,Facebook,Organic,about,
+248,248,Twitter,Referral,,trial
+249,249,Facebook,Paid,,
+250,250,Twitter,Organic,,model
+251,251,Direct,Organic,baby,
+252,252,Google,Referral,,take
+253,253,Google,Referral,cut,
+254,254,Email Campaign,Referral,,
+255,255,Email Campaign,Referral,energy,
+256,256,Twitter,Organic,edge,themselves
+257,257,Google,Referral,concern,
+258,258,Google,Social,Republican,
+259,259,Twitter,Social,policy,
+260,260,Google,Paid,,near
+261,261,Twitter,Social,through,force
+262,262,Google,Referral,most,
+263,263,Email Campaign,Referral,,appear
+264,264,Facebook,Organic,condition,
+265,265,Google,Paid,so,
+266,266,Twitter,Referral,lose,
+267,267,Direct,Referral,,
+268,268,Direct,Referral,modern,team
+269,269,Facebook,Paid,,
+270,270,Twitter,Paid,field,
+271,271,Email Campaign,Paid,,
+272,272,Facebook,Social,,
+273,273,Twitter,Paid,,
+274,274,Twitter,Paid,,
+275,275,Google,Referral,imagine,
+276,276,Google,Referral,,
+277,277,Direct,Organic,large,
+278,278,Google,Organic,fear,air
+279,279,Email Campaign,Paid,walk,
+280,280,Facebook,Social,,
+281,281,Email Campaign,Paid,,right
+282,282,Google,Organic,,
+283,283,Twitter,Social,,
+284,284,Email Campaign,Referral,maybe,
+285,285,Direct,Paid,play,
+286,286,Facebook,Paid,,
+287,287,Google,Social,step,
+288,288,Direct,Social,,person
+289,289,Facebook,Paid,,
+290,290,Twitter,Social,,
+291,291,Facebook,Social,,
+292,292,Twitter,Referral,wife,
+293,293,Google,Social,,
+294,294,Direct,Social,give,cut
+295,295,Google,Social,,
+296,296,Google,Social,president,
+297,297,Google,Paid,physical,
+298,298,Email Campaign,Paid,build,
+299,299,Direct,Social,,
+300,300,Twitter,Organic,draw,control
+301,301,Facebook,Social,food,
+302,302,Facebook,Organic,wide,operation
+303,303,Google,Paid,,
+304,304,Email Campaign,Organic,voice,century
+305,305,Direct,Referral,,
+306,306,Google,Referral,voice,rock
+307,307,Twitter,Paid,,
+308,308,Facebook,Social,,follow
+309,309,Direct,Referral,include,
+310,310,Twitter,Social,film,available
+311,311,Direct,Paid,,
+312,312,Direct,Referral,,
+313,313,Facebook,Social,,
+314,314,Google,Social,,race
+315,315,Email Campaign,Referral,,
+316,316,Twitter,Organic,seat,
+317,317,Email Campaign,Referral,,
+318,318,Google,Referral,,
+319,319,Twitter,Organic,season,
+320,320,Facebook,Social,,song
+321,321,Email Campaign,Paid,,
+322,322,Email Campaign,Paid,service,
+323,323,Twitter,Referral,,
+324,324,Facebook,Organic,,
+325,325,Google,Social,,attorney
+326,326,Direct,Referral,,watch
+327,327,Facebook,Social,themselves,
+328,328,Direct,Social,crime,
+329,329,Email Campaign,Referral,,
+330,330,Google,Organic,,
+331,331,Google,Social,,
+332,332,Facebook,Social,,
+333,333,Email Campaign,Paid,,
+334,334,Direct,Social,may,community
+335,335,Twitter,Referral,,
+336,336,Facebook,Organic,,
+337,337,Facebook,Social,,
+338,338,Twitter,Referral,player,
+339,339,Email Campaign,Organic,,
+340,340,Google,Social,,
+341,341,Google,Referral,hour,
+342,342,Google,Social,include,local
+343,343,Direct,Paid,,
+344,344,Google,Paid,,for
+345,345,Direct,Paid,,
+346,346,Google,Social,seem,
+347,347,Email Campaign,Referral,leader,
+348,348,Facebook,Referral,,
+349,349,Twitter,Referral,,first
+350,350,Email Campaign,Organic,policy,
+351,351,Facebook,Paid,be,
+352,352,Facebook,Paid,,
+353,353,Google,Paid,,
+354,354,Twitter,Paid,,
+355,355,Email Campaign,Organic,watch,
+356,356,Facebook,Referral,answer,
+357,357,Twitter,Paid,,
+358,358,Facebook,Organic,certainly,
+359,359,Google,Social,,
+360,360,Email Campaign,Organic,,have
+361,361,Email Campaign,Referral,member,
+362,362,Email Campaign,Organic,second,
+363,363,Facebook,Social,civil,
+364,364,Twitter,Organic,,
+365,365,Facebook,Social,law,
+366,366,Twitter,Referral,,
+367,367,Facebook,Paid,,
+368,368,Facebook,Paid,player,
+369,369,Twitter,Organic,family,yourself
+370,370,Google,Social,,yes
+371,371,Facebook,Referral,,necessary
+372,372,Facebook,Organic,important,six
+373,373,Email Campaign,Paid,,real
+374,374,Twitter,Paid,light,foreign
+375,375,Email Campaign,Referral,rich,author
+376,376,Email Campaign,Referral,continue,own
+377,377,Email Campaign,Referral,,
+378,378,Twitter,Referral,,
+379,379,Email Campaign,Paid,keep,
+380,380,Facebook,Paid,,
+381,381,Google,Paid,,
+382,382,Email Campaign,Referral,benefit,
+383,383,Google,Social,,
+384,384,Direct,Paid,,today
+385,385,Direct,Referral,,
+386,386,Facebook,Referral,,
+387,387,Google,Referral,,
+388,388,Email Campaign,Paid,part,
+389,389,Facebook,Organic,though,
+390,390,Email Campaign,Paid,,
+391,391,Email Campaign,Social,off,left
+392,392,Google,Referral,,
+393,393,Google,Paid,bit,
+394,394,Email Campaign,Referral,might,
+395,395,Facebook,Referral,drive,
+396,396,Email Campaign,Referral,,together
+397,397,Facebook,Organic,design,water
+398,398,Direct,Organic,present,Congress
+399,399,Direct,Paid,,
+400,400,Email Campaign,Referral,million,suffer
+401,401,Google,Paid,probably,
+402,402,Facebook,Referral,,hear
+403,403,Twitter,Organic,deal,have
+404,404,Twitter,Social,,
+405,405,Facebook,Social,,
+406,406,Google,Referral,himself,possible
+407,407,Direct,Social,different,
+408,408,Direct,Referral,,some
+409,409,Facebook,Paid,,
+410,410,Facebook,Paid,middle,
+411,411,Facebook,Paid,thousand,
+412,412,Twitter,Referral,,military
+413,413,Twitter,Social,,painting
+414,414,Twitter,Paid,,test
+415,415,Email Campaign,Referral,fine,
+416,416,Facebook,Referral,,
+417,417,Google,Referral,push,
+418,418,Facebook,Organic,,
+419,419,Direct,Social,consumer,
+420,420,Facebook,Organic,,
+421,421,Email Campaign,Paid,,seem
+422,422,Twitter,Organic,,
+423,423,Twitter,Paid,baby,article
+424,424,Email Campaign,Social,,for
+425,425,Email Campaign,Social,,
+426,426,Twitter,Social,,sport
+427,427,Google,Organic,,
+428,428,Email Campaign,Organic,,
+429,429,Twitter,Referral,test,hand
+430,430,Email Campaign,Organic,,law
+431,431,Google,Organic,,
+432,432,Google,Social,establish,
+433,433,Google,Paid,within,
+434,434,Google,Organic,course,adult
+435,435,Email Campaign,Paid,,
+436,436,Email Campaign,Organic,choice,
+437,437,Twitter,Social,themselves,such
+438,438,Direct,Paid,reason,
+439,439,Twitter,Organic,run,
+440,440,Google,Social,,
+441,441,Twitter,Organic,instead,claim
+442,442,Email Campaign,Referral,,
+443,443,Facebook,Organic,seek,
+444,444,Facebook,Referral,rest,
+445,445,Direct,Paid,,thought
+446,446,Facebook,Social,,
+447,447,Google,Social,cover,
+448,448,Google,Social,result,
+449,449,Facebook,Social,,
+450,450,Direct,Referral,share,
+451,451,Twitter,Paid,stand,
+452,452,Direct,Organic,newspaper,
+453,453,Google,Paid,political,
+454,454,Twitter,Paid,official,
+455,455,Twitter,Referral,environment,
+456,456,Twitter,Referral,call,
+457,457,Facebook,Paid,,
+458,458,Twitter,Organic,,
+459,459,Google,Social,,
+460,460,Direct,Referral,character,
+461,461,Twitter,Referral,,
+462,462,Direct,Referral,,
+463,463,Facebook,Organic,,
+464,464,Email Campaign,Paid,visit,
+465,465,Facebook,Paid,,
+466,466,Twitter,Paid,down,
+467,467,Email Campaign,Paid,,
+468,468,Google,Paid,,
+469,469,Direct,Paid,long,
+470,470,Direct,Organic,,
+471,471,Google,Referral,Mrs,
+472,472,Email Campaign,Referral,example,need
+473,473,Facebook,Organic,peace,computer
+474,474,Twitter,Organic,say,may
+475,475,Twitter,Organic,them,matter
+476,476,Direct,Referral,common,
+477,477,Email Campaign,Social,actually,
+478,478,Facebook,Paid,kind,
+479,479,Google,Social,,five
+480,480,Twitter,Social,,edge
+481,481,Email Campaign,Referral,since,
+482,482,Direct,Paid,arm,in
+483,483,Google,Paid,,
+484,484,Google,Organic,,hand
+485,485,Direct,Organic,figure,
+486,486,Direct,Paid,,wide
+487,487,Google,Referral,,north
+488,488,Direct,Referral,,
+489,489,Google,Paid,see,family
+490,490,Facebook,Paid,really,
+491,491,Email Campaign,Organic,president,
+492,492,Twitter,Referral,mother,lawyer
+493,493,Facebook,Social,probably,none
+494,494,Email Campaign,Referral,,
+495,495,Facebook,Social,mother,end
+496,496,Twitter,Paid,,
+497,497,Twitter,Organic,,thought
+498,498,Google,Paid,professor,probably
+499,499,Facebook,Paid,,
+500,500,Direct,Paid,everything,
+501,501,Email Campaign,Referral,,effort
+502,502,Email Campaign,Paid,similar,skin
+503,503,Direct,Social,especially,
+504,504,Direct,Paid,,instead
+505,505,Twitter,Social,,
+506,506,Twitter,Organic,,record
+507,507,Google,Social,,sign
+508,508,Email Campaign,Paid,,
+509,509,Google,Organic,,
+510,510,Facebook,Paid,myself,
+511,511,Email Campaign,Organic,,
+512,512,Email Campaign,Referral,memory,
+513,513,Google,Paid,three,cover
+514,514,Facebook,Referral,either,
+515,515,Facebook,Paid,,
+516,516,Direct,Organic,own,
+517,517,Facebook,Referral,,system
+518,518,Twitter,Paid,,
+519,519,Email Campaign,Organic,,
+520,520,Google,Social,data,
+521,521,Email Campaign,Social,share,
+522,522,Google,Referral,about,discussion
+523,523,Facebook,Organic,summer,
+524,524,Email Campaign,Social,gas,
+525,525,Twitter,Referral,yourself,
+526,526,Direct,Social,mind,
+527,527,Facebook,Referral,instead,
+528,528,Facebook,Referral,painting,make
+529,529,Twitter,Paid,,difficult
+530,530,Email Campaign,Organic,,
+531,531,Email Campaign,Paid,,
+532,532,Email Campaign,Referral,,
+533,533,Twitter,Referral,,
+534,534,Direct,Referral,effect,
+535,535,Direct,Paid,yes,show
+536,536,Direct,Referral,probably,
+537,537,Google,Referral,today,
+538,538,Direct,Social,everyone,
+539,539,Email Campaign,Social,no,ok
+540,540,Twitter,Referral,,
+541,541,Twitter,Referral,while,past
+542,542,Direct,Organic,prove,
+543,543,Facebook,Referral,occur,new
+544,544,Facebook,Organic,,heavy
+545,545,Direct,Organic,brother,food
+546,546,Facebook,Paid,,
+547,547,Email Campaign,Organic,treatment,
+548,548,Twitter,Paid,,
+549,549,Twitter,Organic,,choose
+550,550,Direct,Organic,American,interesting
+551,551,Facebook,Social,so,
+552,552,Direct,Social,,
+553,553,Google,Organic,from,
+554,554,Direct,Referral,,
+555,555,Email Campaign,Paid,certainly,
+556,556,Google,Social,good,property
+557,557,Facebook,Social,,as
+558,558,Twitter,Referral,whether,experience
+559,559,Direct,Organic,matter,
+560,560,Twitter,Referral,leader,
+561,561,Twitter,Organic,,
+562,562,Google,Paid,,
+563,563,Email Campaign,Social,politics,
+564,564,Google,Social,by,
+565,565,Facebook,Paid,key,
+566,566,Twitter,Referral,,
+567,567,Email Campaign,Social,,might
+568,568,Email Campaign,Social,movement,
+569,569,Twitter,Social,analysis,these
+570,570,Facebook,Social,order,
+571,571,Google,Organic,just,
+572,572,Twitter,Social,,
+573,573,Direct,Referral,,
+574,574,Facebook,Social,thank,
+575,575,Twitter,Social,above,
+576,576,Twitter,Social,,
+577,577,Direct,Organic,still,onto
+578,578,Facebook,Paid,,drop
+579,579,Facebook,Referral,,career
+580,580,Twitter,Organic,,
+581,581,Email Campaign,Paid,,picture
+582,582,Direct,Organic,democratic,full
+583,583,Email Campaign,Social,land,
+584,584,Direct,Organic,,physical
+585,585,Twitter,Referral,space,long
+586,586,Email Campaign,Organic,kind,major
+587,587,Direct,Social,risk,end
+588,588,Direct,Referral,option,
+589,589,Twitter,Paid,bar,
+590,590,Email Campaign,Social,west,
+591,591,Google,Social,himself,
+592,592,Twitter,Organic,,
+593,593,Google,Social,,whole
+594,594,Facebook,Organic,true,
+595,595,Google,Social,,
+596,596,Direct,Referral,,response
+597,597,Twitter,Referral,sit,
+598,598,Email Campaign,Referral,leave,
+599,599,Twitter,Paid,,
+600,600,Email Campaign,Social,later,five
+601,601,Email Campaign,Referral,,
+602,602,Facebook,Social,,
+603,603,Facebook,Paid,,machine
+604,604,Twitter,Social,purpose,
+605,605,Google,Paid,central,
+606,606,Email Campaign,Social,just,
+607,607,Email Campaign,Organic,,
+608,608,Email Campaign,Social,,eye
+609,609,Facebook,Referral,,better
+610,610,Direct,Referral,,
+611,611,Direct,Paid,,
+612,612,Google,Paid,hair,
+613,613,Email Campaign,Social,,
+614,614,Google,Referral,,
+615,615,Facebook,Organic,else,
+616,616,Twitter,Organic,,
+617,617,Direct,Organic,,
+618,618,Twitter,Referral,manage,material
+619,619,Email Campaign,Organic,that,
+620,620,Facebook,Referral,,recently
+621,621,Direct,Social,,live
+622,622,Twitter,Social,next,
+623,623,Google,Social,technology,
+624,624,Twitter,Paid,,
+625,625,Google,Paid,then,change
+626,626,Twitter,Paid,,
+627,627,Email Campaign,Social,less,
+628,628,Email Campaign,Organic,,
+629,629,Twitter,Organic,upon,
+630,630,Facebook,Social,,behavior
+631,631,Direct,Organic,,dog
+632,632,Twitter,Social,,
+633,633,Direct,Paid,,
+634,634,Direct,Paid,,
+635,635,Facebook,Organic,,
+636,636,Email Campaign,Organic,,less
+637,637,Email Campaign,Social,,deep
+638,638,Twitter,Social,,
+639,639,Google,Social,,
+640,640,Google,Organic,,
+641,641,Twitter,Referral,,term
+642,642,Direct,Paid,language,
+643,643,Facebook,Organic,interesting,store
+644,644,Google,Organic,,reality
+645,645,Google,Referral,talk,
+646,646,Twitter,Paid,claim,
+647,647,Email Campaign,Organic,,
+648,648,Email Campaign,Organic,,
+649,649,Facebook,Paid,marriage,
+650,650,Direct,Referral,control,
+651,651,Direct,Paid,,training
+652,652,Facebook,Referral,,part
+653,653,Google,Referral,everyone,
+654,654,Facebook,Paid,,
+655,655,Google,Social,seven,
+656,656,Email Campaign,Organic,,
+657,657,Email Campaign,Referral,chance,
+658,658,Twitter,Referral,,
+659,659,Facebook,Organic,take,
+660,660,Facebook,Paid,,
+661,661,Email Campaign,Social,pull,
+662,662,Email Campaign,Paid,,
+663,663,Google,Referral,season,
+664,664,Facebook,Referral,,
+665,665,Direct,Organic,,
+666,666,Facebook,Social,,
+667,667,Facebook,Paid,,
+668,668,Facebook,Organic,,
+669,669,Direct,Referral,,
+670,670,Email Campaign,Social,,
+671,671,Facebook,Referral,sure,course
+672,672,Google,Paid,,
+673,673,Email Campaign,Social,,
+674,674,Direct,Social,politics,step
+675,675,Twitter,Organic,forward,
+676,676,Email Campaign,Social,,as
+677,677,Google,Referral,,
+678,678,Facebook,Social,door,toward
+679,679,Twitter,Referral,,fish
+680,680,Direct,Organic,shake,
+681,681,Direct,Paid,wish,war
+682,682,Facebook,Organic,,
+683,683,Google,Referral,option,
+684,684,Email Campaign,Organic,make,author
+685,685,Direct,Organic,,enough
+686,686,Facebook,Organic,check,
+687,687,Facebook,Referral,lot,
+688,688,Google,Paid,blue,
+689,689,Twitter,Referral,region,
+690,690,Direct,Paid,,push
+691,691,Facebook,Paid,,
+692,692,Google,Social,,
+693,693,Twitter,Social,,language
+694,694,Twitter,Referral,nice,
+695,695,Twitter,Organic,treatment,home
+696,696,Direct,Social,whose,
+697,697,Direct,Paid,forward,shoulder
+698,698,Facebook,Organic,pass,
+699,699,Email Campaign,Paid,evidence,
+700,700,Twitter,Paid,,
+701,701,Google,Paid,out,
+702,702,Email Campaign,Referral,,
+703,703,Facebook,Organic,,
+704,704,Direct,Referral,,artist
+705,705,Direct,Referral,political,human
+706,706,Email Campaign,Paid,,
+707,707,Email Campaign,Organic,,can
+708,708,Direct,Organic,,management
+709,709,Twitter,Social,,huge
+710,710,Google,Organic,,
+711,711,Email Campaign,Referral,marriage,there
+712,712,Email Campaign,Referral,material,
+713,713,Direct,Social,few,
+714,714,Twitter,Referral,,
+715,715,Twitter,Paid,,rate
+716,716,Email Campaign,Paid,fear,
+717,717,Direct,Social,,
+718,718,Facebook,Referral,,
+719,719,Google,Referral,three,
+720,720,Google,Paid,indeed,
+721,721,Facebook,Social,,
+722,722,Twitter,Social,anything,history
+723,723,Twitter,Organic,road,
+724,724,Facebook,Paid,capital,
+725,725,Direct,Organic,upon,
+726,726,Twitter,Social,even,
+727,727,Twitter,Paid,admit,
+728,728,Twitter,Social,level,food
+729,729,Twitter,Social,,
+730,730,Facebook,Referral,,
+731,731,Direct,Paid,forward,improve
+732,732,Google,Paid,result,parent
+733,733,Twitter,Social,,
+734,734,Twitter,Referral,health,
+735,735,Twitter,Social,,
+736,736,Google,Referral,,
+737,737,Twitter,Organic,,successful
+738,738,Direct,Paid,,
+739,739,Facebook,Organic,,
+740,740,Twitter,Social,,
+741,741,Google,Organic,,
+742,742,Facebook,Social,produce,
+743,743,Facebook,Organic,,
+744,744,Facebook,Organic,,
+745,745,Twitter,Referral,,
+746,746,Direct,Referral,follow,relationship
+747,747,Twitter,Paid,interest,
+748,748,Direct,Social,hope,
+749,749,Email Campaign,Organic,magazine,
+750,750,Direct,Social,what,lose
+751,751,Twitter,Social,,question
+752,752,Google,Organic,,heart
+753,753,Direct,Paid,last,run
+754,754,Email Campaign,Paid,soon,
+755,755,Direct,Paid,reveal,what
+756,756,Twitter,Social,,
+757,757,Facebook,Organic,focus,
+758,758,Facebook,Referral,,local
+759,759,Google,Paid,,
+760,760,Email Campaign,Paid,,
+761,761,Google,Referral,,source
+762,762,Direct,Paid,ok,
+763,763,Twitter,Referral,seem,whatever
+764,764,Email Campaign,Social,,
+765,765,Direct,Referral,,
+766,766,Email Campaign,Organic,,we
+767,767,Direct,Social,,
+768,768,Email Campaign,Paid,later,
+769,769,Email Campaign,Social,,
+770,770,Twitter,Referral,,yeah
+771,771,Facebook,Social,exist,environmental
+772,772,Twitter,Paid,,
+773,773,Direct,Paid,against,
+774,774,Twitter,Social,possible,
+775,775,Twitter,Paid,,
+776,776,Twitter,Paid,night,
+777,777,Email Campaign,Organic,,
+778,778,Twitter,Paid,hear,
+779,779,Twitter,Paid,guess,
+780,780,Facebook,Paid,first,
+781,781,Twitter,Social,that,central
+782,782,Direct,Paid,response,
+783,783,Google,Organic,,factor
+784,784,Twitter,Paid,argue,
+785,785,Direct,Organic,college,crime
+786,786,Twitter,Paid,,discussion
+787,787,Direct,Organic,Congress,large
+788,788,Twitter,Paid,create,stand
+789,789,Direct,Paid,,
+790,790,Facebook,Organic,,argue
+791,791,Email Campaign,Paid,economic,parent
+792,792,Email Campaign,Referral,,
+793,793,Google,Organic,,
+794,794,Facebook,Social,cause,
+795,795,Facebook,Paid,,
+796,796,Direct,Paid,service,
+797,797,Twitter,Organic,continue,
+798,798,Direct,Organic,in,
+799,799,Email Campaign,Paid,,
+800,800,Google,Paid,special,ask
+801,801,Email Campaign,Paid,,
+802,802,Direct,Paid,,structure
+803,803,Twitter,Social,,
+804,804,Email Campaign,Organic,wide,
+805,805,Facebook,Social,throw,
+806,806,Facebook,Referral,,simple
+807,807,Email Campaign,Referral,minute,
+808,808,Direct,Referral,,
+809,809,Facebook,Social,paper,clearly
+810,810,Direct,Social,court,
+811,811,Google,Social,,day
+812,812,Twitter,Organic,,drug
+813,813,Facebook,Referral,,model
+814,814,Direct,Social,age,
+815,815,Email Campaign,Paid,always,
+816,816,Email Campaign,Social,establish,bar
+817,817,Email Campaign,Organic,,
+818,818,Google,Referral,happen,remain
+819,819,Google,Organic,course,
+820,820,Google,Paid,,perhaps
+821,821,Email Campaign,Organic,event,
+822,822,Direct,Paid,,
+823,823,Facebook,Paid,,clear
+824,824,Twitter,Organic,author,
+825,825,Facebook,Organic,her,
+826,826,Facebook,Referral,,
+827,827,Email Campaign,Organic,picture,
+828,828,Twitter,Paid,religious,
+829,829,Email Campaign,Social,oil,yes
+830,830,Facebook,Paid,security,cold
+831,831,Facebook,Social,,
+832,832,Direct,Social,teach,
+833,833,Twitter,Referral,,detail
+834,834,Email Campaign,Referral,,
+835,835,Twitter,Referral,option,
+836,836,Direct,Referral,trouble,
+837,837,Facebook,Organic,,
+838,838,Google,Referral,,
+839,839,Facebook,Referral,enjoy,
+840,840,Twitter,Organic,,
+841,841,Email Campaign,Organic,interesting,
+842,842,Google,Organic,across,
+843,843,Facebook,Paid,,explain
+844,844,Twitter,Paid,which,
+845,845,Direct,Referral,ball,
+846,846,Google,Organic,boy,
+847,847,Twitter,Organic,,moment
+848,848,Twitter,Organic,unit,
+849,849,Facebook,Organic,business,leg
+850,850,Direct,Social,maybe,
+851,851,Email Campaign,Referral,,herself
+852,852,Google,Social,,
+853,853,Google,Referral,,idea
+854,854,Facebook,Referral,history,
+855,855,Google,Organic,hundred,
+856,856,Email Campaign,Paid,,
+857,857,Google,Social,,
+858,858,Twitter,Social,,adult
+859,859,Email Campaign,Social,,never
+860,860,Email Campaign,Referral,,
+861,861,Google,Social,hospital,
+862,862,Twitter,Social,,out
+863,863,Google,Social,,
+864,864,Facebook,Paid,apply,
+865,865,Google,Referral,dog,
+866,866,Twitter,Referral,forget,get
+867,867,Facebook,Paid,hope,
+868,868,Facebook,Social,dark,
+869,869,Twitter,Paid,section,
+870,870,Google,Organic,,
+871,871,Email Campaign,Organic,world,
+872,872,Direct,Social,official,
+873,873,Direct,Referral,,
+874,874,Twitter,Paid,likely,
+875,875,Google,Organic,,
+876,876,Direct,Social,,
+877,877,Facebook,Paid,,
+878,878,Facebook,Paid,,
+879,879,Email Campaign,Paid,,structure
+880,880,Google,Referral,wait,
+881,881,Direct,Referral,,responsibility
+882,882,Google,Social,,
+883,883,Twitter,Social,,
+884,884,Google,Paid,watch,
+885,885,Email Campaign,Referral,western,answer
+886,886,Email Campaign,Organic,,
+887,887,Email Campaign,Social,safe,yet
+888,888,Email Campaign,Referral,,
+889,889,Direct,Referral,,
+890,890,Twitter,Referral,,
+891,891,Twitter,Referral,marriage,
+892,892,Twitter,Referral,rate,tell
+893,893,Google,Referral,million,
+894,894,Direct,Social,,place
+895,895,Google,Paid,,money
+896,896,Twitter,Organic,,process
+897,897,Facebook,Social,at,
+898,898,Facebook,Referral,Mr,
+899,899,Direct,Referral,say,
+900,900,Email Campaign,Organic,,
+901,901,Email Campaign,Referral,son,
+902,902,Direct,Paid,suffer,reach
+903,903,Twitter,Organic,case,
+904,904,Direct,Paid,,public
+905,905,Facebook,Referral,,environmental
+906,906,Email Campaign,Social,,
+907,907,Google,Paid,laugh,
+908,908,Direct,Social,,hear
+909,909,Direct,Paid,,consumer
+910,910,Google,Referral,,
+911,911,Google,Paid,,wrong
+912,912,Facebook,Paid,black,soldier
+913,913,Direct,Referral,sure,adult
+914,914,Direct,Organic,free,
+915,915,Twitter,Paid,send,enter
+916,916,Facebook,Social,economic,
+917,917,Google,Paid,hour,anyone
+918,918,Google,Referral,,
+919,919,Email Campaign,Paid,air,always
+920,920,Email Campaign,Paid,,
+921,921,Email Campaign,Social,single,
+922,922,Direct,Organic,plan,
+923,923,Twitter,Paid,,
+924,924,Email Campaign,Organic,,
+925,925,Google,Paid,brother,determine
+926,926,Facebook,Paid,yeah,
+927,927,Email Campaign,Referral,,
+928,928,Google,Social,,
+929,929,Google,Organic,situation,
+930,930,Google,Organic,world,
+931,931,Facebook,Organic,then,
+932,932,Facebook,Social,two,
+933,933,Google,Referral,,
+934,934,Google,Referral,,
+935,935,Email Campaign,Social,drive,
+936,936,Google,Referral,,
+937,937,Google,Paid,eat,
+938,938,Email Campaign,Organic,,whether
+939,939,Google,Social,,
+940,940,Email Campaign,Social,,
+941,941,Google,Referral,,
+942,942,Email Campaign,Paid,quickly,career
+943,943,Google,Social,,
+944,944,Direct,Social,party,
+945,945,Google,Referral,science,
+946,946,Twitter,Social,opportunity,
+947,947,Email Campaign,Social,admit,
+948,948,Facebook,Referral,ball,mouth
+949,949,Email Campaign,Organic,,
+950,950,Email Campaign,Paid,,
+951,951,Twitter,Referral,meet,
+952,952,Twitter,Organic,,yes
+953,953,Email Campaign,Organic,,war
+954,954,Twitter,Organic,,
+955,955,Direct,Paid,health,
+956,956,Facebook,Organic,,
+957,957,Facebook,Paid,,
+958,958,Twitter,Organic,fight,threat
+959,959,Direct,Social,and,case
+960,960,Email Campaign,Organic,,
+961,961,Google,Organic,,high
+962,962,Google,Organic,boy,
+963,963,Google,Referral,,
+964,964,Twitter,Paid,break,one
+965,965,Email Campaign,Referral,out,
+966,966,Email Campaign,Paid,,
+967,967,Direct,Referral,section,place
+968,968,Twitter,Social,director,
+969,969,Direct,Referral,,
+970,970,Email Campaign,Paid,current,account
+971,971,Google,Social,coach,
+972,972,Email Campaign,Social,shake,
+973,973,Google,Social,whether,
+974,974,Twitter,Social,kitchen,
+975,975,Direct,Paid,,catch
+976,976,Direct,Social,,
+977,977,Google,Organic,,really
+978,978,Google,Paid,,forget
+979,979,Direct,Social,,
+980,980,Facebook,Referral,,
+981,981,Direct,Organic,success,type
+982,982,Facebook,Referral,girl,
+983,983,Google,Social,,
+984,984,Direct,Organic,stay,
+985,985,Direct,Referral,less,
+986,986,Google,Referral,table,
+987,987,Direct,Social,,discuss
+988,988,Facebook,Referral,tough,
+989,989,Twitter,Social,whole,
+990,990,Twitter,Organic,,ten
+991,991,Google,Social,,rule
+992,992,Facebook,Social,father,
+993,993,Facebook,Organic,,church
+994,994,Facebook,Organic,similar,respond
+995,995,Email Campaign,Organic,,grow
+996,996,Email Campaign,Paid,crime,
+997,997,Facebook,Paid,,exactly
+998,998,Google,Organic,relate,
+999,999,Direct,Referral,such,and
+1000,1000,Twitter,Organic,only,
+1001,1001,Facebook,Paid,,
+1002,1002,Facebook,Referral,space,
+1003,1003,Facebook,Social,spring,
+1004,1004,Facebook,Social,just,
+1005,1005,Twitter,Organic,how,room
+1006,1006,Google,Referral,current,
+1007,1007,Facebook,Referral,lawyer,
+1008,1008,Direct,Paid,,
+1009,1009,Email Campaign,Organic,,
+1010,1010,Direct,Paid,class,
+1011,1011,Facebook,Organic,walk,
+1012,1012,Facebook,Paid,field,senior
+1013,1013,Email Campaign,Organic,,
+1014,1014,Facebook,Paid,,
+1015,1015,Direct,Referral,,their
+1016,1016,Google,Social,,
+1017,1017,Direct,Organic,stock,
+1018,1018,Google,Referral,,leave
+1019,1019,Facebook,Organic,everything,catch
+1020,1020,Twitter,Paid,,
+1021,1021,Twitter,Paid,,
+1022,1022,Direct,Paid,,
+1023,1023,Direct,Social,,resource
+1024,1024,Direct,Social,become,social
+1025,1025,Email Campaign,Organic,,
+1026,1026,Facebook,Referral,happen,
+1027,1027,Direct,Paid,,
+1028,1028,Twitter,Organic,,
+1029,1029,Google,Social,,per
+1030,1030,Google,Paid,meeting,
+1031,1031,Direct,Organic,treat,store
+1032,1032,Email Campaign,Paid,return,
+1033,1033,Facebook,Referral,,
+1034,1034,Google,Social,,
+1035,1035,Direct,Organic,,
+1036,1036,Google,Paid,career,
+1037,1037,Google,Organic,movie,however
+1038,1038,Direct,Organic,,
+1039,1039,Twitter,Paid,since,fight
+1040,1040,Email Campaign,Organic,action,
+1041,1041,Google,Social,few,
+1042,1042,Google,Social,,
+1043,1043,Facebook,Social,evidence,
+1044,1044,Facebook,Organic,,
+1045,1045,Twitter,Paid,movement,
+1046,1046,Google,Paid,,
+1047,1047,Twitter,Social,great,
+1048,1048,Email Campaign,Paid,,
+1049,1049,Direct,Organic,,
+1050,1050,Facebook,Organic,quite,fill
+1051,1051,Email Campaign,Paid,east,
+1052,1052,Email Campaign,Referral,,off
+1053,1053,Google,Referral,,
+1054,1054,Facebook,Social,,
+1055,1055,Google,Social,,
+1056,1056,Direct,Paid,,trade
+1057,1057,Twitter,Social,,
+1058,1058,Twitter,Paid,,
+1059,1059,Twitter,Organic,president,
+1060,1060,Email Campaign,Paid,we,travel
+1061,1061,Direct,Paid,,
+1062,1062,Direct,Referral,,way
+1063,1063,Email Campaign,Organic,help,positive
+1064,1064,Google,Organic,,seat
+1065,1065,Twitter,Paid,,
+1066,1066,Twitter,Organic,list,
+1067,1067,Google,Paid,,
+1068,1068,Google,Paid,,
+1069,1069,Direct,Referral,,
+1070,1070,Email Campaign,Organic,whom,likely
+1071,1071,Email Campaign,Organic,professional,
+1072,1072,Facebook,Organic,view,effect
+1073,1073,Facebook,Social,only,another
+1074,1074,Facebook,Referral,interesting,weight
+1075,1075,Google,Organic,,human
+1076,1076,Email Campaign,Paid,take,life
+1077,1077,Email Campaign,Organic,investment,
+1078,1078,Facebook,Referral,benefit,
+1079,1079,Facebook,Paid,eye,
+1080,1080,Facebook,Social,,
+1081,1081,Facebook,Referral,catch,
+1082,1082,Twitter,Social,,town
+1083,1083,Facebook,Social,interesting,
+1084,1084,Direct,Organic,,live
+1085,1085,Google,Referral,,
+1086,1086,Google,Social,culture,
+1087,1087,Facebook,Social,there,
+1088,1088,Twitter,Paid,possible,
+1089,1089,Facebook,Organic,west,
+1090,1090,Direct,Paid,,
+1091,1091,Facebook,Paid,rise,among
+1092,1092,Facebook,Organic,word,
+1093,1093,Facebook,Paid,probably,
+1094,1094,Direct,Referral,,
+1095,1095,Google,Social,,
+1096,1096,Facebook,Social,,
+1097,1097,Email Campaign,Paid,,
+1098,1098,Google,Referral,,
+1099,1099,Email Campaign,Organic,play,
+1100,1100,Twitter,Social,,
+1101,1101,Twitter,Organic,,
+1102,1102,Facebook,Social,maybe,
+1103,1103,Email Campaign,Paid,,
+1104,1104,Google,Paid,body,stuff
+1105,1105,Google,Organic,,
+1106,1106,Email Campaign,Organic,,soldier
+1107,1107,Facebook,Social,also,
+1108,1108,Twitter,Paid,,appear
+1109,1109,Google,Paid,top,
+1110,1110,Google,Organic,,
+1111,1111,Email Campaign,Paid,fire,
+1112,1112,Direct,Paid,house,
+1113,1113,Email Campaign,Social,,
+1114,1114,Direct,Social,age,
+1115,1115,Direct,Social,society,item
+1116,1116,Direct,Organic,,
+1117,1117,Direct,Referral,white,
+1118,1118,Email Campaign,Social,state,return
+1119,1119,Google,Social,,
+1120,1120,Direct,Organic,,parent
+1121,1121,Twitter,Organic,save,
+1122,1122,Email Campaign,Organic,,
+1123,1123,Direct,Social,investment,
+1124,1124,Twitter,Referral,,
+1125,1125,Google,Organic,specific,
+1126,1126,Direct,Social,unit,successful
+1127,1127,Email Campaign,Organic,worker,
+1128,1128,Direct,Social,force,
+1129,1129,Twitter,Organic,,
+1130,1130,Google,Organic,,
+1131,1131,Twitter,Referral,today,
+1132,1132,Google,Social,need,
+1133,1133,Twitter,Organic,,
+1134,1134,Email Campaign,Paid,music,
+1135,1135,Twitter,Social,choose,
+1136,1136,Direct,Referral,,
+1137,1137,Twitter,Social,,
+1138,1138,Twitter,Social,start,
+1139,1139,Facebook,Social,arrive,
+1140,1140,Direct,Social,,on
+1141,1141,Facebook,Referral,,
+1142,1142,Google,Organic,,
+1143,1143,Twitter,Referral,,
+1144,1144,Google,Social,follow,stage
+1145,1145,Direct,Organic,suggest,mention
+1146,1146,Google,Social,husband,entire
+1147,1147,Facebook,Paid,,
+1148,1148,Google,Paid,test,
+1149,1149,Google,Organic,,do
+1150,1150,Direct,Referral,,
+1151,1151,Google,Social,fine,poor
+1152,1152,Google,Paid,,
+1153,1153,Facebook,Organic,,
+1154,1154,Direct,Referral,,
+1155,1155,Email Campaign,Social,pressure,
+1156,1156,Direct,Social,environmental,
+1157,1157,Facebook,Paid,suffer,
+1158,1158,Twitter,Referral,,research
+1159,1159,Facebook,Paid,other,spring
+1160,1160,Google,Social,,
+1161,1161,Google,Paid,prevent,matter
+1162,1162,Direct,Organic,,level
+1163,1163,Twitter,Social,,
+1164,1164,Facebook,Referral,artist,race
+1165,1165,Twitter,Organic,Congress,society
+1166,1166,Email Campaign,Paid,meeting,
+1167,1167,Twitter,Paid,,
+1168,1168,Email Campaign,Organic,,commercial
+1169,1169,Direct,Social,,
+1170,1170,Google,Organic,,create
+1171,1171,Twitter,Social,share,
+1172,1172,Direct,Referral,,
+1173,1173,Direct,Organic,,painting
+1174,1174,Google,Organic,herself,
+1175,1175,Twitter,Social,,behind
+1176,1176,Email Campaign,Organic,this,
+1177,1177,Email Campaign,Organic,,shoulder
+1178,1178,Email Campaign,Social,message,
+1179,1179,Google,Referral,them,environmental
+1180,1180,Google,Organic,,
+1181,1181,Email Campaign,Referral,,
+1182,1182,Direct,Social,,
+1183,1183,Twitter,Organic,,
+1184,1184,Facebook,Referral,current,
+1185,1185,Google,Social,,success
+1186,1186,Google,Paid,discuss,trip
+1187,1187,Direct,Paid,,
+1188,1188,Google,Paid,,light
+1189,1189,Twitter,Referral,yard,out
+1190,1190,Direct,Paid,,
+1191,1191,Google,Referral,,
+1192,1192,Google,Organic,treat,me
+1193,1193,Google,Referral,,
+1194,1194,Email Campaign,Organic,it,person
+1195,1195,Google,Referral,,
+1196,1196,Twitter,Social,behavior,prepare
+1197,1197,Twitter,Referral,exactly,
+1198,1198,Direct,Social,,
+1199,1199,Google,Organic,,
+1200,1200,Direct,Social,news,
+1201,1201,Twitter,Social,,could
+1202,1202,Facebook,Referral,local,summer
+1203,1203,Direct,Organic,television,
+1204,1204,Direct,Social,,
+1205,1205,Google,Referral,,
+1206,1206,Facebook,Organic,,
+1207,1207,Email Campaign,Social,south,
+1208,1208,Twitter,Paid,,away
+1209,1209,Email Campaign,Organic,gas,
+1210,1210,Email Campaign,Paid,,
+1211,1211,Direct,Paid,,
+1212,1212,Facebook,Referral,others,
+1213,1213,Facebook,Social,tree,
+1214,1214,Twitter,Paid,,
+1215,1215,Facebook,Social,,
+1216,1216,Facebook,Social,care,
+1217,1217,Email Campaign,Referral,,degree
+1218,1218,Facebook,Referral,present,
+1219,1219,Google,Referral,,
+1220,1220,Facebook,Organic,,
+1221,1221,Facebook,Social,require,alone
+1222,1222,Twitter,Social,tough,
+1223,1223,Email Campaign,Referral,professional,
+1224,1224,Google,Organic,,
+1225,1225,Facebook,Referral,,
+1226,1226,Twitter,Referral,,
+1227,1227,Facebook,Social,today,success
+1228,1228,Facebook,Social,,newspaper
+1229,1229,Facebook,Social,even,section
+1230,1230,Facebook,Paid,,
+1231,1231,Email Campaign,Organic,low,
+1232,1232,Email Campaign,Referral,thing,
+1233,1233,Email Campaign,Referral,,
+1234,1234,Direct,Organic,,
+1235,1235,Direct,Social,,several
+1236,1236,Google,Referral,program,financial
+1237,1237,Direct,Referral,her,
+1238,1238,Direct,Organic,even,
+1239,1239,Google,Referral,civil,
+1240,1240,Email Campaign,Referral,,beat
+1241,1241,Facebook,Referral,,
+1242,1242,Google,Social,see,
+1243,1243,Direct,Social,between,
+1244,1244,Twitter,Referral,,though
+1245,1245,Twitter,Referral,national,quite
+1246,1246,Facebook,Referral,subject,
+1247,1247,Facebook,Paid,,yet
+1248,1248,Direct,Paid,,
+1249,1249,Direct,Social,,low
+1250,1250,Facebook,Paid,garden,
+1251,1251,Twitter,Social,you,
+1252,1252,Facebook,Paid,already,team
+1253,1253,Google,Social,institution,
+1254,1254,Google,Social,,difficult
+1255,1255,Google,Paid,,
+1256,1256,Facebook,Social,,
+1257,1257,Google,Referral,,spring
+1258,1258,Google,Paid,,
+1259,1259,Email Campaign,Organic,general,
+1260,1260,Facebook,Organic,street,
+1261,1261,Google,Social,,
+1262,1262,Google,Paid,,
+1263,1263,Facebook,Referral,,
+1264,1264,Facebook,Referral,,hotel
+1265,1265,Direct,Organic,,
+1266,1266,Facebook,Referral,interesting,network
+1267,1267,Facebook,Organic,executive,charge
+1268,1268,Email Campaign,Organic,career,
+1269,1269,Google,Organic,set,
+1270,1270,Direct,Referral,,
+1271,1271,Email Campaign,Referral,five,
+1272,1272,Direct,Organic,,
+1273,1273,Direct,Referral,,
+1274,1274,Email Campaign,Paid,memory,
+1275,1275,Twitter,Social,,method
+1276,1276,Facebook,Referral,compare,
+1277,1277,Twitter,Organic,,
+1278,1278,Facebook,Organic,system,room
+1279,1279,Email Campaign,Organic,watch,past
+1280,1280,Google,Social,,
+1281,1281,Facebook,Referral,,
+1282,1282,Twitter,Referral,technology,
+1283,1283,Facebook,Social,,entire
+1284,1284,Twitter,Social,,
+1285,1285,Email Campaign,Paid,,
+1286,1286,Twitter,Paid,,
+1287,1287,Google,Social,,
+1288,1288,Direct,Social,,
+1289,1289,Twitter,Organic,,
+1290,1290,Twitter,Referral,set,
+1291,1291,Facebook,Social,,
+1292,1292,Email Campaign,Organic,through,ability
+1293,1293,Email Campaign,Paid,care,
+1294,1294,Direct,Referral,,
+1295,1295,Google,Social,,
+1296,1296,Google,Social,,
+1297,1297,Google,Referral,,
+1298,1298,Facebook,Social,,
+1299,1299,Facebook,Organic,,
+1300,1300,Google,Social,dinner,
+1301,1301,Direct,Referral,point,civil
+1302,1302,Email Campaign,Referral,,
+1303,1303,Google,Paid,,day
+1304,1304,Twitter,Paid,realize,true
+1305,1305,Twitter,Referral,,
+1306,1306,Facebook,Social,,police
+1307,1307,Twitter,Paid,,visit
+1308,1308,Facebook,Referral,already,
+1309,1309,Twitter,Organic,if,
+1310,1310,Google,Organic,success,society
+1311,1311,Twitter,Organic,response,
+1312,1312,Twitter,Organic,,
+1313,1313,Facebook,Organic,need,
+1314,1314,Twitter,Organic,,
+1315,1315,Facebook,Referral,,
+1316,1316,Email Campaign,Paid,,current
+1317,1317,Email Campaign,Social,positive,moment
+1318,1318,Twitter,Paid,,always
+1319,1319,Email Campaign,Organic,field,
+1320,1320,Direct,Referral,,
+1321,1321,Google,Paid,,
+1322,1322,Email Campaign,Referral,hundred,
+1323,1323,Twitter,Organic,message,
+1324,1324,Direct,Referral,certainly,service
+1325,1325,Direct,Paid,rock,
+1326,1326,Email Campaign,Social,up,
+1327,1327,Email Campaign,Referral,,it
+1328,1328,Facebook,Referral,instead,
+1329,1329,Google,Organic,push,enter
+1330,1330,Email Campaign,Social,,
+1331,1331,Email Campaign,Referral,red,
+1332,1332,Twitter,Paid,,
+1333,1333,Twitter,Referral,,
+1334,1334,Direct,Organic,attention,
+1335,1335,Google,Referral,,
+1336,1336,Direct,Organic,,produce
+1337,1337,Facebook,Paid,,
+1338,1338,Email Campaign,Organic,,
+1339,1339,Twitter,Paid,,
+1340,1340,Facebook,Paid,,
+1341,1341,Email Campaign,Referral,,Democrat
+1342,1342,Direct,Paid,,
+1343,1343,Email Campaign,Paid,,
+1344,1344,Email Campaign,Organic,white,
+1345,1345,Twitter,Social,,
+1346,1346,Direct,Referral,method,
+1347,1347,Direct,Paid,,
+1348,1348,Twitter,Paid,,
+1349,1349,Twitter,Organic,,need
+1350,1350,Email Campaign,Organic,,
+1351,1351,Email Campaign,Social,,
+1352,1352,Direct,Organic,,
+1353,1353,Twitter,Social,enter,
+1354,1354,Twitter,Organic,,
+1355,1355,Twitter,Paid,skill,suddenly
+1356,1356,Google,Social,,
+1357,1357,Google,Social,,
+1358,1358,Facebook,Social,bill,
+1359,1359,Direct,Paid,,
+1360,1360,Direct,Paid,attention,program
+1361,1361,Facebook,Social,,
+1362,1362,Facebook,Social,,everybody
+1363,1363,Direct,Social,my,
+1364,1364,Twitter,Organic,answer,successful
+1365,1365,Facebook,Referral,,
+1366,1366,Twitter,Social,,
+1367,1367,Google,Paid,,
+1368,1368,Twitter,Social,so,
+1369,1369,Twitter,Social,,
+1370,1370,Email Campaign,Referral,,major
+1371,1371,Email Campaign,Paid,away,
+1372,1372,Twitter,Referral,,
+1373,1373,Google,Referral,drug,door
+1374,1374,Direct,Organic,might,capital
+1375,1375,Direct,Referral,,
+1376,1376,Direct,Organic,radio,
+1377,1377,Twitter,Organic,claim,
+1378,1378,Direct,Paid,,
+1379,1379,Direct,Referral,,
+1380,1380,Email Campaign,Organic,field,
+1381,1381,Email Campaign,Referral,,
+1382,1382,Facebook,Paid,win,worker
+1383,1383,Email Campaign,Paid,population,
+1384,1384,Facebook,Paid,,street
+1385,1385,Twitter,Social,century,
+1386,1386,Facebook,Paid,human,
+1387,1387,Google,Paid,coach,
+1388,1388,Twitter,Social,,
+1389,1389,Direct,Referral,,
+1390,1390,Email Campaign,Social,,
+1391,1391,Facebook,Social,grow,
+1392,1392,Email Campaign,Referral,,
+1393,1393,Twitter,Organic,guess,
+1394,1394,Twitter,Referral,family,
+1395,1395,Direct,Paid,reason,born
+1396,1396,Google,Referral,mouth,
+1397,1397,Twitter,Organic,,
+1398,1398,Direct,Organic,,
+1399,1399,Google,Organic,measure,
+1400,1400,Email Campaign,Social,ever,
+1401,1401,Twitter,Social,southern,trial
+1402,1402,Email Campaign,Organic,,
+1403,1403,Google,Organic,threat,
+1404,1404,Direct,Social,eight,
+1405,1405,Email Campaign,Organic,fly,act
+1406,1406,Twitter,Referral,large,
+1407,1407,Direct,Paid,understand,
+1408,1408,Facebook,Organic,,
+1409,1409,Google,Paid,get,process
+1410,1410,Google,Organic,,
+1411,1411,Google,Social,call,
+1412,1412,Facebook,Paid,start,yet
+1413,1413,Twitter,Referral,,
+1414,1414,Direct,Referral,dinner,
+1415,1415,Direct,Organic,,popular
+1416,1416,Direct,Social,read,court
+1417,1417,Direct,Referral,,
+1418,1418,Google,Organic,if,
+1419,1419,Twitter,Organic,,help
+1420,1420,Twitter,Social,piece,away
+1421,1421,Facebook,Organic,method,
+1422,1422,Email Campaign,Referral,remember,responsibility
+1423,1423,Facebook,Social,hospital,card
+1424,1424,Facebook,Paid,strong,
+1425,1425,Google,Referral,,
+1426,1426,Facebook,Social,administration,
+1427,1427,Facebook,Paid,,
+1428,1428,Facebook,Referral,financial,until
+1429,1429,Email Campaign,Paid,rather,allow
+1430,1430,Google,Organic,,
+1431,1431,Direct,Social,,
+1432,1432,Google,Social,,environmental
+1433,1433,Facebook,Referral,executive,shoulder
+1434,1434,Email Campaign,Organic,,
+1435,1435,Twitter,Social,prepare,necessary
+1436,1436,Direct,Paid,,
+1437,1437,Facebook,Organic,,
+1438,1438,Direct,Paid,,
+1439,1439,Google,Social,,
+1440,1440,Google,Paid,,gas
+1441,1441,Facebook,Paid,,
+1442,1442,Google,Social,,
+1443,1443,Google,Paid,skill,right
+1444,1444,Facebook,Referral,try,
+1445,1445,Google,Referral,yeah,
+1446,1446,Email Campaign,Referral,our,different
+1447,1447,Google,Referral,,focus
+1448,1448,Google,Paid,out,particular
+1449,1449,Email Campaign,Referral,program,
+1450,1450,Facebook,Organic,,one
+1451,1451,Direct,Social,little,
+1452,1452,Twitter,Social,,
+1453,1453,Facebook,Social,although,
+1454,1454,Facebook,Social,standard,
+1455,1455,Google,Paid,live,
+1456,1456,Email Campaign,Paid,sea,
+1457,1457,Direct,Organic,major,road
+1458,1458,Facebook,Paid,,
+1459,1459,Twitter,Social,feeling,
+1460,1460,Facebook,Social,,be
+1461,1461,Direct,Paid,,
+1462,1462,Google,Organic,place,
+1463,1463,Direct,Referral,,hope
+1464,1464,Google,Social,here,
+1465,1465,Twitter,Referral,check,painting
+1466,1466,Twitter,Social,I,
+1467,1467,Google,Paid,treatment,
+1468,1468,Direct,Paid,various,
+1469,1469,Google,Social,huge,
+1470,1470,Twitter,Paid,,sell
+1471,1471,Email Campaign,Paid,stock,
+1472,1472,Facebook,Paid,remain,
+1473,1473,Direct,Social,picture,
+1474,1474,Direct,Referral,,forget
+1475,1475,Direct,Organic,,population
+1476,1476,Facebook,Social,,
+1477,1477,Twitter,Paid,,
+1478,1478,Google,Referral,,
+1479,1479,Google,Paid,face,yet
+1480,1480,Google,Paid,,
+1481,1481,Twitter,Referral,live,
+1482,1482,Email Campaign,Referral,,
+1483,1483,Direct,Referral,,
+1484,1484,Twitter,Paid,school,
+1485,1485,Google,Paid,,
+1486,1486,Google,Social,,
+1487,1487,Facebook,Social,,month
+1488,1488,Direct,Social,consider,
+1489,1489,Twitter,Referral,TV,
+1490,1490,Direct,Social,water,before
+1491,1491,Google,Social,,yard
+1492,1492,Email Campaign,Paid,each,
+1493,1493,Twitter,Paid,others,president
+1494,1494,Email Campaign,Paid,,involve
+1495,1495,Email Campaign,Paid,notice,yet
+1496,1496,Facebook,Organic,spring,
+1497,1497,Facebook,Social,,
+1498,1498,Email Campaign,Organic,,baby
+1499,1499,Google,Organic,,
+1500,1500,Direct,Paid,,
+1501,1501,Direct,Referral,old,
+1502,1502,Twitter,Referral,develop,trouble
+1503,1503,Email Campaign,Organic,,
+1504,1504,Direct,Referral,democratic,system
+1505,1505,Direct,Social,hit,
+1506,1506,Direct,Organic,,
+1507,1507,Google,Referral,,
+1508,1508,Twitter,Referral,might,
+1509,1509,Facebook,Organic,red,yourself
+1510,1510,Google,Social,,
+1511,1511,Facebook,Referral,heart,
+1512,1512,Google,Social,,answer
+1513,1513,Google,Paid,tax,television
+1514,1514,Direct,Referral,prepare,share
+1515,1515,Facebook,Social,such,
+1516,1516,Direct,Paid,describe,bill
+1517,1517,Direct,Social,,seek
+1518,1518,Twitter,Organic,item,
+1519,1519,Direct,Organic,,
+1520,1520,Email Campaign,Social,stop,
+1521,1521,Facebook,Paid,,reason
+1522,1522,Google,Referral,,
+1523,1523,Direct,Paid,,
+1524,1524,Google,Organic,similar,
+1525,1525,Facebook,Paid,,
+1526,1526,Google,Referral,,
+1527,1527,Google,Social,traditional,
+1528,1528,Twitter,Organic,style,
+1529,1529,Direct,Paid,deep,
+1530,1530,Facebook,Referral,catch,event
+1531,1531,Direct,Referral,positive,
+1532,1532,Facebook,Referral,nice,
+1533,1533,Google,Paid,,
+1534,1534,Email Campaign,Organic,no,
+1535,1535,Email Campaign,Social,,
+1536,1536,Google,Organic,,majority
+1537,1537,Email Campaign,Social,,
+1538,1538,Facebook,Organic,onto,
+1539,1539,Google,Paid,film,
+1540,1540,Direct,Referral,,
+1541,1541,Direct,Paid,,
+1542,1542,Direct,Social,worker,
+1543,1543,Facebook,Social,,
+1544,1544,Email Campaign,Social,,
+1545,1545,Email Campaign,Referral,action,
+1546,1546,Twitter,Paid,,
+1547,1547,Twitter,Paid,possible,
+1548,1548,Google,Referral,,
+1549,1549,Email Campaign,Organic,,personal
+1550,1550,Facebook,Organic,,between
+1551,1551,Email Campaign,Paid,success,tend
+1552,1552,Google,Social,language,
+1553,1553,Facebook,Organic,economy,
+1554,1554,Direct,Social,,few
+1555,1555,Direct,Referral,,
+1556,1556,Google,Social,,
+1557,1557,Facebook,Organic,,
+1558,1558,Direct,Organic,,
+1559,1559,Direct,Social,collection,
+1560,1560,Direct,Referral,particularly,
+1561,1561,Twitter,Social,weight,
+1562,1562,Twitter,Social,spring,
+1563,1563,Google,Organic,idea,
+1564,1564,Twitter,Paid,,
+1565,1565,Email Campaign,Organic,part,
+1566,1566,Email Campaign,Social,,
+1567,1567,Email Campaign,Social,,audience
+1568,1568,Google,Social,article,suddenly
+1569,1569,Direct,Social,moment,
+1570,1570,Google,Social,,agreement
+1571,1571,Facebook,Referral,,too
+1572,1572,Google,Paid,,campaign
+1573,1573,Google,Paid,between,
+1574,1574,Email Campaign,Social,for,yard
+1575,1575,Direct,Organic,week,research
+1576,1576,Google,Referral,many,analysis
+1577,1577,Google,Social,,
+1578,1578,Direct,Paid,less,
+1579,1579,Facebook,Organic,,right
+1580,1580,Direct,Social,check,community
+1581,1581,Twitter,Organic,,
+1582,1582,Facebook,Referral,,drive
+1583,1583,Google,Social,,
+1584,1584,Twitter,Organic,moment,above
+1585,1585,Email Campaign,Organic,,
+1586,1586,Facebook,Social,,
+1587,1587,Twitter,Referral,,camera
+1588,1588,Email Campaign,Paid,natural,
+1589,1589,Facebook,Social,lot,run
+1590,1590,Google,Referral,,
+1591,1591,Facebook,Social,,
+1592,1592,Facebook,Organic,try,edge
+1593,1593,Email Campaign,Referral,popular,
+1594,1594,Google,Organic,,
+1595,1595,Google,Organic,mouth,another
+1596,1596,Facebook,Paid,,page
+1597,1597,Direct,Paid,,agency
+1598,1598,Twitter,Referral,event,structure
+1599,1599,Facebook,Paid,research,play
+1600,1600,Twitter,Organic,Congress,
+1601,1601,Email Campaign,Social,break,
+1602,1602,Twitter,Organic,,develop
+1603,1603,Twitter,Referral,,
+1604,1604,Email Campaign,Referral,age,
+1605,1605,Google,Paid,,
+1606,1606,Direct,Paid,,
+1607,1607,Email Campaign,Organic,,lay
+1608,1608,Email Campaign,Paid,theory,
+1609,1609,Email Campaign,Organic,play,
+1610,1610,Email Campaign,Organic,,
+1611,1611,Direct,Paid,,
+1612,1612,Direct,Social,,
+1613,1613,Direct,Organic,,somebody
+1614,1614,Facebook,Organic,,
+1615,1615,Twitter,Social,,
+1616,1616,Twitter,Paid,recent,fill
+1617,1617,Facebook,Paid,,
+1618,1618,Email Campaign,Social,,
+1619,1619,Google,Organic,indicate,
+1620,1620,Email Campaign,Referral,,market
+1621,1621,Direct,Social,support,without
+1622,1622,Facebook,Paid,,follow
+1623,1623,Facebook,Referral,parent,
+1624,1624,Google,Social,order,
+1625,1625,Twitter,Referral,,
+1626,1626,Direct,Referral,letter,form
+1627,1627,Facebook,Organic,case,
+1628,1628,Google,Paid,officer,
+1629,1629,Direct,Referral,,fast
+1630,1630,Facebook,Social,region,wide
+1631,1631,Google,Referral,investment,
+1632,1632,Direct,Social,,
+1633,1633,Google,Social,,
+1634,1634,Direct,Referral,human,control
+1635,1635,Facebook,Organic,,
+1636,1636,Direct,Organic,none,
+1637,1637,Facebook,Organic,,agreement
+1638,1638,Direct,Paid,,
+1639,1639,Twitter,Paid,,
+1640,1640,Facebook,Organic,,eye
+1641,1641,Twitter,Social,option,
+1642,1642,Google,Referral,,
+1643,1643,Google,Paid,place,her
+1644,1644,Direct,Social,such,
+1645,1645,Email Campaign,Referral,board,
+1646,1646,Email Campaign,Organic,,
+1647,1647,Twitter,Organic,,
+1648,1648,Twitter,Referral,,
+1649,1649,Direct,Paid,,
+1650,1650,Direct,Referral,,
+1651,1651,Google,Social,,character
+1652,1652,Facebook,Paid,,
+1653,1653,Facebook,Social,each,debate
+1654,1654,Direct,Social,,even
+1655,1655,Google,Social,mind,add
+1656,1656,Facebook,Paid,,
+1657,1657,Email Campaign,Paid,develop,
+1658,1658,Email Campaign,Paid,,
+1659,1659,Google,Social,,eye
+1660,1660,Direct,Organic,watch,when
+1661,1661,Direct,Paid,,
+1662,1662,Email Campaign,Referral,,
+1663,1663,Twitter,Paid,maybe,yeah
+1664,1664,Facebook,Referral,at,community
+1665,1665,Direct,Organic,eye,receive
+1666,1666,Facebook,Social,,
+1667,1667,Twitter,Organic,,until
+1668,1668,Email Campaign,Organic,little,area
+1669,1669,Email Campaign,Referral,show,process
+1670,1670,Twitter,Social,west,
+1671,1671,Email Campaign,Referral,,
+1672,1672,Facebook,Referral,,
+1673,1673,Direct,Referral,,
+1674,1674,Direct,Social,station,body
+1675,1675,Google,Social,,entire
+1676,1676,Direct,Organic,,
+1677,1677,Google,Paid,,
+1678,1678,Google,Organic,,
+1679,1679,Direct,Organic,,
+1680,1680,Google,Referral,he,music
+1681,1681,Google,Social,,through
+1682,1682,Google,Referral,,
+1683,1683,Twitter,Organic,through,
+1684,1684,Twitter,Paid,,
+1685,1685,Email Campaign,Organic,want,
+1686,1686,Twitter,Social,citizen,
+1687,1687,Google,Referral,,main
+1688,1688,Email Campaign,Social,,take
+1689,1689,Direct,Referral,,anything
+1690,1690,Direct,Organic,,
+1691,1691,Direct,Referral,,
+1692,1692,Facebook,Paid,friend,
+1693,1693,Email Campaign,Referral,,
+1694,1694,Direct,Referral,,
+1695,1695,Twitter,Paid,too,
+1696,1696,Google,Paid,,
+1697,1697,Twitter,Referral,concern,group
+1698,1698,Email Campaign,Organic,,
+1699,1699,Facebook,Paid,,
+1700,1700,Email Campaign,Social,,
+1701,1701,Google,Social,,certainly
+1702,1702,Facebook,Referral,,
+1703,1703,Email Campaign,Organic,image,
+1704,1704,Facebook,Organic,church,
+1705,1705,Direct,Organic,,
+1706,1706,Google,Social,,everything
+1707,1707,Email Campaign,Social,,
+1708,1708,Twitter,Social,,
+1709,1709,Facebook,Paid,,
+1710,1710,Direct,Organic,he,
+1711,1711,Google,Referral,,
+1712,1712,Direct,Social,director,
+1713,1713,Email Campaign,Paid,,
+1714,1714,Email Campaign,Paid,ask,audience
+1715,1715,Email Campaign,Paid,,
+1716,1716,Facebook,Referral,,they
+1717,1717,Twitter,Organic,particular,
+1718,1718,Facebook,Paid,,
+1719,1719,Direct,Organic,action,
+1720,1720,Email Campaign,Social,down,
+1721,1721,Facebook,Organic,network,for
+1722,1722,Twitter,Social,nice,tough
+1723,1723,Twitter,Referral,interview,
+1724,1724,Direct,Paid,,
+1725,1725,Google,Paid,shake,
+1726,1726,Google,Referral,,
+1727,1727,Direct,Social,he,read
+1728,1728,Google,Social,,
+1729,1729,Twitter,Paid,career,
+1730,1730,Email Campaign,Referral,try,
+1731,1731,Direct,Organic,tonight,
+1732,1732,Google,Paid,,measure
+1733,1733,Direct,Paid,brother,
+1734,1734,Twitter,Organic,,
+1735,1735,Direct,Social,,
+1736,1736,Twitter,Paid,speech,travel
+1737,1737,Direct,Organic,couple,character
+1738,1738,Google,Organic,put,
+1739,1739,Twitter,Organic,,
+1740,1740,Twitter,Referral,system,
+1741,1741,Facebook,Paid,along,
+1742,1742,Facebook,Social,,
+1743,1743,Twitter,Referral,,view
+1744,1744,Twitter,Referral,,
+1745,1745,Twitter,Organic,cut,
+1746,1746,Google,Social,field,
+1747,1747,Facebook,Referral,one,
+1748,1748,Email Campaign,Paid,total,
+1749,1749,Direct,Referral,,
+1750,1750,Facebook,Referral,natural,
+1751,1751,Facebook,Organic,out,
+1752,1752,Google,Organic,,
+1753,1753,Google,Organic,outside,single
+1754,1754,Facebook,Paid,deep,
+1755,1755,Direct,Organic,,
+1756,1756,Twitter,Paid,call,citizen
+1757,1757,Email Campaign,Organic,assume,
+1758,1758,Direct,Organic,,
+1759,1759,Direct,Organic,human,follow
+1760,1760,Facebook,Referral,,
+1761,1761,Email Campaign,Organic,,
+1762,1762,Facebook,Social,,
+1763,1763,Email Campaign,Organic,outside,
+1764,1764,Google,Organic,,threat
+1765,1765,Email Campaign,Social,,
+1766,1766,Email Campaign,Referral,side,
+1767,1767,Direct,Social,science,
+1768,1768,Facebook,Organic,fact,
+1769,1769,Twitter,Referral,,
+1770,1770,Twitter,Referral,cut,especially
+1771,1771,Email Campaign,Social,,
+1772,1772,Twitter,Paid,,
+1773,1773,Email Campaign,Referral,fast,
+1774,1774,Facebook,Paid,,fund
+1775,1775,Twitter,Organic,arm,
+1776,1776,Twitter,Referral,,
+1777,1777,Email Campaign,Paid,poor,
+1778,1778,Direct,Referral,,general
+1779,1779,Direct,Paid,hot,
+1780,1780,Direct,Social,I,education
+1781,1781,Email Campaign,Paid,,
+1782,1782,Direct,Organic,,
+1783,1783,Direct,Referral,,
+1784,1784,Google,Organic,receive,
+1785,1785,Facebook,Social,opportunity,
+1786,1786,Facebook,Paid,business,
+1787,1787,Email Campaign,Social,,around
+1788,1788,Direct,Referral,film,
+1789,1789,Email Campaign,Referral,,
+1790,1790,Facebook,Social,,
+1791,1791,Email Campaign,Organic,,
+1792,1792,Google,Social,,
+1793,1793,Direct,Social,,
+1794,1794,Google,Referral,,
+1795,1795,Direct,Social,near,
+1796,1796,Facebook,Organic,,old
+1797,1797,Direct,Referral,,yard
+1798,1798,Facebook,Organic,perform,
+1799,1799,Twitter,Social,,newspaper
+1800,1800,Twitter,Referral,,
+1801,1801,Google,Social,,
+1802,1802,Email Campaign,Paid,,
+1803,1803,Facebook,Referral,,
+1804,1804,Twitter,Referral,station,level
+1805,1805,Google,Social,letter,charge
+1806,1806,Email Campaign,Organic,,
+1807,1807,Google,Social,notice,
+1808,1808,Twitter,Organic,,
+1809,1809,Twitter,Paid,,her
+1810,1810,Facebook,Referral,,
+1811,1811,Google,Social,professor,
+1812,1812,Facebook,Social,you,program
+1813,1813,Twitter,Referral,,
+1814,1814,Facebook,Social,employee,
+1815,1815,Direct,Organic,hospital,role
+1816,1816,Email Campaign,Referral,whole,
+1817,1817,Email Campaign,Organic,,
+1818,1818,Email Campaign,Referral,woman,
+1819,1819,Twitter,Organic,kid,
+1820,1820,Email Campaign,Organic,certainly,
+1821,1821,Twitter,Referral,,
+1822,1822,Google,Referral,stay,
+1823,1823,Direct,Organic,price,
+1824,1824,Direct,Paid,,
+1825,1825,Twitter,Organic,,
+1826,1826,Direct,Social,,job
+1827,1827,Email Campaign,Referral,,
+1828,1828,Email Campaign,Social,probably,myself
+1829,1829,Email Campaign,Referral,name,
+1830,1830,Facebook,Referral,five,
+1831,1831,Twitter,Paid,avoid,
+1832,1832,Google,Social,,
+1833,1833,Direct,Referral,word,
+1834,1834,Email Campaign,Organic,attention,ago
+1835,1835,Google,Organic,,
+1836,1836,Direct,Social,describe,
+1837,1837,Google,Referral,good,where
+1838,1838,Direct,Social,,
+1839,1839,Facebook,Referral,,
+1840,1840,Facebook,Social,quality,
+1841,1841,Facebook,Referral,,
+1842,1842,Direct,Paid,,certain
+1843,1843,Facebook,Paid,,
+1844,1844,Direct,Paid,,
+1845,1845,Direct,Paid,floor,
+1846,1846,Direct,Paid,form,
+1847,1847,Direct,Paid,mean,
+1848,1848,Email Campaign,Organic,question,
+1849,1849,Email Campaign,Organic,still,
+1850,1850,Google,Referral,very,
+1851,1851,Twitter,Referral,travel,
+1852,1852,Email Campaign,Paid,,
+1853,1853,Twitter,Referral,allow,before
+1854,1854,Google,Social,technology,
+1855,1855,Google,Organic,,
+1856,1856,Google,Organic,above,
+1857,1857,Facebook,Paid,record,
+1858,1858,Direct,Social,,
+1859,1859,Twitter,Paid,kitchen,ahead
+1860,1860,Facebook,Organic,traditional,
+1861,1861,Direct,Social,remember,
+1862,1862,Google,Social,leg,
+1863,1863,Facebook,Referral,,
+1864,1864,Facebook,Social,,
+1865,1865,Google,Organic,hand,
+1866,1866,Email Campaign,Organic,,
+1867,1867,Google,Referral,at,
+1868,1868,Direct,Social,may,
+1869,1869,Email Campaign,Referral,book,
+1870,1870,Email Campaign,Paid,into,social
+1871,1871,Facebook,Paid,,avoid
+1872,1872,Google,Organic,themselves,could
+1873,1873,Google,Paid,,
+1874,1874,Facebook,Social,,
+1875,1875,Direct,Paid,,
+1876,1876,Twitter,Referral,nor,
+1877,1877,Google,Paid,star,
+1878,1878,Twitter,Organic,phone,
+1879,1879,Twitter,Social,show,thought
+1880,1880,Email Campaign,Organic,race,
+1881,1881,Facebook,Social,,significant
+1882,1882,Direct,Social,performance,
+1883,1883,Google,Paid,,
+1884,1884,Facebook,Social,,
+1885,1885,Direct,Referral,model,season
+1886,1886,Facebook,Paid,can,
+1887,1887,Facebook,Social,building,only
+1888,1888,Facebook,Paid,,
+1889,1889,Google,Social,,amount
+1890,1890,Direct,Organic,,story
+1891,1891,Twitter,Referral,,
+1892,1892,Direct,Paid,agency,
+1893,1893,Google,Referral,as,
+1894,1894,Twitter,Referral,perhaps,
+1895,1895,Facebook,Paid,realize,
+1896,1896,Direct,Social,,
+1897,1897,Email Campaign,Paid,,
+1898,1898,Twitter,Social,actually,official
+1899,1899,Google,Organic,,
+1900,1900,Google,Organic,,
+1901,1901,Facebook,Social,them,color
+1902,1902,Twitter,Social,commercial,
+1903,1903,Google,Referral,poor,
+1904,1904,Twitter,Paid,,
+1905,1905,Twitter,Referral,,others
+1906,1906,Google,Social,,
+1907,1907,Email Campaign,Organic,reduce,bad
+1908,1908,Twitter,Social,,land
+1909,1909,Email Campaign,Paid,,
+1910,1910,Direct,Referral,us,live
+1911,1911,Google,Social,artist,
+1912,1912,Facebook,Organic,action,
+1913,1913,Twitter,Social,,matter
+1914,1914,Direct,Social,pressure,
+1915,1915,Email Campaign,Paid,traditional,
+1916,1916,Direct,Organic,court,deal
+1917,1917,Email Campaign,Organic,usually,
+1918,1918,Email Campaign,Paid,,
+1919,1919,Google,Organic,across,
+1920,1920,Twitter,Organic,laugh,
+1921,1921,Facebook,Paid,team,
+1922,1922,Email Campaign,Paid,attention,
+1923,1923,Google,Paid,investment,senior
+1924,1924,Twitter,Referral,,star
+1925,1925,Direct,Referral,,
+1926,1926,Facebook,Social,choice,
+1927,1927,Facebook,Social,magazine,nothing
+1928,1928,Email Campaign,Social,field,hour
+1929,1929,Facebook,Referral,chance,
+1930,1930,Twitter,Organic,,
+1931,1931,Twitter,Paid,woman,
+1932,1932,Direct,Social,,
+1933,1933,Google,Organic,less,
+1934,1934,Facebook,Organic,night,probably
+1935,1935,Direct,Organic,,
+1936,1936,Direct,Paid,,
+1937,1937,Direct,Referral,,
+1938,1938,Facebook,Social,peace,
+1939,1939,Twitter,Referral,,
+1940,1940,Facebook,Social,between,available
+1941,1941,Direct,Social,really,little
+1942,1942,Twitter,Paid,process,
+1943,1943,Twitter,Paid,allow,
+1944,1944,Facebook,Social,,under
+1945,1945,Google,Organic,open,
+1946,1946,Google,Paid,,material
+1947,1947,Email Campaign,Referral,standard,
+1948,1948,Twitter,Paid,author,per
+1949,1949,Google,Paid,single,
+1950,1950,Email Campaign,Referral,policy,
+1951,1951,Email Campaign,Social,,
+1952,1952,Google,Referral,unit,certainly
+1953,1953,Email Campaign,Referral,,
+1954,1954,Twitter,Paid,,
+1955,1955,Direct,Referral,wonder,
+1956,1956,Twitter,Organic,own,
+1957,1957,Direct,Social,,
+1958,1958,Twitter,Referral,,
+1959,1959,Email Campaign,Referral,,
+1960,1960,Facebook,Organic,,
+1961,1961,Facebook,Social,leader,
+1962,1962,Email Campaign,Referral,,
+1963,1963,Google,Paid,financial,
+1964,1964,Twitter,Organic,drug,
+1965,1965,Direct,Paid,,
+1966,1966,Direct,Paid,,poor
+1967,1967,Twitter,Paid,beyond,
+1968,1968,Twitter,Referral,vote,
+1969,1969,Direct,Social,,
+1970,1970,Twitter,Referral,,risk
+1971,1971,Google,Social,who,
+1972,1972,Facebook,Paid,suggest,
+1973,1973,Google,Social,,
+1974,1974,Facebook,Referral,quite,
+1975,1975,Facebook,Referral,free,
+1976,1976,Email Campaign,Organic,,
+1977,1977,Email Campaign,Social,,
+1978,1978,Facebook,Paid,,
+1979,1979,Google,Referral,,
+1980,1980,Google,Organic,hotel,respond
+1981,1981,Facebook,Social,home,
+1982,1982,Facebook,Social,ten,course
+1983,1983,Twitter,Referral,admit,
+1984,1984,Twitter,Organic,interesting,third
+1985,1985,Facebook,Referral,,
+1986,1986,Email Campaign,Organic,,report
+1987,1987,Email Campaign,Social,scene,
+1988,1988,Direct,Paid,low,he
+1989,1989,Direct,Social,,
+1990,1990,Google,Social,,
+1991,1991,Facebook,Paid,do,
+1992,1992,Facebook,Social,,
+1993,1993,Email Campaign,Paid,,
+1994,1994,Facebook,Organic,interest,
+1995,1995,Email Campaign,Paid,middle,
+1996,1996,Facebook,Paid,red,consider
+1997,1997,Facebook,Paid,ever,against
+1998,1998,Email Campaign,Organic,thing,
+1999,1999,Twitter,Organic,within,
+2000,2000,Direct,Organic,,
+2001,2001,Twitter,Social,any,
+2002,2002,Email Campaign,Organic,,
+2003,2003,Email Campaign,Paid,admit,
+2004,2004,Direct,Organic,beautiful,
+2005,2005,Direct,Organic,sense,
+2006,2006,Email Campaign,Referral,worry,
+2007,2007,Facebook,Social,free,
+2008,2008,Facebook,Social,,
+2009,2009,Facebook,Referral,,
+2010,2010,Twitter,Organic,,away
+2011,2011,Facebook,Social,,next
+2012,2012,Facebook,Referral,,
+2013,2013,Email Campaign,Organic,result,
+2014,2014,Google,Referral,,
+2015,2015,Google,Organic,industry,
+2016,2016,Google,Referral,,agree
+2017,2017,Facebook,Referral,,
+2018,2018,Facebook,Paid,choice,clear
+2019,2019,Twitter,Paid,,
+2020,2020,Facebook,Social,,
+2021,2021,Twitter,Organic,,
+2022,2022,Twitter,Paid,peace,tell
+2023,2023,Facebook,Organic,director,run
+2024,2024,Email Campaign,Paid,,
+2025,2025,Twitter,Organic,,collection
+2026,2026,Email Campaign,Organic,,
+2027,2027,Twitter,Social,,town
+2028,2028,Facebook,Social,,new
+2029,2029,Google,Social,ten,church
+2030,2030,Twitter,Referral,activity,age
+2031,2031,Facebook,Referral,heavy,
+2032,2032,Direct,Paid,military,
+2033,2033,Facebook,Social,federal,
+2034,2034,Facebook,Paid,another,your
+2035,2035,Direct,Social,,
+2036,2036,Direct,Referral,travel,
+2037,2037,Direct,Organic,,
+2038,2038,Facebook,Paid,,
+2039,2039,Google,Social,player,
+2040,2040,Direct,Referral,dark,government
+2041,2041,Email Campaign,Social,field,
+2042,2042,Email Campaign,Paid,,design
+2043,2043,Direct,Social,,fish
+2044,2044,Google,Organic,,heavy
+2045,2045,Google,Organic,help,
+2046,2046,Google,Paid,,
+2047,2047,Direct,Paid,,still
+2048,2048,Twitter,Paid,,crime
+2049,2049,Twitter,Paid,,
+2050,2050,Google,Referral,,
+2051,2051,Twitter,Organic,,
+2052,2052,Email Campaign,Paid,of,report
+2053,2053,Direct,Paid,particularly,check
+2054,2054,Facebook,Paid,,
+2055,2055,Email Campaign,Social,,
+2056,2056,Direct,Social,,
+2057,2057,Email Campaign,Referral,,
+2058,2058,Facebook,Organic,,
+2059,2059,Email Campaign,Referral,common,bill
+2060,2060,Direct,Social,,
+2061,2061,Twitter,Paid,fly,project
+2062,2062,Direct,Paid,,really
+2063,2063,Twitter,Paid,for,
+2064,2064,Direct,Social,herself,
+2065,2065,Facebook,Social,,recognize
+2066,2066,Twitter,Organic,your,
+2067,2067,Google,Organic,condition,stock
+2068,2068,Twitter,Paid,,prove
+2069,2069,Google,Referral,,
+2070,2070,Google,Organic,,gas
+2071,2071,Direct,Organic,author,might
+2072,2072,Google,Referral,,
+2073,2073,Facebook,Paid,,
+2074,2074,Twitter,Organic,,
+2075,2075,Email Campaign,Referral,nice,however
+2076,2076,Twitter,Social,result,
+2077,2077,Direct,Organic,,
+2078,2078,Direct,Referral,likely,central
+2079,2079,Facebook,Organic,program,
+2080,2080,Twitter,Organic,,
+2081,2081,Twitter,Paid,vote,
+2082,2082,Google,Social,step,
+2083,2083,Facebook,Referral,that,
+2084,2084,Google,Social,,
+2085,2085,Google,Social,pass,
+2086,2086,Email Campaign,Organic,,
+2087,2087,Twitter,Social,,
+2088,2088,Google,Organic,never,
+2089,2089,Email Campaign,Social,performance,memory
+2090,2090,Google,Organic,,
+2091,2091,Google,Paid,necessary,trouble
+2092,2092,Facebook,Paid,ask,case
+2093,2093,Twitter,Referral,director,
+2094,2094,Google,Paid,most,
+2095,2095,Google,Paid,,
+2096,2096,Direct,Paid,,
+2097,2097,Direct,Paid,yet,
+2098,2098,Email Campaign,Paid,,
+2099,2099,Google,Social,knowledge,
+2100,2100,Google,Organic,instead,war
+2101,2101,Twitter,Referral,,
+2102,2102,Email Campaign,Paid,,soon
+2103,2103,Facebook,Referral,have,represent
+2104,2104,Direct,Organic,,
+2105,2105,Facebook,Paid,customer,heavy
+2106,2106,Google,Referral,,
+2107,2107,Facebook,Social,,development
+2108,2108,Direct,Referral,,herself
+2109,2109,Twitter,Referral,daughter,
+2110,2110,Google,Paid,,
+2111,2111,Facebook,Social,,
+2112,2112,Email Campaign,Referral,imagine,
+2113,2113,Direct,Referral,,
+2114,2114,Facebook,Paid,owner,
+2115,2115,Direct,Social,,
+2116,2116,Facebook,Paid,beyond,
+2117,2117,Google,Organic,tree,
+2118,2118,Google,Paid,,
+2119,2119,Email Campaign,Referral,enjoy,
+2120,2120,Google,Social,,
+2121,2121,Google,Social,factor,activity
+2122,2122,Twitter,Paid,professional,
+2123,2123,Facebook,Social,dream,
+2124,2124,Email Campaign,Paid,,
+2125,2125,Twitter,Referral,,
+2126,2126,Direct,Referral,,
+2127,2127,Email Campaign,Paid,,
+2128,2128,Direct,Paid,seem,
+2129,2129,Twitter,Organic,,
+2130,2130,Facebook,Social,,
+2131,2131,Twitter,Referral,,
+2132,2132,Direct,Organic,success,actually
+2133,2133,Twitter,Paid,,
+2134,2134,Direct,Referral,huge,
+2135,2135,Google,Referral,international,
+2136,2136,Email Campaign,Organic,above,
+2137,2137,Email Campaign,Social,employee,
+2138,2138,Google,Organic,,
+2139,2139,Direct,Referral,painting,
+2140,2140,Facebook,Referral,,
+2141,2141,Google,Organic,,
+2142,2142,Twitter,Paid,,
+2143,2143,Twitter,Referral,,police
+2144,2144,Facebook,Paid,,
+2145,2145,Email Campaign,Referral,,
+2146,2146,Facebook,Paid,,do
+2147,2147,Email Campaign,Referral,which,
+2148,2148,Google,Organic,enter,
+2149,2149,Twitter,Organic,spend,stock
+2150,2150,Google,Paid,lay,
+2151,2151,Email Campaign,Paid,,
+2152,2152,Email Campaign,Social,,trouble
+2153,2153,Twitter,Social,may,
+2154,2154,Twitter,Social,other,possible
+2155,2155,Google,Social,beat,character
+2156,2156,Facebook,Social,,
+2157,2157,Facebook,Organic,,half
+2158,2158,Google,Referral,,poor
+2159,2159,Google,Social,,toward
+2160,2160,Google,Organic,along,instead
+2161,2161,Direct,Social,picture,
+2162,2162,Facebook,Organic,,
+2163,2163,Direct,Organic,,
+2164,2164,Email Campaign,Social,box,
+2165,2165,Email Campaign,Paid,,learn
+2166,2166,Twitter,Referral,would,available
+2167,2167,Email Campaign,Social,,
+2168,2168,Email Campaign,Organic,,feel
+2169,2169,Google,Social,,
+2170,2170,Twitter,Paid,old,
+2171,2171,Twitter,Social,,future
+2172,2172,Twitter,Social,bring,
+2173,2173,Twitter,Referral,,economy
+2174,2174,Direct,Social,cell,
+2175,2175,Email Campaign,Organic,,
+2176,2176,Twitter,Referral,,
+2177,2177,Facebook,Organic,street,
+2178,2178,Facebook,Social,,
+2179,2179,Email Campaign,Paid,necessary,he
+2180,2180,Direct,Organic,,
+2181,2181,Direct,Paid,,
+2182,2182,Facebook,Organic,live,position
+2183,2183,Facebook,Referral,your,century
+2184,2184,Twitter,Social,challenge,
+2185,2185,Facebook,Social,,price
+2186,2186,Direct,Paid,throw,
+2187,2187,Direct,Paid,,
+2188,2188,Facebook,Social,tell,
+2189,2189,Email Campaign,Social,,summer
+2190,2190,Google,Organic,section,
+2191,2191,Google,Paid,other,
+2192,2192,Twitter,Social,,
+2193,2193,Facebook,Paid,tend,
+2194,2194,Facebook,Referral,,
+2195,2195,Twitter,Referral,,
+2196,2196,Google,Social,still,throw
+2197,2197,Email Campaign,Organic,,
+2198,2198,Direct,Paid,least,
+2199,2199,Email Campaign,Organic,medical,
+2200,2200,Twitter,Organic,save,
+2201,2201,Email Campaign,Organic,,
+2202,2202,Twitter,Paid,,system
+2203,2203,Twitter,Paid,leg,
+2204,2204,Twitter,Paid,,tonight
+2205,2205,Facebook,Organic,,
+2206,2206,Google,Social,card,
+2207,2207,Direct,Referral,,
+2208,2208,Twitter,Paid,speech,
+2209,2209,Direct,Paid,,senior
+2210,2210,Direct,Organic,magazine,
+2211,2211,Twitter,Referral,,
+2212,2212,Twitter,Organic,,
+2213,2213,Google,Social,while,
+2214,2214,Twitter,Social,since,
+2215,2215,Google,Paid,wrong,
+2216,2216,Email Campaign,Paid,,
+2217,2217,Email Campaign,Paid,,
+2218,2218,Direct,Paid,town,
+2219,2219,Facebook,Paid,,
+2220,2220,Email Campaign,Referral,we,cultural
+2221,2221,Twitter,Referral,pass,human
+2222,2222,Email Campaign,Social,,
+2223,2223,Email Campaign,Social,,
+2224,2224,Email Campaign,Organic,,born
+2225,2225,Email Campaign,Paid,room,
+2226,2226,Email Campaign,Paid,,
+2227,2227,Google,Organic,,
+2228,2228,Google,Referral,bag,
+2229,2229,Direct,Paid,,
+2230,2230,Facebook,Paid,,
+2231,2231,Facebook,Organic,anyone,bring
+2232,2232,Facebook,Organic,,
+2233,2233,Email Campaign,Paid,red,
+2234,2234,Google,Paid,develop,
+2235,2235,Google,Social,,
+2236,2236,Google,Social,myself,
+2237,2237,Direct,Organic,month,
+2238,2238,Email Campaign,Social,start,
+2239,2239,Email Campaign,Organic,perform,
+2240,2240,Google,Organic,although,
+2241,2241,Direct,Organic,foot,
+2242,2242,Direct,Referral,,book
+2243,2243,Email Campaign,Organic,,professor
+2244,2244,Google,Social,morning,
+2245,2245,Facebook,Social,,
+2246,2246,Twitter,Social,plan,
+2247,2247,Direct,Referral,scientist,decade
+2248,2248,Direct,Paid,,skill
+2249,2249,Google,Referral,,hundred
+2250,2250,Google,Organic,water,
+2251,2251,Direct,Paid,,
+2252,2252,Facebook,Paid,,look
+2253,2253,Google,Paid,way,respond
+2254,2254,Email Campaign,Referral,water,
+2255,2255,Email Campaign,Organic,,
+2256,2256,Twitter,Social,want,
+2257,2257,Direct,Referral,measure,amount
+2258,2258,Twitter,Social,responsibility,
+2259,2259,Facebook,Social,,
+2260,2260,Facebook,Paid,,
+2261,2261,Facebook,Paid,hard,
+2262,2262,Email Campaign,Organic,,sense
+2263,2263,Google,Referral,glass,
+2264,2264,Direct,Referral,,
+2265,2265,Twitter,Social,office,
+2266,2266,Email Campaign,Social,memory,throw
+2267,2267,Twitter,Paid,,
+2268,2268,Direct,Referral,,house
+2269,2269,Direct,Social,,
+2270,2270,Google,Referral,,
+2271,2271,Facebook,Organic,threat,
+2272,2272,Email Campaign,Referral,,
+2273,2273,Email Campaign,Referral,,
+2274,2274,Twitter,Paid,protect,
+2275,2275,Twitter,Paid,surface,
+2276,2276,Google,Referral,,best
+2277,2277,Google,Social,,
+2278,2278,Facebook,Referral,,
+2279,2279,Google,Social,,
+2280,2280,Direct,Social,,
+2281,2281,Google,Paid,trade,few
+2282,2282,Direct,Social,economic,
+2283,2283,Facebook,Social,,
+2284,2284,Facebook,Paid,,consider
+2285,2285,Twitter,Paid,ball,edge
+2286,2286,Facebook,Paid,personal,close
+2287,2287,Email Campaign,Organic,thousand,
+2288,2288,Twitter,Paid,significant,
+2289,2289,Google,Paid,child,stage
+2290,2290,Facebook,Paid,,
+2291,2291,Facebook,Paid,its,
+2292,2292,Direct,Organic,,on
+2293,2293,Twitter,Social,,couple
+2294,2294,Twitter,Organic,soon,
+2295,2295,Direct,Organic,,
+2296,2296,Direct,Referral,notice,
+2297,2297,Direct,Social,occur,
+2298,2298,Google,Paid,,language
+2299,2299,Google,Organic,,could
+2300,2300,Email Campaign,Paid,,
+2301,2301,Email Campaign,Social,,account
+2302,2302,Direct,Social,,rather
+2303,2303,Direct,Social,none,impact
+2304,2304,Direct,Social,collection,
+2305,2305,Email Campaign,Organic,bank,blue
+2306,2306,Google,Paid,stock,
+2307,2307,Facebook,Social,,offer
+2308,2308,Facebook,Social,,
+2309,2309,Facebook,Organic,,
+2310,2310,Google,Organic,part,table
+2311,2311,Facebook,Paid,,
+2312,2312,Twitter,Paid,,
+2313,2313,Email Campaign,Organic,more,
+2314,2314,Email Campaign,Paid,,
+2315,2315,Twitter,Paid,as,though
+2316,2316,Direct,Paid,,
+2317,2317,Direct,Organic,concern,
+2318,2318,Email Campaign,Referral,like,successful
+2319,2319,Google,Organic,,
+2320,2320,Facebook,Referral,,level
+2321,2321,Facebook,Referral,,
+2322,2322,Direct,Organic,range,many
+2323,2323,Direct,Organic,election,
+2324,2324,Google,Referral,,
+2325,2325,Direct,Social,under,show
+2326,2326,Twitter,Paid,avoid,work
+2327,2327,Google,Paid,organization,leader
+2328,2328,Google,Social,,
+2329,2329,Twitter,Paid,want,
+2330,2330,Facebook,Referral,soon,spring
+2331,2331,Google,Social,,
+2332,2332,Direct,Social,only,no
+2333,2333,Direct,Referral,two,
+2334,2334,Twitter,Organic,,
+2335,2335,Email Campaign,Social,,
+2336,2336,Facebook,Organic,sister,
+2337,2337,Email Campaign,Referral,,
+2338,2338,Facebook,Organic,site,attack
+2339,2339,Direct,Organic,almost,
+2340,2340,Facebook,Referral,,Democrat
+2341,2341,Facebook,Organic,ever,
+2342,2342,Direct,Paid,,
+2343,2343,Facebook,Social,,remain
+2344,2344,Twitter,Referral,really,
+2345,2345,Twitter,Organic,difference,
+2346,2346,Twitter,Referral,,pick
+2347,2347,Google,Paid,modern,
+2348,2348,Twitter,Paid,service,
+2349,2349,Direct,Social,,
+2350,2350,Twitter,Paid,speech,
+2351,2351,Direct,Organic,imagine,child
+2352,2352,Facebook,Social,property,
+2353,2353,Google,Referral,information,difference
+2354,2354,Facebook,Paid,,
+2355,2355,Google,Paid,,
+2356,2356,Google,Referral,,wait
+2357,2357,Email Campaign,Referral,true,
+2358,2358,Google,Social,his,
+2359,2359,Twitter,Social,blood,half
+2360,2360,Facebook,Paid,,
+2361,2361,Twitter,Organic,,
+2362,2362,Email Campaign,Organic,example,
+2363,2363,Twitter,Social,,group
+2364,2364,Google,Paid,,
+2365,2365,Facebook,Organic,management,
+2366,2366,Facebook,Social,step,
+2367,2367,Facebook,Paid,top,
+2368,2368,Google,Social,,
+2369,2369,Email Campaign,Organic,,better
+2370,2370,Facebook,Referral,thousand,its
+2371,2371,Facebook,Paid,,share
+2372,2372,Twitter,Social,,character
+2373,2373,Email Campaign,Organic,,
+2374,2374,Facebook,Paid,,
+2375,2375,Google,Referral,least,statement
+2376,2376,Google,Paid,,
+2377,2377,Google,Referral,pay,
+2378,2378,Google,Social,,
+2379,2379,Email Campaign,Social,,
+2380,2380,Facebook,Paid,,
+2381,2381,Direct,Paid,worker,
+2382,2382,Facebook,Paid,student,
+2383,2383,Google,Social,,
+2384,2384,Email Campaign,Organic,,
+2385,2385,Email Campaign,Social,fund,
+2386,2386,Google,Paid,,common
+2387,2387,Email Campaign,Referral,build,road
+2388,2388,Google,Social,student,
+2389,2389,Email Campaign,Referral,,then
+2390,2390,Facebook,Referral,,
+2391,2391,Facebook,Referral,,
+2392,2392,Email Campaign,Paid,,
+2393,2393,Twitter,Referral,draw,meeting
+2394,2394,Email Campaign,Paid,draw,prepare
+2395,2395,Facebook,Referral,,
+2396,2396,Facebook,Organic,card,
+2397,2397,Twitter,Social,,
+2398,2398,Twitter,Paid,,
+2399,2399,Facebook,Social,Democrat,authority
+2400,2400,Email Campaign,Paid,,alone
+2401,2401,Direct,Social,,
+2402,2402,Twitter,Organic,piece,
+2403,2403,Email Campaign,Paid,up,
+2404,2404,Facebook,Referral,,various
+2405,2405,Facebook,Organic,,much
+2406,2406,Email Campaign,Organic,,indicate
+2407,2407,Twitter,Social,,
+2408,2408,Facebook,Referral,,
+2409,2409,Google,Paid,coach,
+2410,2410,Email Campaign,Referral,her,
+2411,2411,Google,Referral,what,
+2412,2412,Email Campaign,Paid,together,past
+2413,2413,Email Campaign,Organic,,trip
+2414,2414,Direct,Referral,,spring
+2415,2415,Twitter,Organic,reach,gas
+2416,2416,Direct,Referral,,
+2417,2417,Direct,Organic,ready,
+2418,2418,Email Campaign,Social,few,
+2419,2419,Google,Organic,,
+2420,2420,Email Campaign,Referral,character,American
+2421,2421,Facebook,Social,explain,
+2422,2422,Twitter,Organic,themselves,
+2423,2423,Google,Referral,identify,
+2424,2424,Email Campaign,Paid,,
+2425,2425,Twitter,Organic,physical,
+2426,2426,Direct,Referral,easy,
+2427,2427,Direct,Social,,
+2428,2428,Direct,Referral,,area
+2429,2429,Facebook,Referral,plan,
+2430,2430,Direct,Referral,,wind
+2431,2431,Direct,Referral,leg,gun
+2432,2432,Email Campaign,Paid,,
+2433,2433,Direct,Paid,defense,
+2434,2434,Twitter,Social,,know
+2435,2435,Direct,Paid,open,
+2436,2436,Twitter,Referral,relate,
+2437,2437,Twitter,Organic,,
+2438,2438,Google,Paid,concern,
+2439,2439,Google,Paid,their,
+2440,2440,Google,Organic,,action
+2441,2441,Direct,Paid,,
+2442,2442,Email Campaign,Organic,meeting,
+2443,2443,Google,Organic,without,ready
+2444,2444,Direct,Referral,trade,
+2445,2445,Google,Paid,behavior,
+2446,2446,Twitter,Social,here,
+2447,2447,Email Campaign,Paid,world,
+2448,2448,Twitter,Social,,
+2449,2449,Direct,Paid,,
+2450,2450,Google,Social,,
+2451,2451,Twitter,Paid,,test
+2452,2452,Direct,Paid,,
+2453,2453,Direct,Social,,make
+2454,2454,Twitter,Paid,professor,
+2455,2455,Facebook,Paid,,
+2456,2456,Facebook,Paid,prevent,
+2457,2457,Email Campaign,Organic,,
+2458,2458,Google,Organic,,
+2459,2459,Email Campaign,Social,,
+2460,2460,Direct,Paid,identify,
+2461,2461,Email Campaign,Social,,
+2462,2462,Twitter,Referral,,
+2463,2463,Facebook,Organic,life,
+2464,2464,Email Campaign,Paid,,
+2465,2465,Twitter,Paid,,drop
+2466,2466,Email Campaign,Social,,
+2467,2467,Direct,Organic,,
+2468,2468,Google,Organic,successful,
+2469,2469,Email Campaign,Social,white,
+2470,2470,Facebook,Referral,,
+2471,2471,Email Campaign,Social,continue,market
+2472,2472,Facebook,Social,need,small
+2473,2473,Direct,Referral,seven,
+2474,2474,Email Campaign,Organic,,
+2475,2475,Email Campaign,Social,citizen,
+2476,2476,Twitter,Organic,,
+2477,2477,Direct,Social,per,
+2478,2478,Facebook,Paid,,
+2479,2479,Direct,Organic,,
+2480,2480,Twitter,Social,,
+2481,2481,Google,Social,goal,
+2482,2482,Direct,Referral,administration,
+2483,2483,Email Campaign,Paid,,yard
+2484,2484,Google,Organic,get,
+2485,2485,Facebook,Referral,lose,rule
+2486,2486,Google,Social,,
+2487,2487,Email Campaign,Organic,blood,
+2488,2488,Facebook,Social,relationship,
+2489,2489,Facebook,Organic,,series
+2490,2490,Twitter,Organic,use,
+2491,2491,Google,Social,Democrat,
+2492,2492,Twitter,Paid,,every
+2493,2493,Twitter,Social,recognize,help
+2494,2494,Direct,Paid,,
+2495,2495,Google,Organic,,
+2496,2496,Google,Paid,suggest,choose
+2497,2497,Direct,Paid,,
+2498,2498,Facebook,Organic,expect,
+2499,2499,Twitter,Social,loss,
+2500,2500,Google,Referral,,positive
+2501,2501,Email Campaign,Organic,oil,
+2502,2502,Direct,Social,,
+2503,2503,Direct,Social,,hospital
+2504,2504,Facebook,Organic,computer,
+2505,2505,Google,Organic,research,dinner
+2506,2506,Twitter,Social,medical,performance
+2507,2507,Direct,Paid,,themselves
+2508,2508,Facebook,Social,without,discuss
+2509,2509,Facebook,Organic,,party
+2510,2510,Email Campaign,Organic,person,
+2511,2511,Facebook,Paid,,
+2512,2512,Facebook,Organic,interesting,I
+2513,2513,Email Campaign,Social,,
+2514,2514,Facebook,Social,,message
+2515,2515,Twitter,Organic,,
+2516,2516,Direct,Organic,,also
+2517,2517,Google,Paid,,
+2518,2518,Facebook,Social,item,
+2519,2519,Email Campaign,Referral,,
+2520,2520,Email Campaign,Organic,until,
+2521,2521,Facebook,Organic,society,
+2522,2522,Facebook,Social,approach,
+2523,2523,Email Campaign,Social,,score
+2524,2524,Google,Social,,
+2525,2525,Direct,Organic,wife,
+2526,2526,Google,Organic,place,radio
+2527,2527,Email Campaign,Paid,should,
+2528,2528,Email Campaign,Paid,gas,
+2529,2529,Direct,Social,through,
+2530,2530,Twitter,Organic,,
+2531,2531,Direct,Paid,,
+2532,2532,Direct,Paid,practice,
+2533,2533,Email Campaign,Social,,
+2534,2534,Twitter,Paid,,candidate
+2535,2535,Email Campaign,Social,,
+2536,2536,Facebook,Organic,material,position
+2537,2537,Facebook,Paid,guess,
+2538,2538,Facebook,Social,,
+2539,2539,Direct,Social,while,scientist
+2540,2540,Email Campaign,Referral,son,keep
+2541,2541,Google,Referral,,
+2542,2542,Google,Referral,,
+2543,2543,Facebook,Organic,,
+2544,2544,Google,Organic,senior,
+2545,2545,Facebook,Social,health,on
+2546,2546,Twitter,Organic,,win
+2547,2547,Twitter,Referral,table,
+2548,2548,Google,Paid,daughter,
+2549,2549,Google,Referral,,
+2550,2550,Facebook,Social,garden,
+2551,2551,Google,Paid,,
+2552,2552,Twitter,Organic,prepare,
+2553,2553,Direct,Referral,,
+2554,2554,Google,Organic,us,
+2555,2555,Direct,Social,eat,
+2556,2556,Twitter,Organic,conference,
+2557,2557,Google,Organic,or,
+2558,2558,Direct,Organic,too,
+2559,2559,Facebook,Social,end,
+2560,2560,Email Campaign,Organic,,
+2561,2561,Google,Social,buy,
+2562,2562,Twitter,Social,author,music
+2563,2563,Email Campaign,Organic,,
+2564,2564,Email Campaign,Referral,,difficult
+2565,2565,Twitter,Referral,,
+2566,2566,Direct,Organic,,fact
+2567,2567,Twitter,Paid,,fire
+2568,2568,Facebook,Referral,name,
+2569,2569,Direct,Referral,,
+2570,2570,Direct,Social,,
+2571,2571,Twitter,Organic,fly,measure
+2572,2572,Twitter,Social,hair,
+2573,2573,Google,Referral,,
+2574,2574,Facebook,Organic,,scene
+2575,2575,Direct,Social,,
+2576,2576,Google,Social,happy,whose
+2577,2577,Facebook,Referral,key,
+2578,2578,Direct,Organic,dinner,
+2579,2579,Facebook,Referral,mean,
+2580,2580,Facebook,Referral,reduce,
+2581,2581,Twitter,Referral,,
+2582,2582,Direct,Referral,,
+2583,2583,Email Campaign,Organic,,
+2584,2584,Facebook,Organic,,
+2585,2585,Facebook,Referral,,
+2586,2586,Email Campaign,Referral,very,long
+2587,2587,Twitter,Organic,,
+2588,2588,Google,Paid,,
+2589,2589,Direct,Paid,relationship,
+2590,2590,Direct,Organic,,exactly
+2591,2591,Direct,Referral,number,
+2592,2592,Google,Paid,police,interest
+2593,2593,Google,Paid,American,language
+2594,2594,Facebook,Organic,,
+2595,2595,Email Campaign,Social,,
+2596,2596,Google,Referral,,
+2597,2597,Google,Organic,traditional,
+2598,2598,Email Campaign,Referral,responsibility,
+2599,2599,Google,Referral,,
+2600,2600,Twitter,Social,,
+2601,2601,Direct,Paid,,out
+2602,2602,Google,Referral,,concern
+2603,2603,Twitter,Referral,,occur
+2604,2604,Google,Organic,generation,
+2605,2605,Direct,Organic,about,forward
+2606,2606,Facebook,Referral,,
+2607,2607,Twitter,Social,station,follow
+2608,2608,Google,Social,,carry
+2609,2609,Google,Referral,,
+2610,2610,Email Campaign,Organic,,
+2611,2611,Twitter,Paid,,
+2612,2612,Direct,Referral,,discuss
+2613,2613,Twitter,Organic,,
+2614,2614,Facebook,Organic,such,education
+2615,2615,Google,Paid,,leave
+2616,2616,Email Campaign,Organic,,
+2617,2617,Email Campaign,Organic,,
+2618,2618,Email Campaign,Social,,her
+2619,2619,Google,Social,,
+2620,2620,Facebook,Organic,enjoy,soon
+2621,2621,Direct,Social,,
+2622,2622,Direct,Paid,my,final
+2623,2623,Facebook,Organic,lay,
+2624,2624,Twitter,Referral,during,
+2625,2625,Email Campaign,Social,sister,
+2626,2626,Email Campaign,Social,,community
+2627,2627,Direct,Paid,successful,
+2628,2628,Twitter,Paid,,
+2629,2629,Google,Social,challenge,
+2630,2630,Google,Organic,,
+2631,2631,Facebook,Referral,reality,
+2632,2632,Email Campaign,Social,,detail
+2633,2633,Email Campaign,Paid,fact,
+2634,2634,Email Campaign,Referral,case,
+2635,2635,Email Campaign,Paid,,reason
+2636,2636,Google,Organic,affect,
+2637,2637,Twitter,Social,audience,eat
+2638,2638,Email Campaign,Organic,very,
+2639,2639,Email Campaign,Organic,laugh,chair
+2640,2640,Email Campaign,Referral,interesting,
+2641,2641,Email Campaign,Social,,
+2642,2642,Google,Paid,,
+2643,2643,Facebook,Referral,treat,
+2644,2644,Facebook,Social,,himself
+2645,2645,Google,Social,,meet
+2646,2646,Twitter,Social,,
+2647,2647,Twitter,Referral,,
+2648,2648,Direct,Paid,party,wife
+2649,2649,Facebook,Paid,sound,
+2650,2650,Google,Organic,something,each
+2651,2651,Twitter,Paid,catch,
+2652,2652,Google,Social,,
+2653,2653,Twitter,Referral,,house
+2654,2654,Google,Social,us,
+2655,2655,Direct,Referral,method,want
+2656,2656,Facebook,Organic,drop,
+2657,2657,Google,Paid,,
+2658,2658,Direct,Paid,eat,
+2659,2659,Twitter,Referral,western,turn
+2660,2660,Twitter,Social,,rock
+2661,2661,Google,Paid,,
+2662,2662,Google,Paid,relate,
+2663,2663,Email Campaign,Organic,single,
+2664,2664,Facebook,Referral,chair,western
+2665,2665,Google,Organic,,writer
+2666,2666,Direct,Paid,,
+2667,2667,Google,Referral,born,
+2668,2668,Google,Paid,,
+2669,2669,Direct,Organic,training,
+2670,2670,Direct,Organic,per,cup
+2671,2671,Direct,Social,,lead
+2672,2672,Email Campaign,Organic,city,
+2673,2673,Google,Social,,
+2674,2674,Facebook,Referral,,
+2675,2675,Email Campaign,Paid,director,
+2676,2676,Direct,Organic,,
+2677,2677,Direct,Paid,size,thought
+2678,2678,Direct,Social,,
+2679,2679,Twitter,Paid,,
+2680,2680,Email Campaign,Organic,,
+2681,2681,Twitter,Referral,,unit
+2682,2682,Google,Organic,will,by
+2683,2683,Facebook,Social,soldier,though
+2684,2684,Twitter,Organic,,skin
+2685,2685,Twitter,Paid,yes,
+2686,2686,Email Campaign,Paid,,least
+2687,2687,Facebook,Social,,
+2688,2688,Google,Paid,,
+2689,2689,Direct,Referral,,
+2690,2690,Twitter,Organic,course,
+2691,2691,Twitter,Social,,able
+2692,2692,Twitter,Paid,issue,project
+2693,2693,Direct,Paid,although,station
+2694,2694,Twitter,Organic,,
+2695,2695,Direct,Social,morning,
+2696,2696,Facebook,Paid,major,
+2697,2697,Twitter,Referral,,
+2698,2698,Google,Referral,yet,same
+2699,2699,Twitter,Organic,,
+2700,2700,Facebook,Organic,apply,
+2701,2701,Twitter,Referral,million,
+2702,2702,Direct,Organic,,success
+2703,2703,Email Campaign,Social,,even
+2704,2704,Google,Referral,play,into
+2705,2705,Direct,Referral,final,
+2706,2706,Direct,Referral,,people
+2707,2707,Twitter,Social,,
+2708,2708,Email Campaign,Organic,,life
+2709,2709,Email Campaign,Social,,
+2710,2710,Google,Paid,,
+2711,2711,Email Campaign,Referral,,
+2712,2712,Direct,Organic,position,
+2713,2713,Direct,Paid,alone,
+2714,2714,Facebook,Organic,,
+2715,2715,Twitter,Social,,
+2716,2716,Google,Paid,measure,
+2717,2717,Email Campaign,Social,,
+2718,2718,Direct,Social,,
+2719,2719,Email Campaign,Social,sense,
+2720,2720,Email Campaign,Social,most,
+2721,2721,Direct,Organic,return,usually
+2722,2722,Facebook,Referral,open,
+2723,2723,Email Campaign,Paid,somebody,yes
+2724,2724,Facebook,Referral,next,be
+2725,2725,Google,Paid,,
+2726,2726,Twitter,Referral,,
+2727,2727,Email Campaign,Paid,program,surface
+2728,2728,Facebook,Organic,,
+2729,2729,Facebook,Organic,,
+2730,2730,Email Campaign,Social,compare,
+2731,2731,Direct,Social,above,
+2732,2732,Direct,Organic,,
+2733,2733,Email Campaign,Social,despite,
+2734,2734,Facebook,Organic,value,
+2735,2735,Google,Referral,,
+2736,2736,Twitter,Social,season,
+2737,2737,Direct,Paid,professor,
+2738,2738,Google,Social,,education
+2739,2739,Email Campaign,Paid,,
+2740,2740,Twitter,Referral,,research
+2741,2741,Facebook,Social,leader,
+2742,2742,Direct,Organic,,
+2743,2743,Google,Organic,,
+2744,2744,Direct,Organic,head,
+2745,2745,Email Campaign,Social,control,
+2746,2746,Google,Paid,look,
+2747,2747,Google,Paid,could,
+2748,2748,Direct,Organic,action,
+2749,2749,Direct,Paid,,
+2750,2750,Facebook,Organic,,
+2751,2751,Twitter,Social,,
+2752,2752,Email Campaign,Social,,
+2753,2753,Google,Referral,international,
+2754,2754,Direct,Social,,
+2755,2755,Google,Paid,always,
+2756,2756,Twitter,Paid,alone,
+2757,2757,Google,Paid,,
+2758,2758,Facebook,Organic,,stock
+2759,2759,Twitter,Paid,,
+2760,2760,Twitter,Paid,fight,reduce
+2761,2761,Email Campaign,Referral,measure,
+2762,2762,Twitter,Social,,
+2763,2763,Twitter,Organic,,part
+2764,2764,Email Campaign,Organic,,
+2765,2765,Google,Organic,,bill
+2766,2766,Direct,Paid,wife,future
+2767,2767,Facebook,Referral,and,
+2768,2768,Facebook,Social,,
+2769,2769,Direct,Organic,,
+2770,2770,Twitter,Organic,political,wide
+2771,2771,Email Campaign,Social,,
+2772,2772,Twitter,Organic,,
+2773,2773,Direct,Paid,,
+2774,2774,Email Campaign,Social,most,produce
+2775,2775,Facebook,Social,sure,
+2776,2776,Facebook,Paid,never,
+2777,2777,Twitter,Social,,
+2778,2778,Email Campaign,Organic,,
+2779,2779,Google,Paid,cell,radio
+2780,2780,Email Campaign,Social,message,
+2781,2781,Direct,Paid,put,
+2782,2782,Twitter,Paid,,space
+2783,2783,Twitter,Referral,customer,exist
+2784,2784,Email Campaign,Paid,such,
+2785,2785,Twitter,Paid,week,
+2786,2786,Google,Social,because,line
+2787,2787,Email Campaign,Organic,,
+2788,2788,Email Campaign,Referral,daughter,book
+2789,2789,Email Campaign,Organic,,
+2790,2790,Direct,Paid,,
+2791,2791,Google,Paid,they,
+2792,2792,Email Campaign,Paid,thus,
+2793,2793,Google,Organic,,
+2794,2794,Twitter,Organic,when,
+2795,2795,Google,Referral,,
+2796,2796,Twitter,Organic,according,style
+2797,2797,Email Campaign,Social,,
+2798,2798,Facebook,Organic,,your
+2799,2799,Google,Paid,,
+2800,2800,Google,Paid,,
+2801,2801,Facebook,Paid,,piece
+2802,2802,Google,Organic,,
+2803,2803,Facebook,Social,chance,
+2804,2804,Twitter,Referral,draw,
+2805,2805,Facebook,Referral,,
+2806,2806,Google,Organic,candidate,
+2807,2807,Direct,Social,budget,
+2808,2808,Direct,Paid,standard,easy
+2809,2809,Google,Referral,dog,
+2810,2810,Direct,Referral,,push
+2811,2811,Twitter,Paid,,
+2812,2812,Twitter,Paid,worry,
+2813,2813,Email Campaign,Organic,individual,
+2814,2814,Google,Referral,prove,
+2815,2815,Direct,Referral,then,
+2816,2816,Twitter,Organic,recent,
+2817,2817,Facebook,Paid,region,
+2818,2818,Facebook,Social,article,
+2819,2819,Twitter,Social,,
+2820,2820,Twitter,Referral,writer,ability
+2821,2821,Email Campaign,Referral,unit,
+2822,2822,Twitter,Referral,more,
+2823,2823,Twitter,Referral,,
+2824,2824,Email Campaign,Paid,,
+2825,2825,Direct,Social,,employee
+2826,2826,Facebook,Social,chance,
+2827,2827,Google,Paid,knowledge,
+2828,2828,Twitter,Paid,,woman
+2829,2829,Email Campaign,Referral,,
+2830,2830,Facebook,Referral,side,
+2831,2831,Facebook,Organic,former,
+2832,2832,Twitter,Organic,,present
+2833,2833,Twitter,Paid,impact,
+2834,2834,Facebook,Referral,,
+2835,2835,Facebook,Referral,,
+2836,2836,Google,Organic,on,
+2837,2837,Facebook,Organic,over,
+2838,2838,Email Campaign,Social,,
+2839,2839,Facebook,Organic,tough,any
+2840,2840,Twitter,Organic,consider,
+2841,2841,Direct,Organic,,
+2842,2842,Email Campaign,Paid,,available
+2843,2843,Twitter,Referral,,
+2844,2844,Facebook,Paid,,
+2845,2845,Facebook,Paid,,
+2846,2846,Direct,Organic,,painting
+2847,2847,Facebook,Social,for,
+2848,2848,Direct,Organic,,
+2849,2849,Twitter,Referral,ahead,it
+2850,2850,Direct,Organic,,board
+2851,2851,Direct,Referral,hospital,
+2852,2852,Facebook,Organic,coach,any
+2853,2853,Facebook,Organic,,
+2854,2854,Twitter,Organic,social,put
+2855,2855,Google,Referral,,term
+2856,2856,Email Campaign,Social,,theory
+2857,2857,Twitter,Referral,draw,
+2858,2858,Google,Paid,,others
+2859,2859,Direct,Social,,
+2860,2860,Twitter,Paid,reach,
+2861,2861,Email Campaign,Organic,wear,
+2862,2862,Google,Paid,,
+2863,2863,Facebook,Paid,guy,
+2864,2864,Direct,Referral,,
+2865,2865,Direct,Organic,style,modern
+2866,2866,Email Campaign,Paid,main,
+2867,2867,Facebook,Social,minute,remain
+2868,2868,Direct,Paid,,do
+2869,2869,Email Campaign,Referral,main,
+2870,2870,Twitter,Referral,understand,
+2871,2871,Direct,Social,,
+2872,2872,Twitter,Organic,particularly,bill
+2873,2873,Google,Social,,
+2874,2874,Direct,Referral,,
+2875,2875,Twitter,Referral,very,
+2876,2876,Google,Referral,low,dog
+2877,2877,Google,Social,assume,keep
+2878,2878,Email Campaign,Paid,product,
+2879,2879,Direct,Social,cup,
+2880,2880,Twitter,Referral,full,
+2881,2881,Google,Organic,,
+2882,2882,Direct,Organic,same,
+2883,2883,Direct,Organic,,
+2884,2884,Email Campaign,Organic,future,
+2885,2885,Twitter,Social,base,
+2886,2886,Direct,Social,feeling,
+2887,2887,Google,Social,,
+2888,2888,Twitter,Paid,,
+2889,2889,Facebook,Paid,necessary,campaign
+2890,2890,Google,Organic,receive,
+2891,2891,Facebook,Social,especially,
+2892,2892,Google,Referral,major,
+2893,2893,Email Campaign,Social,,itself
+2894,2894,Facebook,Paid,take,
+2895,2895,Twitter,Paid,,
+2896,2896,Twitter,Social,,list
+2897,2897,Twitter,Referral,,eight
+2898,2898,Google,Social,,
+2899,2899,Email Campaign,Organic,challenge,
+2900,2900,Twitter,Organic,candidate,
+2901,2901,Direct,Referral,,
+2902,2902,Direct,Social,financial,
+2903,2903,Twitter,Organic,,program
+2904,2904,Email Campaign,Paid,western,
+2905,2905,Facebook,Social,,
+2906,2906,Direct,Organic,,
+2907,2907,Direct,Paid,scene,
+2908,2908,Direct,Organic,care,
+2909,2909,Twitter,Paid,campaign,our
+2910,2910,Twitter,Organic,generation,
+2911,2911,Direct,Social,,
+2912,2912,Facebook,Social,,
+2913,2913,Direct,Paid,,
+2914,2914,Email Campaign,Referral,,
+2915,2915,Email Campaign,Paid,ball,
+2916,2916,Email Campaign,Social,,
+2917,2917,Facebook,Organic,environmental,
+2918,2918,Direct,Organic,,
+2919,2919,Twitter,Paid,must,
+2920,2920,Email Campaign,Organic,,
+2921,2921,Direct,Social,upon,town
+2922,2922,Google,Referral,,
+2923,2923,Direct,Referral,today,
+2924,2924,Direct,Social,,then
+2925,2925,Email Campaign,Social,,current
+2926,2926,Google,Social,teacher,cold
+2927,2927,Facebook,Paid,because,
+2928,2928,Google,Social,likely,
+2929,2929,Facebook,Paid,Democrat,
+2930,2930,Direct,Paid,,
+2931,2931,Twitter,Organic,,
+2932,2932,Email Campaign,Organic,hospital,
+2933,2933,Facebook,Paid,learn,
+2934,2934,Email Campaign,Paid,,
+2935,2935,Google,Paid,,join
+2936,2936,Google,Organic,,
+2937,2937,Google,Social,,
+2938,2938,Facebook,Organic,just,
+2939,2939,Google,Referral,late,
+2940,2940,Facebook,Social,,opportunity
+2941,2941,Direct,Social,many,you
+2942,2942,Facebook,Organic,exactly,when
+2943,2943,Twitter,Paid,notice,
+2944,2944,Google,Organic,government,
+2945,2945,Direct,Paid,,
+2946,2946,Direct,Paid,,
+2947,2947,Google,Organic,real,yeah
+2948,2948,Direct,Referral,life,
+2949,2949,Google,Social,probably,
+2950,2950,Email Campaign,Paid,vote,
+2951,2951,Direct,Social,,
+2952,2952,Google,Organic,push,
+2953,2953,Twitter,Social,,
+2954,2954,Direct,Referral,security,standard
+2955,2955,Facebook,Organic,consumer,
+2956,2956,Facebook,Social,,
+2957,2957,Email Campaign,Referral,near,chair
+2958,2958,Google,Referral,,
+2959,2959,Direct,Referral,thus,
+2960,2960,Email Campaign,Referral,,deal
+2961,2961,Email Campaign,Social,,
+2962,2962,Facebook,Social,magazine,strong
+2963,2963,Facebook,Paid,,
+2964,2964,Google,Referral,quite,
+2965,2965,Facebook,Social,plan,
+2966,2966,Twitter,Organic,arm,
+2967,2967,Facebook,Paid,,
+2968,2968,Direct,Referral,accept,special
+2969,2969,Twitter,Organic,plan,memory
+2970,2970,Twitter,Organic,,
+2971,2971,Facebook,Paid,,behind
+2972,2972,Direct,Organic,,plant
+2973,2973,Google,Organic,,
+2974,2974,Twitter,Organic,movie,
+2975,2975,Google,Referral,,
+2976,2976,Twitter,Referral,government,take
+2977,2977,Twitter,Referral,,
+2978,2978,Direct,Organic,option,
+2979,2979,Google,Social,agreement,
+2980,2980,Direct,Social,stop,
+2981,2981,Facebook,Social,,
+2982,2982,Google,Referral,,box
+2983,2983,Facebook,Social,,talk
+2984,2984,Twitter,Referral,,capital
+2985,2985,Email Campaign,Referral,condition,
+2986,2986,Direct,Paid,,
+2987,2987,Twitter,Referral,,
+2988,2988,Email Campaign,Social,apply,somebody
+2989,2989,Direct,Paid,,
+2990,2990,Twitter,Referral,,
+2991,2991,Facebook,Referral,,
+2992,2992,Facebook,Paid,,
+2993,2993,Google,Referral,,
+2994,2994,Email Campaign,Referral,,
+2995,2995,Direct,Paid,whether,
+2996,2996,Twitter,Organic,,
+2997,2997,Google,Social,rest,
+2998,2998,Direct,Referral,,
+2999,2999,Email Campaign,Paid,,
+3000,3000,Twitter,Social,,
+3001,3001,Google,Social,,
+3002,3002,Email Campaign,Social,continue,
+3003,3003,Twitter,Social,,can
+3004,3004,Email Campaign,Referral,,paper
+3005,3005,Direct,Referral,around,
+3006,3006,Direct,Organic,program,door
+3007,3007,Email Campaign,Referral,,
+3008,3008,Direct,Organic,small,
+3009,3009,Direct,Paid,,
+3010,3010,Twitter,Paid,,
+3011,3011,Twitter,Organic,me,
+3012,3012,Google,Paid,party,final
+3013,3013,Direct,Organic,eight,
+3014,3014,Direct,Organic,general,
+3015,3015,Direct,Referral,into,alone
+3016,3016,Facebook,Paid,character,
+3017,3017,Direct,Paid,,
+3018,3018,Twitter,Organic,,reality
+3019,3019,Twitter,Social,open,
+3020,3020,Google,Social,month,
+3021,3021,Direct,Organic,green,
+3022,3022,Facebook,Organic,trip,
+3023,3023,Email Campaign,Organic,,help
+3024,3024,Google,Referral,finally,
+3025,3025,Google,Paid,Democrat,indicate
+3026,3026,Email Campaign,Social,firm,
+3027,3027,Google,Social,,coach
+3028,3028,Direct,Organic,,
+3029,3029,Twitter,Organic,,others
+3030,3030,Email Campaign,Referral,mouth,
+3031,3031,Google,Social,,
+3032,3032,Direct,Organic,say,
+3033,3033,Twitter,Social,once,
+3034,3034,Google,Social,,
+3035,3035,Email Campaign,Paid,writer,
+3036,3036,Email Campaign,Organic,,discussion
+3037,3037,Facebook,Social,question,reveal
+3038,3038,Facebook,Paid,,bar
+3039,3039,Twitter,Organic,ready,
+3040,3040,Email Campaign,Paid,add,education
+3041,3041,Facebook,Paid,hospital,
+3042,3042,Google,Social,,
+3043,3043,Twitter,Social,,
+3044,3044,Direct,Social,land,
+3045,3045,Google,Paid,,
+3046,3046,Twitter,Referral,,boy
+3047,3047,Twitter,Organic,partner,
+3048,3048,Google,Paid,sit,
+3049,3049,Direct,Organic,,herself
+3050,3050,Email Campaign,Referral,,wish
+3051,3051,Google,Social,,option
+3052,3052,Google,Organic,,
+3053,3053,Twitter,Referral,second,law
+3054,3054,Google,Organic,his,majority
+3055,3055,Facebook,Social,boy,occur
+3056,3056,Google,Social,capital,ago
+3057,3057,Email Campaign,Social,,big
+3058,3058,Twitter,Referral,,
+3059,3059,Email Campaign,Organic,,play
+3060,3060,Twitter,Social,lot,make
+3061,3061,Email Campaign,Organic,,
+3062,3062,Direct,Social,,crime
+3063,3063,Direct,Organic,already,
+3064,3064,Twitter,Organic,,
+3065,3065,Direct,Social,career,
+3066,3066,Facebook,Referral,give,chance
+3067,3067,Direct,Referral,,also
+3068,3068,Twitter,Social,,
+3069,3069,Twitter,Social,,friend
+3070,3070,Twitter,Paid,rate,less
+3071,3071,Facebook,Paid,,
+3072,3072,Google,Paid,,explain
+3073,3073,Google,Social,reason,
+3074,3074,Direct,Referral,so,drug
+3075,3075,Facebook,Organic,,at
+3076,3076,Direct,Referral,teach,
+3077,3077,Twitter,Paid,,
+3078,3078,Twitter,Social,eight,
+3079,3079,Direct,Referral,lay,
+3080,3080,Google,Paid,,
+3081,3081,Twitter,Organic,,
+3082,3082,Twitter,Paid,,
+3083,3083,Google,Referral,,
+3084,3084,Facebook,Social,wear,
+3085,3085,Email Campaign,Social,,
+3086,3086,Twitter,Organic,,
+3087,3087,Facebook,Social,up,
+3088,3088,Email Campaign,Paid,until,
+3089,3089,Twitter,Social,street,
+3090,3090,Email Campaign,Paid,land,
+3091,3091,Twitter,Organic,,
+3092,3092,Direct,Organic,identify,way
+3093,3093,Facebook,Paid,,between
+3094,3094,Twitter,Organic,whether,
+3095,3095,Twitter,Paid,four,health
+3096,3096,Twitter,Paid,,miss
+3097,3097,Direct,Paid,,also
+3098,3098,Email Campaign,Paid,address,
+3099,3099,Google,Organic,experience,
+3100,3100,Google,Paid,series,
+3101,3101,Email Campaign,Social,trouble,
+3102,3102,Email Campaign,Social,lot,
+3103,3103,Email Campaign,Social,,
+3104,3104,Email Campaign,Organic,when,
+3105,3105,Facebook,Paid,,
+3106,3106,Facebook,Referral,live,
+3107,3107,Facebook,Paid,however,
+3108,3108,Email Campaign,Paid,drive,degree
+3109,3109,Email Campaign,Paid,,
+3110,3110,Google,Social,,arrive
+3111,3111,Facebook,Organic,girl,
+3112,3112,Direct,Organic,,
+3113,3113,Google,Referral,worker,analysis
+3114,3114,Email Campaign,Referral,,occur
+3115,3115,Google,Organic,provide,
+3116,3116,Direct,Organic,occur,subject
+3117,3117,Twitter,Paid,,
+3118,3118,Email Campaign,Paid,local,
+3119,3119,Twitter,Social,institution,such
+3120,3120,Direct,Paid,,
+3121,3121,Twitter,Organic,despite,them
+3122,3122,Email Campaign,Organic,economic,
+3123,3123,Twitter,Paid,particularly,
+3124,3124,Google,Organic,study,
+3125,3125,Email Campaign,Paid,box,
+3126,3126,Twitter,Paid,us,
+3127,3127,Direct,Social,,
+3128,3128,Google,Organic,option,
+3129,3129,Direct,Organic,evening,
+3130,3130,Google,Organic,practice,
+3131,3131,Google,Paid,traditional,
+3132,3132,Email Campaign,Social,would,
+3133,3133,Google,Social,,
+3134,3134,Twitter,Referral,itself,
+3135,3135,Facebook,Paid,skin,
+3136,3136,Email Campaign,Referral,,
+3137,3137,Twitter,Organic,,
+3138,3138,Twitter,Organic,,
+3139,3139,Facebook,Paid,listen,
+3140,3140,Email Campaign,Organic,its,
+3141,3141,Twitter,Social,community,
+3142,3142,Google,Paid,,
+3143,3143,Twitter,Organic,value,from
+3144,3144,Twitter,Referral,it,
+3145,3145,Facebook,Paid,nearly,
+3146,3146,Email Campaign,Paid,air,though
+3147,3147,Facebook,Referral,card,
+3148,3148,Twitter,Social,,
+3149,3149,Google,Social,,
+3150,3150,Email Campaign,Social,,
+3151,3151,Google,Organic,,
+3152,3152,Direct,Paid,,
+3153,3153,Direct,Social,rate,
+3154,3154,Direct,Paid,brother,
+3155,3155,Email Campaign,Paid,short,
+3156,3156,Facebook,Organic,,
+3157,3157,Facebook,Paid,maintain,
+3158,3158,Direct,Social,put,
+3159,3159,Twitter,Social,financial,item
+3160,3160,Facebook,Organic,into,
+3161,3161,Email Campaign,Referral,economic,
+3162,3162,Twitter,Paid,,
+3163,3163,Direct,Paid,medical,
+3164,3164,Direct,Organic,impact,
+3165,3165,Twitter,Paid,,
+3166,3166,Email Campaign,Organic,,
+3167,3167,Twitter,Paid,,scene
+3168,3168,Facebook,Social,,
+3169,3169,Twitter,Paid,from,
+3170,3170,Direct,Referral,pressure,education
+3171,3171,Direct,Referral,economy,thing
+3172,3172,Facebook,Referral,,somebody
+3173,3173,Direct,Organic,,
+3174,3174,Twitter,Referral,result,
+3175,3175,Facebook,Social,,
+3176,3176,Google,Paid,,
+3177,3177,Email Campaign,Social,that,
+3178,3178,Direct,Social,enough,
+3179,3179,Direct,Social,,
+3180,3180,Direct,Organic,voice,radio
+3181,3181,Direct,Organic,,
+3182,3182,Direct,Referral,,
+3183,3183,Twitter,Organic,,
+3184,3184,Twitter,Social,,most
+3185,3185,Direct,Organic,,green
+3186,3186,Twitter,Organic,,
+3187,3187,Twitter,Referral,size,
+3188,3188,Google,Social,,
+3189,3189,Email Campaign,Social,politics,check
+3190,3190,Direct,Organic,court,
+3191,3191,Direct,Organic,parent,
+3192,3192,Google,Paid,,
+3193,3193,Email Campaign,Referral,simply,
+3194,3194,Email Campaign,Referral,,
+3195,3195,Email Campaign,Referral,free,
+3196,3196,Email Campaign,Paid,wait,
+3197,3197,Twitter,Organic,other,
+3198,3198,Direct,Social,,method
+3199,3199,Facebook,Social,contain,
+3200,3200,Twitter,Paid,,
+3201,3201,Email Campaign,Organic,,data
+3202,3202,Twitter,Referral,technology,
+3203,3203,Facebook,Social,although,
+3204,3204,Facebook,Organic,,
+3205,3205,Facebook,Paid,pressure,heart
+3206,3206,Facebook,Paid,,
+3207,3207,Twitter,Organic,stock,
+3208,3208,Twitter,Referral,why,
+3209,3209,Email Campaign,Organic,,
+3210,3210,Direct,Referral,pull,
+3211,3211,Twitter,Organic,not,
+3212,3212,Google,Organic,start,
+3213,3213,Twitter,Referral,,skill
+3214,3214,Twitter,Referral,,
+3215,3215,Twitter,Organic,,
+3216,3216,Facebook,Organic,,
+3217,3217,Facebook,Paid,spring,
+3218,3218,Email Campaign,Social,,
+3219,3219,Direct,Organic,,soon
+3220,3220,Twitter,Social,,
+3221,3221,Direct,Organic,,wife
+3222,3222,Facebook,Paid,,
+3223,3223,Facebook,Organic,sure,
+3224,3224,Twitter,Social,,
+3225,3225,Google,Referral,,toward
+3226,3226,Direct,Social,remember,
+3227,3227,Direct,Paid,question,
+3228,3228,Twitter,Organic,cell,
+3229,3229,Direct,Social,,day
+3230,3230,Twitter,Referral,break,
+3231,3231,Twitter,Paid,,
+3232,3232,Facebook,Referral,relate,
+3233,3233,Twitter,Paid,,
+3234,3234,Facebook,Organic,no,message
+3235,3235,Twitter,Paid,option,
+3236,3236,Twitter,Referral,talk,ask
+3237,3237,Facebook,Organic,,national
+3238,3238,Twitter,Social,,
+3239,3239,Google,Organic,culture,while
+3240,3240,Google,Organic,,brother
+3241,3241,Twitter,Referral,,
+3242,3242,Direct,Referral,response,
+3243,3243,Direct,Organic,truth,
+3244,3244,Email Campaign,Organic,,
+3245,3245,Twitter,Referral,defense,of
+3246,3246,Email Campaign,Social,step,
+3247,3247,Facebook,Referral,challenge,
+3248,3248,Direct,Social,,always
+3249,3249,Twitter,Paid,range,
+3250,3250,Twitter,Paid,,
+3251,3251,Direct,Referral,,
+3252,3252,Direct,Paid,great,
+3253,3253,Direct,Social,might,
+3254,3254,Twitter,Social,effort,
+3255,3255,Google,Paid,or,
+3256,3256,Google,Referral,,
+3257,3257,Google,Paid,board,
+3258,3258,Google,Paid,,
+3259,3259,Twitter,Paid,writer,central
+3260,3260,Email Campaign,Paid,,small
+3261,3261,Twitter,Paid,,
+3262,3262,Email Campaign,Organic,find,
+3263,3263,Facebook,Social,,including
+3264,3264,Email Campaign,Social,tough,
+3265,3265,Twitter,Referral,,focus
+3266,3266,Email Campaign,Organic,,sing
+3267,3267,Facebook,Paid,,
+3268,3268,Direct,Referral,,
+3269,3269,Facebook,Referral,billion,natural
+3270,3270,Twitter,Organic,time,
+3271,3271,Direct,Paid,,
+3272,3272,Facebook,Referral,night,bed
+3273,3273,Direct,Social,nice,
+3274,3274,Google,Organic,,
+3275,3275,Twitter,Organic,research,
+3276,3276,Facebook,Paid,,
+3277,3277,Facebook,Social,why,
+3278,3278,Email Campaign,Paid,activity,
+3279,3279,Google,Organic,bed,
+3280,3280,Facebook,Referral,knowledge,
+3281,3281,Twitter,Paid,,
+3282,3282,Google,Paid,,
+3283,3283,Facebook,Paid,,
+3284,3284,Google,Organic,,
+3285,3285,Google,Referral,positive,guy
+3286,3286,Google,Referral,,
+3287,3287,Facebook,Referral,,list
+3288,3288,Google,Referral,,
+3289,3289,Facebook,Social,,
+3290,3290,Direct,Social,,
+3291,3291,Google,Social,,
+3292,3292,Facebook,Organic,,physical
+3293,3293,Email Campaign,Organic,seek,news
+3294,3294,Google,Referral,general,
+3295,3295,Google,Referral,,
+3296,3296,Direct,Paid,work,
+3297,3297,Google,Paid,station,
+3298,3298,Direct,Paid,,
+3299,3299,Email Campaign,Organic,,run
+3300,3300,Twitter,Referral,,
+3301,3301,Direct,Paid,doctor,fill
+3302,3302,Email Campaign,Referral,her,
+3303,3303,Direct,Organic,,figure
+3304,3304,Google,Social,do,
+3305,3305,Email Campaign,Referral,in,inside
+3306,3306,Google,Social,bar,
+3307,3307,Facebook,Organic,,
+3308,3308,Google,Paid,rather,
+3309,3309,Twitter,Paid,provide,decision
+3310,3310,Twitter,Social,,
+3311,3311,Twitter,Paid,,
+3312,3312,Google,Social,,
+3313,3313,Email Campaign,Referral,,
+3314,3314,Twitter,Referral,key,just
+3315,3315,Google,Organic,case,grow
+3316,3316,Direct,Organic,trial,amount
+3317,3317,Facebook,Paid,,
+3318,3318,Facebook,Paid,sit,
+3319,3319,Google,Social,idea,
+3320,3320,Facebook,Social,,
+3321,3321,Twitter,Social,,school
+3322,3322,Email Campaign,Social,score,while
+3323,3323,Direct,Social,,
+3324,3324,Email Campaign,Organic,situation,
+3325,3325,Direct,Organic,determine,
+3326,3326,Direct,Paid,,commercial
+3327,3327,Twitter,Paid,,
+3328,3328,Direct,Referral,cup,
+3329,3329,Twitter,Organic,teach,
+3330,3330,Google,Social,,
+3331,3331,Google,Referral,item,
+3332,3332,Email Campaign,Referral,well,activity
+3333,3333,Direct,Referral,,
+3334,3334,Direct,Paid,,woman
+3335,3335,Google,Referral,give,
+3336,3336,Twitter,Organic,these,
+3337,3337,Google,Social,example,
+3338,3338,Direct,Social,performance,kind
+3339,3339,Google,Paid,,
+3340,3340,Google,Social,sea,
+3341,3341,Google,Referral,,sell
+3342,3342,Direct,Referral,own,expert
+3343,3343,Facebook,Referral,,
+3344,3344,Facebook,Paid,so,place
+3345,3345,Twitter,Social,,
+3346,3346,Google,Referral,,success
+3347,3347,Google,Referral,these,
+3348,3348,Facebook,Organic,open,
+3349,3349,Email Campaign,Social,agree,
+3350,3350,Email Campaign,Organic,,
+3351,3351,Direct,Paid,,field
+3352,3352,Direct,Referral,help,
+3353,3353,Email Campaign,Organic,,
+3354,3354,Facebook,Referral,,
+3355,3355,Direct,Organic,,
+3356,3356,Facebook,Paid,,
+3357,3357,Google,Paid,hit,
+3358,3358,Twitter,Organic,listen,
+3359,3359,Email Campaign,Organic,exist,
+3360,3360,Email Campaign,Paid,,
+3361,3361,Facebook,Social,especially,
+3362,3362,Direct,Organic,fish,
+3363,3363,Direct,Social,player,teach
+3364,3364,Google,Paid,,
+3365,3365,Twitter,Organic,customer,break
+3366,3366,Direct,Referral,,create
+3367,3367,Twitter,Organic,,debate
+3368,3368,Twitter,Social,,
+3369,3369,Twitter,Paid,present,
+3370,3370,Email Campaign,Paid,today,
+3371,3371,Email Campaign,Social,investment,
+3372,3372,Facebook,Social,focus,
+3373,3373,Email Campaign,Social,news,
+3374,3374,Facebook,Referral,,
+3375,3375,Email Campaign,Social,,
+3376,3376,Email Campaign,Social,free,
+3377,3377,Facebook,Referral,himself,
+3378,3378,Google,Paid,whom,young
+3379,3379,Facebook,Organic,some,
+3380,3380,Facebook,Organic,couple,
+3381,3381,Facebook,Organic,,
+3382,3382,Google,Organic,,glass
+3383,3383,Email Campaign,Referral,,
+3384,3384,Facebook,Paid,smile,
+3385,3385,Twitter,Paid,day,task
+3386,3386,Email Campaign,Paid,,
+3387,3387,Twitter,Social,either,
+3388,3388,Google,Referral,,fine
+3389,3389,Email Campaign,Social,election,
+3390,3390,Facebook,Paid,,half
+3391,3391,Email Campaign,Organic,,
+3392,3392,Google,Organic,energy,pay
+3393,3393,Direct,Social,,while
+3394,3394,Twitter,Referral,,
+3395,3395,Email Campaign,Referral,without,
+3396,3396,Twitter,Social,spend,marriage
+3397,3397,Facebook,Paid,,
+3398,3398,Email Campaign,Organic,,nearly
+3399,3399,Direct,Referral,,
+3400,3400,Direct,Organic,,
+3401,3401,Google,Organic,hotel,
+3402,3402,Email Campaign,Organic,and,
+3403,3403,Facebook,Social,,issue
+3404,3404,Facebook,Organic,,
+3405,3405,Email Campaign,Social,,
+3406,3406,Direct,Paid,,
+3407,3407,Twitter,Organic,oil,card
+3408,3408,Email Campaign,Paid,,
+3409,3409,Facebook,Referral,he,
+3410,3410,Twitter,Social,,while
+3411,3411,Twitter,Social,,
+3412,3412,Email Campaign,Organic,,
+3413,3413,Facebook,Organic,,
+3414,3414,Direct,Social,within,
+3415,3415,Twitter,Referral,reduce,
+3416,3416,Email Campaign,Organic,,
+3417,3417,Email Campaign,Organic,important,mean
+3418,3418,Direct,Social,company,game
+3419,3419,Twitter,Social,,
+3420,3420,Google,Social,,possible
+3421,3421,Twitter,Paid,,age
+3422,3422,Twitter,Organic,imagine,
+3423,3423,Google,Organic,,
+3424,3424,Email Campaign,Referral,,performance
+3425,3425,Direct,Paid,,
+3426,3426,Email Campaign,Social,,
+3427,3427,Direct,Referral,,
+3428,3428,Twitter,Paid,,need
+3429,3429,Google,Social,,
+3430,3430,Facebook,Social,each,
+3431,3431,Email Campaign,Organic,,price
+3432,3432,Twitter,Organic,control,tax
+3433,3433,Direct,Organic,,
+3434,3434,Twitter,Organic,region,
+3435,3435,Google,Organic,nature,week
+3436,3436,Direct,Social,,
+3437,3437,Facebook,Organic,realize,
+3438,3438,Google,Social,full,
+3439,3439,Direct,Social,,from
+3440,3440,Twitter,Referral,,long
+3441,3441,Email Campaign,Paid,,
+3442,3442,Email Campaign,Paid,anyone,
+3443,3443,Twitter,Referral,chair,
+3444,3444,Twitter,Paid,grow,
+3445,3445,Facebook,Paid,,
+3446,3446,Direct,Referral,or,
+3447,3447,Email Campaign,Referral,investment,
+3448,3448,Email Campaign,Referral,,whom
+3449,3449,Facebook,Paid,dog,tell
+3450,3450,Facebook,Organic,,
+3451,3451,Email Campaign,Referral,,
+3452,3452,Direct,Organic,,
+3453,3453,Email Campaign,Referral,,
+3454,3454,Google,Paid,,
+3455,3455,Email Campaign,Social,,
+3456,3456,Google,Social,without,account
+3457,3457,Facebook,Social,despite,
+3458,3458,Facebook,Organic,,
+3459,3459,Direct,Referral,conference,
+3460,3460,Google,Social,contain,arm
+3461,3461,Google,Referral,,occur
+3462,3462,Google,Paid,,
+3463,3463,Twitter,Referral,mother,that
+3464,3464,Twitter,Social,develop,human
+3465,3465,Google,Organic,,
+3466,3466,Twitter,Referral,,
+3467,3467,Twitter,Social,appear,
+3468,3468,Twitter,Referral,only,lawyer
+3469,3469,Email Campaign,Organic,attention,
+3470,3470,Facebook,Paid,,again
+3471,3471,Twitter,Social,fear,
+3472,3472,Facebook,Social,lot,
+3473,3473,Twitter,Organic,sure,
+3474,3474,Email Campaign,Paid,himself,claim
+3475,3475,Facebook,Referral,,
+3476,3476,Email Campaign,Organic,,better
+3477,3477,Twitter,Social,send,blue
+3478,3478,Facebook,Organic,,
+3479,3479,Direct,Paid,,
+3480,3480,Google,Social,,
+3481,3481,Twitter,Social,,sit
+3482,3482,Direct,Referral,,design
+3483,3483,Facebook,Referral,,factor
+3484,3484,Direct,Paid,,
+3485,3485,Email Campaign,Organic,,
+3486,3486,Direct,Organic,film,
+3487,3487,Google,Paid,push,
+3488,3488,Twitter,Referral,author,
+3489,3489,Facebook,Referral,,police
+3490,3490,Direct,Social,,
+3491,3491,Google,Paid,,
+3492,3492,Direct,Organic,,current
+3493,3493,Twitter,Paid,,
+3494,3494,Facebook,Organic,,herself
+3495,3495,Email Campaign,Social,,
+3496,3496,Google,Referral,garden,
+3497,3497,Direct,Paid,live,
+3498,3498,Email Campaign,Social,either,
+3499,3499,Email Campaign,Social,civil,
+3500,3500,Twitter,Referral,front,
+3501,3501,Facebook,Paid,million,
+3502,3502,Google,Social,,cover
+3503,3503,Google,Organic,last,money
+3504,3504,Facebook,Social,chair,
+3505,3505,Facebook,Referral,pattern,
+3506,3506,Email Campaign,Paid,people,
+3507,3507,Facebook,Organic,,
+3508,3508,Google,Social,right,
+3509,3509,Twitter,Organic,,create
+3510,3510,Email Campaign,Paid,,
+3511,3511,Email Campaign,Organic,,
+3512,3512,Email Campaign,Paid,music,occur
+3513,3513,Email Campaign,Referral,parent,
+3514,3514,Email Campaign,Referral,say,
+3515,3515,Facebook,Paid,,
+3516,3516,Twitter,Referral,,
+3517,3517,Direct,Paid,,you
+3518,3518,Facebook,Paid,expert,
+3519,3519,Email Campaign,Organic,rock,century
+3520,3520,Direct,Referral,,
+3521,3521,Twitter,Social,trip,
+3522,3522,Direct,Referral,rather,customer
+3523,3523,Direct,Social,most,deep
+3524,3524,Google,Paid,,arm
+3525,3525,Facebook,Organic,leader,
+3526,3526,Facebook,Paid,up,
+3527,3527,Direct,Organic,point,
+3528,3528,Facebook,Paid,,
+3529,3529,Direct,Organic,,
+3530,3530,Google,Social,wear,word
+3531,3531,Direct,Referral,,
+3532,3532,Twitter,Paid,,
+3533,3533,Twitter,Paid,,seat
+3534,3534,Twitter,Social,smile,
+3535,3535,Twitter,Organic,middle,
+3536,3536,Facebook,Social,,
+3537,3537,Twitter,Paid,choose,
+3538,3538,Google,Social,strong,
+3539,3539,Direct,Paid,play,
+3540,3540,Facebook,Social,,
+3541,3541,Google,Referral,,
+3542,3542,Google,Referral,church,minute
+3543,3543,Email Campaign,Referral,explain,
+3544,3544,Email Campaign,Referral,development,
+3545,3545,Email Campaign,Social,within,
+3546,3546,Facebook,Social,,
+3547,3547,Google,Organic,serious,
+3548,3548,Email Campaign,Organic,day,environmental
+3549,3549,Facebook,Organic,,
+3550,3550,Facebook,Organic,,court
+3551,3551,Twitter,Referral,,
+3552,3552,Twitter,Social,young,
+3553,3553,Direct,Organic,,
+3554,3554,Email Campaign,Paid,,
+3555,3555,Email Campaign,Social,,
+3556,3556,Facebook,Social,,
+3557,3557,Twitter,Social,collection,
+3558,3558,Direct,Referral,,
+3559,3559,Direct,Referral,,position
+3560,3560,Direct,Referral,its,
+3561,3561,Twitter,Social,,
+3562,3562,Twitter,Referral,,however
+3563,3563,Google,Organic,ask,
+3564,3564,Google,Organic,,
+3565,3565,Facebook,Social,,note
+3566,3566,Email Campaign,Organic,almost,
+3567,3567,Facebook,Referral,,her
+3568,3568,Direct,Paid,,
+3569,3569,Facebook,Social,development,
+3570,3570,Direct,Organic,,
+3571,3571,Email Campaign,Paid,civil,
+3572,3572,Direct,Paid,marriage,soon
+3573,3573,Facebook,Social,,
+3574,3574,Google,Paid,student,international
+3575,3575,Twitter,Paid,,
+3576,3576,Direct,Paid,plan,
+3577,3577,Google,Organic,,
+3578,3578,Twitter,Organic,message,from
+3579,3579,Direct,Organic,fear,
+3580,3580,Twitter,Referral,debate,
+3581,3581,Google,Social,,
+3582,3582,Email Campaign,Paid,eight,
+3583,3583,Twitter,Organic,,kid
+3584,3584,Google,Referral,,standard
+3585,3585,Email Campaign,Paid,candidate,
+3586,3586,Google,Referral,them,
+3587,3587,Facebook,Social,get,
+3588,3588,Google,Organic,,
+3589,3589,Google,Paid,section,cell
+3590,3590,Twitter,Social,,
+3591,3591,Facebook,Referral,,a
+3592,3592,Direct,Referral,meeting,
+3593,3593,Direct,Referral,a,professional
+3594,3594,Facebook,Referral,coach,
+3595,3595,Twitter,Paid,,speak
+3596,3596,Facebook,Social,,
+3597,3597,Email Campaign,Social,,
+3598,3598,Google,Referral,,operation
+3599,3599,Email Campaign,Referral,care,
+3600,3600,Email Campaign,Paid,,agree
+3601,3601,Twitter,Paid,,
+3602,3602,Facebook,Organic,,
+3603,3603,Direct,Social,,difference
+3604,3604,Email Campaign,Referral,,
+3605,3605,Google,Referral,,
+3606,3606,Direct,Social,buy,
+3607,3607,Twitter,Referral,,
+3608,3608,Direct,Referral,blood,
+3609,3609,Google,Referral,,because
+3610,3610,Direct,Social,structure,town
+3611,3611,Email Campaign,Referral,,true
+3612,3612,Twitter,Paid,,
+3613,3613,Direct,Social,,
+3614,3614,Email Campaign,Organic,kind,
+3615,3615,Email Campaign,Organic,,civil
+3616,3616,Email Campaign,Paid,daughter,
+3617,3617,Facebook,Paid,authority,or
+3618,3618,Twitter,Paid,ask,away
+3619,3619,Facebook,Social,when,food
+3620,3620,Direct,Paid,site,
+3621,3621,Email Campaign,Organic,church,
+3622,3622,Google,Social,last,
+3623,3623,Direct,Social,,
+3624,3624,Google,Paid,sit,
+3625,3625,Email Campaign,Paid,,
+3626,3626,Email Campaign,Paid,,
+3627,3627,Email Campaign,Paid,,
+3628,3628,Twitter,Social,,
+3629,3629,Google,Paid,end,
+3630,3630,Facebook,Social,,store
+3631,3631,Facebook,Organic,,
+3632,3632,Twitter,Organic,case,
+3633,3633,Google,Social,agent,
+3634,3634,Direct,Paid,,
+3635,3635,Facebook,Social,range,remain
+3636,3636,Twitter,Referral,city,
+3637,3637,Facebook,Organic,,
+3638,3638,Twitter,Social,,
+3639,3639,Direct,Organic,north,
+3640,3640,Direct,Referral,wish,
+3641,3641,Google,Social,,
+3642,3642,Direct,Referral,,
+3643,3643,Facebook,Paid,,
+3644,3644,Twitter,Social,,state
+3645,3645,Twitter,Organic,,ever
+3646,3646,Facebook,Organic,ten,newspaper
+3647,3647,Email Campaign,Referral,space,seem
+3648,3648,Direct,Social,political,
+3649,3649,Twitter,Organic,,
+3650,3650,Direct,Social,,win
+3651,3651,Google,Paid,card,letter
+3652,3652,Google,Organic,,
+3653,3653,Email Campaign,Organic,,
+3654,3654,Direct,Referral,,determine
+3655,3655,Facebook,Paid,,
+3656,3656,Facebook,Referral,moment,
+3657,3657,Facebook,Social,how,
+3658,3658,Direct,Organic,none,
+3659,3659,Email Campaign,Paid,,
+3660,3660,Twitter,Paid,strategy,cold
+3661,3661,Google,Paid,,participant
+3662,3662,Direct,Organic,team,
+3663,3663,Google,Referral,,
+3664,3664,Direct,Paid,wear,
+3665,3665,Twitter,Referral,,case
+3666,3666,Twitter,Paid,,
+3667,3667,Email Campaign,Social,,choose
+3668,3668,Direct,Social,,
+3669,3669,Facebook,Referral,seek,
+3670,3670,Email Campaign,Paid,,
+3671,3671,Direct,Organic,,
+3672,3672,Google,Referral,,
+3673,3673,Email Campaign,Social,power,
+3674,3674,Facebook,Paid,grow,
+3675,3675,Twitter,Social,expect,top
+3676,3676,Direct,Referral,either,air
+3677,3677,Twitter,Referral,,
+3678,3678,Email Campaign,Referral,,
+3679,3679,Direct,Paid,,
+3680,3680,Google,Paid,,real
+3681,3681,Email Campaign,Referral,,
+3682,3682,Twitter,Referral,,
+3683,3683,Facebook,Organic,,time
+3684,3684,Google,Paid,,
+3685,3685,Facebook,Referral,easy,
+3686,3686,Email Campaign,Referral,he,near
+3687,3687,Google,Paid,vote,
+3688,3688,Direct,Organic,room,
+3689,3689,Direct,Social,catch,
+3690,3690,Twitter,Paid,team,describe
+3691,3691,Facebook,Referral,,
+3692,3692,Direct,Paid,,
+3693,3693,Facebook,Social,finish,
+3694,3694,Twitter,Organic,always,case
+3695,3695,Google,Organic,,
+3696,3696,Email Campaign,Referral,buy,
+3697,3697,Google,Organic,role,
+3698,3698,Twitter,Organic,feel,already
+3699,3699,Twitter,Paid,,
+3700,3700,Twitter,Organic,center,
+3701,3701,Direct,Paid,girl,speak
+3702,3702,Direct,Social,radio,
+3703,3703,Direct,Referral,,
+3704,3704,Facebook,Social,coach,
+3705,3705,Email Campaign,Organic,,
+3706,3706,Direct,Social,lawyer,
+3707,3707,Email Campaign,Referral,home,
+3708,3708,Direct,Social,lead,
+3709,3709,Google,Social,least,
+3710,3710,Facebook,Social,,wish
+3711,3711,Facebook,Paid,make,create
+3712,3712,Twitter,Referral,,
+3713,3713,Direct,Paid,,
+3714,3714,Facebook,Paid,,
+3715,3715,Facebook,Social,,simple
+3716,3716,Google,Referral,,
+3717,3717,Google,Organic,almost,and
+3718,3718,Facebook,Organic,,establish
+3719,3719,Direct,Social,,
+3720,3720,Facebook,Organic,,really
+3721,3721,Facebook,Paid,,
+3722,3722,Direct,Paid,,
+3723,3723,Direct,Organic,,
+3724,3724,Google,Referral,,
+3725,3725,Twitter,Paid,then,
+3726,3726,Email Campaign,Social,cost,case
+3727,3727,Twitter,Organic,,
+3728,3728,Email Campaign,Organic,,nation
+3729,3729,Twitter,Paid,argue,decide
+3730,3730,Direct,Social,,term
+3731,3731,Email Campaign,Organic,,
+3732,3732,Direct,Paid,,
+3733,3733,Email Campaign,Social,,
+3734,3734,Direct,Paid,,
+3735,3735,Email Campaign,Organic,,
+3736,3736,Google,Social,,them
+3737,3737,Google,Social,significant,
+3738,3738,Twitter,Social,hope,doctor
+3739,3739,Direct,Paid,,
+3740,3740,Direct,Paid,,
+3741,3741,Direct,Paid,thing,
+3742,3742,Google,Organic,try,
+3743,3743,Direct,Paid,,
+3744,3744,Twitter,Referral,,
+3745,3745,Email Campaign,Organic,,
+3746,3746,Facebook,Paid,,
+3747,3747,Direct,Organic,,
+3748,3748,Twitter,Paid,,
+3749,3749,Facebook,Social,model,
+3750,3750,Direct,Social,hope,accept
+3751,3751,Google,Social,,
+3752,3752,Twitter,Social,for,
+3753,3753,Facebook,Social,woman,
+3754,3754,Facebook,Social,eat,
+3755,3755,Direct,Paid,,deep
+3756,3756,Email Campaign,Referral,less,
+3757,3757,Twitter,Paid,,
+3758,3758,Facebook,Referral,language,
+3759,3759,Facebook,Referral,because,time
+3760,3760,Twitter,Organic,,rest
+3761,3761,Twitter,Referral,,
+3762,3762,Email Campaign,Social,,
+3763,3763,Google,Social,politics,add
+3764,3764,Direct,Referral,west,number
+3765,3765,Google,Paid,,
+3766,3766,Facebook,Paid,main,play
+3767,3767,Email Campaign,Organic,maintain,
+3768,3768,Direct,Paid,city,law
+3769,3769,Email Campaign,Referral,member,
+3770,3770,Twitter,Paid,,pretty
+3771,3771,Google,Organic,entire,
+3772,3772,Google,Organic,those,
+3773,3773,Twitter,Referral,beyond,eat
+3774,3774,Facebook,Organic,different,
+3775,3775,Direct,Social,,
+3776,3776,Google,Social,require,here
+3777,3777,Twitter,Social,,
+3778,3778,Twitter,Referral,appear,
+3779,3779,Twitter,Paid,spring,three
+3780,3780,Google,Referral,,
+3781,3781,Direct,Social,second,
+3782,3782,Direct,Social,reason,
+3783,3783,Google,Social,,
+3784,3784,Email Campaign,Social,weight,
+3785,3785,Email Campaign,Social,,
+3786,3786,Facebook,Referral,peace,building
+3787,3787,Facebook,Organic,if,whom
+3788,3788,Email Campaign,Social,,
+3789,3789,Facebook,Organic,,discuss
+3790,3790,Email Campaign,Paid,,brother
+3791,3791,Facebook,Organic,huge,
+3792,3792,Twitter,Referral,,
+3793,3793,Email Campaign,Referral,,
+3794,3794,Email Campaign,Social,,
+3795,3795,Twitter,Referral,still,
+3796,3796,Direct,Paid,gas,
+3797,3797,Twitter,Social,,down
+3798,3798,Google,Social,,
+3799,3799,Facebook,Organic,data,
+3800,3800,Facebook,Social,,
+3801,3801,Twitter,Paid,our,shake
+3802,3802,Direct,Paid,,reality
+3803,3803,Twitter,Organic,,fear
+3804,3804,Direct,Paid,,
+3805,3805,Email Campaign,Referral,book,
+3806,3806,Facebook,Referral,summer,
+3807,3807,Google,Paid,,
+3808,3808,Direct,Referral,,
+3809,3809,Facebook,Organic,economic,
+3810,3810,Email Campaign,Social,,
+3811,3811,Facebook,Referral,score,hold
+3812,3812,Facebook,Organic,,
+3813,3813,Google,Paid,a,
+3814,3814,Email Campaign,Referral,,
+3815,3815,Twitter,Social,,environment
+3816,3816,Facebook,Social,sometimes,
+3817,3817,Direct,Social,,president
+3818,3818,Email Campaign,Referral,stay,
+3819,3819,Email Campaign,Organic,operation,
+3820,3820,Google,Organic,,
+3821,3821,Direct,Referral,,
+3822,3822,Facebook,Referral,feel,
+3823,3823,Direct,Referral,,
+3824,3824,Direct,Referral,,
+3825,3825,Email Campaign,Social,,
+3826,3826,Facebook,Referral,,
+3827,3827,Twitter,Referral,must,should
+3828,3828,Google,Social,business,
+3829,3829,Direct,Paid,,
+3830,3830,Facebook,Referral,,
+3831,3831,Facebook,Referral,,
+3832,3832,Facebook,Paid,alone,
+3833,3833,Twitter,Social,,
+3834,3834,Google,Paid,,
+3835,3835,Google,Organic,,
+3836,3836,Email Campaign,Social,,
+3837,3837,Google,Organic,,father
+3838,3838,Google,Social,beyond,
+3839,3839,Direct,Referral,,thank
+3840,3840,Email Campaign,Paid,provide,
+3841,3841,Facebook,Organic,already,
+3842,3842,Twitter,Organic,success,
+3843,3843,Facebook,Social,,
+3844,3844,Google,Paid,serve,
+3845,3845,Google,Paid,church,billion
+3846,3846,Direct,Social,,that
+3847,3847,Email Campaign,Referral,,
+3848,3848,Direct,Paid,other,
+3849,3849,Direct,Paid,community,
+3850,3850,Facebook,Social,tough,
+3851,3851,Google,Organic,,
+3852,3852,Email Campaign,Social,,
+3853,3853,Google,Social,,
+3854,3854,Direct,Social,,
+3855,3855,Direct,Social,everyone,as
+3856,3856,Facebook,Referral,,
+3857,3857,Google,Paid,treatment,cause
+3858,3858,Twitter,Referral,common,another
+3859,3859,Twitter,Paid,,
+3860,3860,Direct,Social,,
+3861,3861,Email Campaign,Referral,project,
+3862,3862,Facebook,Referral,natural,
+3863,3863,Facebook,Organic,,
+3864,3864,Direct,Referral,visit,
+3865,3865,Direct,Social,,
+3866,3866,Twitter,Referral,,
+3867,3867,Direct,Paid,talk,
+3868,3868,Twitter,Paid,,vote
+3869,3869,Twitter,Organic,,who
+3870,3870,Google,Referral,,
+3871,3871,Twitter,Paid,,
+3872,3872,Facebook,Social,suddenly,true
+3873,3873,Twitter,Social,sometimes,
+3874,3874,Facebook,Referral,,lay
+3875,3875,Twitter,Organic,piece,
+3876,3876,Direct,Organic,,
+3877,3877,Email Campaign,Referral,theory,
+3878,3878,Direct,Referral,,
+3879,3879,Twitter,Referral,hear,
+3880,3880,Twitter,Organic,,
+3881,3881,Google,Social,,
+3882,3882,Email Campaign,Organic,,
+3883,3883,Direct,Social,,
+3884,3884,Email Campaign,Paid,,
+3885,3885,Email Campaign,Social,,
+3886,3886,Facebook,Organic,according,
+3887,3887,Facebook,Paid,increase,
+3888,3888,Direct,Organic,,
+3889,3889,Email Campaign,Referral,food,
+3890,3890,Twitter,Social,,
+3891,3891,Twitter,Organic,,
+3892,3892,Email Campaign,Referral,worry,
+3893,3893,Twitter,Organic,,
+3894,3894,Email Campaign,Organic,board,
+3895,3895,Email Campaign,Organic,measure,
+3896,3896,Facebook,Referral,,
+3897,3897,Twitter,Referral,,
+3898,3898,Direct,Paid,most,
+3899,3899,Email Campaign,Organic,,
+3900,3900,Twitter,Referral,place,discuss
+3901,3901,Facebook,Paid,guess,
+3902,3902,Email Campaign,Paid,base,plant
+3903,3903,Twitter,Referral,,
+3904,3904,Email Campaign,Referral,book,
+3905,3905,Email Campaign,Referral,,rise
+3906,3906,Direct,Referral,,
+3907,3907,Twitter,Paid,candidate,
+3908,3908,Twitter,Paid,,ground
+3909,3909,Direct,Social,,
+3910,3910,Email Campaign,Social,degree,
+3911,3911,Google,Organic,particularly,
+3912,3912,Google,Social,score,
+3913,3913,Google,Social,add,training
+3914,3914,Direct,Referral,feel,
+3915,3915,Email Campaign,Referral,,
+3916,3916,Google,Paid,card,
+3917,3917,Email Campaign,Social,,
+3918,3918,Google,Paid,,
+3919,3919,Twitter,Social,,
+3920,3920,Direct,Referral,,hour
+3921,3921,Direct,Social,,
+3922,3922,Email Campaign,Referral,if,
+3923,3923,Twitter,Organic,,organization
+3924,3924,Twitter,Social,their,month
+3925,3925,Facebook,Social,single,
+3926,3926,Facebook,Paid,,
+3927,3927,Direct,Referral,,
+3928,3928,Direct,Social,,within
+3929,3929,Email Campaign,Social,,my
+3930,3930,Direct,Paid,,
+3931,3931,Google,Paid,research,
+3932,3932,Direct,Paid,,off
+3933,3933,Email Campaign,Social,area,
+3934,3934,Facebook,Paid,,
+3935,3935,Twitter,Social,,
+3936,3936,Twitter,Referral,national,
+3937,3937,Google,Referral,,
+3938,3938,Email Campaign,Organic,ago,hundred
+3939,3939,Twitter,Referral,,worker
+3940,3940,Google,Paid,,
+3941,3941,Email Campaign,Organic,main,
+3942,3942,Google,Paid,hear,
+3943,3943,Facebook,Social,,possible
+3944,3944,Direct,Paid,,suffer
+3945,3945,Email Campaign,Referral,health,measure
+3946,3946,Twitter,Referral,,
+3947,3947,Facebook,Organic,,have
+3948,3948,Google,Referral,bed,
+3949,3949,Direct,Social,list,marriage
+3950,3950,Direct,Paid,history,
+3951,3951,Direct,Referral,push,
+3952,3952,Facebook,Referral,,peace
+3953,3953,Email Campaign,Paid,,
+3954,3954,Twitter,Organic,because,
+3955,3955,Twitter,Paid,,
+3956,3956,Email Campaign,Referral,,
+3957,3957,Google,Referral,,
+3958,3958,Google,Paid,rise,
+3959,3959,Facebook,Social,nation,
+3960,3960,Facebook,Paid,off,theory
+3961,3961,Email Campaign,Paid,court,
+3962,3962,Direct,Referral,list,decade
+3963,3963,Twitter,Paid,use,science
+3964,3964,Email Campaign,Referral,government,
+3965,3965,Direct,Paid,participant,
+3966,3966,Facebook,Social,,
+3967,3967,Direct,Social,provide,
+3968,3968,Google,Paid,Congress,
+3969,3969,Direct,Organic,education,
+3970,3970,Email Campaign,Organic,decade,resource
+3971,3971,Direct,Social,,push
+3972,3972,Google,Organic,agency,goal
+3973,3973,Facebook,Social,discover,
+3974,3974,Email Campaign,Organic,,across
+3975,3975,Twitter,Organic,but,
+3976,3976,Email Campaign,Paid,,level
+3977,3977,Facebook,Referral,try,mission
+3978,3978,Twitter,Paid,,
+3979,3979,Email Campaign,Social,final,
+3980,3980,Twitter,Organic,enter,
+3981,3981,Twitter,Referral,,into
+3982,3982,Google,Paid,none,
+3983,3983,Google,Paid,program,
+3984,3984,Email Campaign,Paid,,
+3985,3985,Twitter,Paid,,
+3986,3986,Twitter,Referral,standard,
+3987,3987,Facebook,Paid,,
+3988,3988,Google,Paid,,
+3989,3989,Facebook,Organic,,represent
+3990,3990,Facebook,Paid,group,
+3991,3991,Direct,Referral,,
+3992,3992,Twitter,Organic,difference,
+3993,3993,Google,Organic,,
+3994,3994,Facebook,Paid,,
+3995,3995,Google,Paid,,
+3996,3996,Twitter,Paid,,
+3997,3997,Direct,Referral,,win
+3998,3998,Twitter,Paid,wall,avoid
+3999,3999,Email Campaign,Social,,
+4000,4000,Google,Social,season,
+4001,4001,Email Campaign,Organic,,red
+4002,4002,Direct,Social,,
+4003,4003,Direct,Organic,rise,
+4004,4004,Facebook,Social,finally,
+4005,4005,Facebook,Referral,concern,think
+4006,4006,Twitter,Referral,,
+4007,4007,Direct,Referral,,
+4008,4008,Facebook,Social,wind,compare
+4009,4009,Email Campaign,Referral,,
+4010,4010,Facebook,Paid,,everyone
+4011,4011,Google,Referral,,official
+4012,4012,Google,Organic,,
+4013,4013,Twitter,Paid,,
+4014,4014,Google,Social,road,
+4015,4015,Twitter,Paid,mother,
+4016,4016,Google,Paid,,
+4017,4017,Direct,Social,,think
+4018,4018,Direct,Social,owner,
+4019,4019,Direct,Paid,threat,down
+4020,4020,Twitter,Paid,,
+4021,4021,Google,Paid,style,scene
+4022,4022,Facebook,Paid,,
+4023,4023,Direct,Social,,
+4024,4024,Google,Referral,,
+4025,4025,Facebook,Paid,lawyer,job
+4026,4026,Twitter,Paid,television,
+4027,4027,Direct,Paid,,
+4028,4028,Google,Paid,,
+4029,4029,Email Campaign,Organic,,
+4030,4030,Email Campaign,Paid,form,
+4031,4031,Direct,Referral,,
+4032,4032,Google,Referral,,
+4033,4033,Email Campaign,Organic,,
+4034,4034,Twitter,Referral,character,
+4035,4035,Facebook,Organic,,quickly
+4036,4036,Facebook,Organic,beautiful,
+4037,4037,Email Campaign,Referral,,
+4038,4038,Facebook,Social,,plant
+4039,4039,Google,Paid,,
+4040,4040,Facebook,Paid,store,
+4041,4041,Twitter,Referral,,
+4042,4042,Facebook,Referral,,your
+4043,4043,Email Campaign,Paid,put,act
+4044,4044,Email Campaign,Referral,,
+4045,4045,Email Campaign,Referral,,
+4046,4046,Facebook,Organic,,
+4047,4047,Email Campaign,Organic,candidate,
+4048,4048,Google,Paid,,
+4049,4049,Twitter,Paid,,
+4050,4050,Twitter,Organic,,
+4051,4051,Email Campaign,Social,individual,
+4052,4052,Google,Social,,
+4053,4053,Facebook,Referral,security,
+4054,4054,Facebook,Paid,evening,
+4055,4055,Google,Referral,,skill
+4056,4056,Facebook,Social,method,
+4057,4057,Twitter,Paid,score,
+4058,4058,Email Campaign,Social,,
+4059,4059,Facebook,Social,,
+4060,4060,Facebook,Referral,,
+4061,4061,Facebook,Social,,
+4062,4062,Direct,Organic,,mind
+4063,4063,Direct,Organic,difference,
+4064,4064,Email Campaign,Social,take,
+4065,4065,Direct,Paid,notice,action
+4066,4066,Google,Organic,bag,theory
+4067,4067,Facebook,Social,brother,
+4068,4068,Twitter,Referral,all,three
+4069,4069,Direct,Referral,,
+4070,4070,Direct,Social,,
+4071,4071,Email Campaign,Referral,figure,
+4072,4072,Direct,Social,,
+4073,4073,Email Campaign,Social,,
+4074,4074,Google,Organic,,
+4075,4075,Google,Referral,here,
+4076,4076,Direct,Paid,,if
+4077,4077,Google,Paid,tax,
+4078,4078,Facebook,Organic,,
+4079,4079,Direct,Organic,,during
+4080,4080,Email Campaign,Social,already,
+4081,4081,Email Campaign,Organic,,girl
+4082,4082,Direct,Social,affect,
+4083,4083,Email Campaign,Referral,from,coach
+4084,4084,Direct,Referral,recent,toward
+4085,4085,Google,Social,special,
+4086,4086,Facebook,Referral,fill,account
+4087,4087,Facebook,Paid,catch,professional
+4088,4088,Direct,Organic,,fast
+4089,4089,Facebook,Referral,,phone
+4090,4090,Google,Paid,,law
+4091,4091,Google,Organic,,
+4092,4092,Google,Referral,,
+4093,4093,Twitter,Referral,,
+4094,4094,Twitter,Social,,poor
+4095,4095,Facebook,Social,,somebody
+4096,4096,Facebook,Organic,parent,understand
+4097,4097,Direct,Organic,,
+4098,4098,Twitter,Referral,,
+4099,4099,Direct,Paid,miss,
+4100,4100,Email Campaign,Social,,
+4101,4101,Direct,Referral,,
+4102,4102,Twitter,Referral,despite,
+4103,4103,Facebook,Social,parent,learn
+4104,4104,Email Campaign,Organic,,dog
+4105,4105,Facebook,Organic,serve,floor
+4106,4106,Facebook,Organic,,couple
+4107,4107,Facebook,Social,,traditional
+4108,4108,Facebook,Referral,people,
+4109,4109,Email Campaign,Social,,scientist
+4110,4110,Direct,Social,important,order
+4111,4111,Direct,Organic,,
+4112,4112,Facebook,Organic,across,
+4113,4113,Google,Social,group,
+4114,4114,Email Campaign,Social,,
+4115,4115,Facebook,Social,already,
+4116,4116,Email Campaign,Paid,have,win
+4117,4117,Email Campaign,Social,wife,
+4118,4118,Google,Organic,safe,
+4119,4119,Facebook,Paid,,
+4120,4120,Google,Paid,,
+4121,4121,Email Campaign,Organic,start,
+4122,4122,Direct,Organic,,
+4123,4123,Google,Social,,
+4124,4124,Twitter,Social,talk,
+4125,4125,Facebook,Organic,movie,
+4126,4126,Twitter,Organic,,
+4127,4127,Direct,Paid,,
+4128,4128,Facebook,Referral,,
+4129,4129,Twitter,Social,,
+4130,4130,Twitter,Social,modern,spring
+4131,4131,Twitter,Social,lot,
+4132,4132,Google,Paid,,quality
+4133,4133,Twitter,Paid,,up
+4134,4134,Twitter,Organic,specific,
+4135,4135,Direct,Referral,hot,
+4136,4136,Direct,Organic,,
+4137,4137,Google,Paid,,boy
+4138,4138,Direct,Organic,,
+4139,4139,Twitter,Social,probably,
+4140,4140,Facebook,Paid,remain,
+4141,4141,Direct,Social,,
+4142,4142,Direct,Referral,at,
+4143,4143,Facebook,Referral,,
+4144,4144,Twitter,Organic,,campaign
+4145,4145,Facebook,Referral,charge,language
+4146,4146,Facebook,Organic,yet,
+4147,4147,Facebook,Referral,,
+4148,4148,Direct,Social,story,develop
+4149,4149,Facebook,Referral,whose,
+4150,4150,Direct,Paid,add,
+4151,4151,Email Campaign,Organic,,
+4152,4152,Google,Paid,,
+4153,4153,Direct,Paid,sign,
+4154,4154,Google,Referral,,inside
+4155,4155,Facebook,Social,find,
+4156,4156,Google,Referral,,
+4157,4157,Google,Paid,dream,
+4158,4158,Email Campaign,Social,through,
+4159,4159,Direct,Social,,
+4160,4160,Facebook,Social,,
+4161,4161,Email Campaign,Paid,including,
+4162,4162,Twitter,Referral,operation,
+4163,4163,Facebook,Paid,recent,
+4164,4164,Direct,Organic,according,
+4165,4165,Direct,Referral,beat,
+4166,4166,Facebook,Paid,,else
+4167,4167,Direct,Social,study,
+4168,4168,Direct,Referral,appear,movie
+4169,4169,Facebook,Paid,put,
+4170,4170,Facebook,Organic,later,
+4171,4171,Google,Organic,,
+4172,4172,Direct,Paid,,
+4173,4173,Email Campaign,Paid,particularly,
+4174,4174,Email Campaign,Organic,herself,
+4175,4175,Twitter,Referral,necessary,
+4176,4176,Direct,Paid,,land
+4177,4177,Facebook,Referral,story,
+4178,4178,Email Campaign,Organic,deep,moment
+4179,4179,Facebook,Paid,still,
+4180,4180,Twitter,Referral,plant,
+4181,4181,Twitter,Social,,happen
+4182,4182,Email Campaign,Social,green,
+4183,4183,Twitter,Social,,
+4184,4184,Direct,Social,,
+4185,4185,Google,Social,director,item
+4186,4186,Google,Organic,space,culture
+4187,4187,Twitter,Paid,,hand
+4188,4188,Direct,Paid,hotel,market
+4189,4189,Twitter,Social,,
+4190,4190,Email Campaign,Social,Democrat,
+4191,4191,Twitter,Social,daughter,
+4192,4192,Google,Organic,visit,
+4193,4193,Twitter,Paid,for,
+4194,4194,Email Campaign,Organic,,
+4195,4195,Facebook,Organic,finally,
+4196,4196,Email Campaign,Organic,plan,
+4197,4197,Email Campaign,Referral,,television
+4198,4198,Facebook,Organic,common,
+4199,4199,Facebook,Social,,
+4200,4200,Direct,Organic,,
+4201,4201,Direct,Paid,audience,
+4202,4202,Email Campaign,Referral,,possible
+4203,4203,Google,Paid,cause,seven
+4204,4204,Facebook,Social,,rise
+4205,4205,Google,Social,daughter,
+4206,4206,Facebook,Social,house,appear
+4207,4207,Twitter,Referral,,
+4208,4208,Email Campaign,Paid,hold,
+4209,4209,Twitter,Social,great,
+4210,4210,Twitter,Organic,,law
+4211,4211,Email Campaign,Paid,,
+4212,4212,Facebook,Social,other,culture
+4213,4213,Facebook,Paid,,
+4214,4214,Google,Organic,,
+4215,4215,Facebook,Social,appear,
+4216,4216,Google,Referral,interest,
+4217,4217,Twitter,Social,dog,
+4218,4218,Email Campaign,Social,happy,edge
+4219,4219,Twitter,Organic,,be
+4220,4220,Facebook,Social,,
+4221,4221,Direct,Paid,together,choose
+4222,4222,Direct,Referral,teacher,important
+4223,4223,Facebook,Organic,,
+4224,4224,Direct,Referral,call,firm
+4225,4225,Facebook,Organic,artist,
+4226,4226,Email Campaign,Organic,,
+4227,4227,Email Campaign,Paid,gas,
+4228,4228,Facebook,Organic,sport,
+4229,4229,Email Campaign,Referral,,
+4230,4230,Direct,Social,image,
+4231,4231,Google,Paid,particularly,
+4232,4232,Direct,Paid,total,
+4233,4233,Direct,Paid,,
+4234,4234,Twitter,Social,,
+4235,4235,Facebook,Paid,just,find
+4236,4236,Twitter,Organic,military,
+4237,4237,Direct,Paid,significant,
+4238,4238,Google,Paid,,
+4239,4239,Google,Referral,particular,
+4240,4240,Facebook,Paid,especially,
+4241,4241,Email Campaign,Paid,,thousand
+4242,4242,Facebook,Social,property,
+4243,4243,Direct,Referral,time,
+4244,4244,Twitter,Organic,role,
+4245,4245,Twitter,Paid,effort,sometimes
+4246,4246,Direct,Organic,suggest,
+4247,4247,Email Campaign,Paid,,contain
+4248,4248,Email Campaign,Social,,
+4249,4249,Email Campaign,Social,certain,
+4250,4250,Facebook,Organic,record,
+4251,4251,Google,Organic,,
+4252,4252,Facebook,Organic,group,
+4253,4253,Direct,Referral,owner,
+4254,4254,Facebook,Paid,wind,manage
+4255,4255,Twitter,Referral,,
+4256,4256,Direct,Paid,investment,
+4257,4257,Facebook,Social,,cause
+4258,4258,Google,Organic,paper,
+4259,4259,Twitter,Paid,yes,
+4260,4260,Facebook,Referral,,civil
+4261,4261,Twitter,Social,,
+4262,4262,Direct,Referral,,response
+4263,4263,Twitter,Referral,,
+4264,4264,Direct,Social,,receive
+4265,4265,Email Campaign,Organic,rather,
+4266,4266,Facebook,Paid,agent,dinner
+4267,4267,Direct,Social,final,unit
+4268,4268,Direct,Organic,model,
+4269,4269,Direct,Organic,,
+4270,4270,Google,Paid,,
+4271,4271,Twitter,Referral,car,
+4272,4272,Google,Organic,upon,
+4273,4273,Facebook,Referral,,
+4274,4274,Twitter,Organic,,
+4275,4275,Email Campaign,Referral,,
+4276,4276,Twitter,Social,,
+4277,4277,Facebook,Social,without,
+4278,4278,Direct,Social,success,
+4279,4279,Google,Organic,,
+4280,4280,Facebook,Organic,end,
+4281,4281,Email Campaign,Organic,,usually
+4282,4282,Google,Organic,,
+4283,4283,Twitter,Organic,,commercial
+4284,4284,Email Campaign,Referral,word,
+4285,4285,Google,Organic,,
+4286,4286,Google,Social,,along
+4287,4287,Email Campaign,Paid,,
+4288,4288,Google,Referral,yes,
+4289,4289,Twitter,Referral,,
+4290,4290,Facebook,Referral,,popular
+4291,4291,Google,Social,various,
+4292,4292,Facebook,Social,,
+4293,4293,Google,Organic,,
+4294,4294,Facebook,Organic,himself,relationship
+4295,4295,Twitter,Referral,them,edge
+4296,4296,Direct,Social,,
+4297,4297,Email Campaign,Social,skin,
+4298,4298,Twitter,Organic,,
+4299,4299,Email Campaign,Social,,
+4300,4300,Direct,Referral,who,wife
+4301,4301,Facebook,Social,necessary,
+4302,4302,Email Campaign,Paid,real,decade
+4303,4303,Facebook,Organic,not,
+4304,4304,Twitter,Paid,,
+4305,4305,Email Campaign,Social,garden,culture
+4306,4306,Facebook,Paid,husband,
+4307,4307,Facebook,Social,,
+4308,4308,Facebook,Social,,
+4309,4309,Facebook,Organic,family,
+4310,4310,Email Campaign,Paid,plant,
+4311,4311,Google,Referral,,
+4312,4312,Direct,Referral,,
+4313,4313,Email Campaign,Referral,animal,
+4314,4314,Direct,Paid,education,foot
+4315,4315,Email Campaign,Organic,,show
+4316,4316,Google,Referral,,vote
+4317,4317,Facebook,Referral,,mind
+4318,4318,Direct,Paid,,
+4319,4319,Direct,Social,,
+4320,4320,Twitter,Organic,gun,
+4321,4321,Direct,Paid,game,wait
+4322,4322,Email Campaign,Organic,the,
+4323,4323,Direct,Referral,,
+4324,4324,Facebook,Referral,,
+4325,4325,Facebook,Social,in,
+4326,4326,Direct,Paid,process,
+4327,4327,Email Campaign,Referral,,drive
+4328,4328,Twitter,Referral,successful,
+4329,4329,Google,Social,situation,
+4330,4330,Google,Social,,
+4331,4331,Email Campaign,Social,behavior,
+4332,4332,Email Campaign,Organic,base,
+4333,4333,Direct,Referral,mention,
+4334,4334,Direct,Referral,trial,health
+4335,4335,Google,Social,,
+4336,4336,Email Campaign,Social,enough,between
+4337,4337,Google,Social,,
+4338,4338,Facebook,Referral,federal,today
+4339,4339,Email Campaign,Social,as,star
+4340,4340,Direct,Organic,purpose,
+4341,4341,Email Campaign,Social,,
+4342,4342,Facebook,Referral,heavy,
+4343,4343,Email Campaign,Referral,,
+4344,4344,Email Campaign,Paid,smile,
+4345,4345,Facebook,Referral,particularly,trip
+4346,4346,Email Campaign,Organic,here,drive
+4347,4347,Google,Referral,wish,
+4348,4348,Email Campaign,Paid,tell,
+4349,4349,Email Campaign,Organic,agreement,
+4350,4350,Direct,Paid,share,
+4351,4351,Email Campaign,Referral,,program
+4352,4352,Twitter,Referral,,
+4353,4353,Twitter,Social,amount,environment
+4354,4354,Twitter,Paid,,
+4355,4355,Twitter,Social,,
+4356,4356,Direct,Referral,television,
+4357,4357,Twitter,Organic,particular,rich
+4358,4358,Twitter,Paid,,
+4359,4359,Email Campaign,Referral,,
+4360,4360,Google,Paid,trade,
+4361,4361,Facebook,Paid,,
+4362,4362,Google,Social,,pattern
+4363,4363,Facebook,Referral,,international
+4364,4364,Email Campaign,Referral,pattern,
+4365,4365,Twitter,Social,gun,
+4366,4366,Email Campaign,Paid,mouth,
+4367,4367,Facebook,Paid,order,
+4368,4368,Facebook,Referral,nice,
+4369,4369,Google,Social,PM,
+4370,4370,Direct,Social,,
+4371,4371,Facebook,Social,,
+4372,4372,Email Campaign,Referral,,
+4373,4373,Facebook,Paid,,sit
+4374,4374,Email Campaign,Referral,,
+4375,4375,Facebook,Referral,record,
+4376,4376,Facebook,Social,,
+4377,4377,Email Campaign,Paid,,
+4378,4378,Direct,Social,,agency
+4379,4379,Facebook,Organic,actually,
+4380,4380,Facebook,Referral,until,
+4381,4381,Google,Social,,
+4382,4382,Facebook,Paid,,
+4383,4383,Facebook,Organic,space,
+4384,4384,Twitter,Paid,ten,
+4385,4385,Facebook,Organic,,
+4386,4386,Direct,Organic,,
+4387,4387,Direct,Paid,,measure
+4388,4388,Email Campaign,Social,what,
+4389,4389,Google,Organic,,
+4390,4390,Direct,Social,,
+4391,4391,Twitter,Organic,,TV
+4392,4392,Direct,Paid,eat,
+4393,4393,Email Campaign,Paid,it,new
+4394,4394,Email Campaign,Paid,,
+4395,4395,Twitter,Referral,whatever,TV
+4396,4396,Facebook,Organic,,
+4397,4397,Email Campaign,Referral,,
+4398,4398,Direct,Social,remain,
+4399,4399,Facebook,Social,series,own
+4400,4400,Twitter,Social,important,
+4401,4401,Google,Paid,price,
+4402,4402,Google,Social,here,
+4403,4403,Facebook,Paid,,account
+4404,4404,Facebook,Referral,,
+4405,4405,Facebook,Paid,believe,
+4406,4406,Facebook,Social,affect,
+4407,4407,Email Campaign,Organic,,
+4408,4408,Google,Referral,,
+4409,4409,Direct,Social,story,
+4410,4410,Email Campaign,Referral,ten,
+4411,4411,Email Campaign,Paid,science,
+4412,4412,Email Campaign,Paid,,energy
+4413,4413,Facebook,Referral,,
+4414,4414,Google,Referral,,
+4415,4415,Facebook,Social,treatment,later
+4416,4416,Email Campaign,Organic,,medical
+4417,4417,Email Campaign,Organic,,
+4418,4418,Twitter,Referral,,head
+4419,4419,Twitter,Paid,,
+4420,4420,Direct,Social,upon,
+4421,4421,Twitter,Social,since,
+4422,4422,Email Campaign,Referral,,
+4423,4423,Facebook,Paid,budget,
+4424,4424,Twitter,Paid,rule,
+4425,4425,Email Campaign,Social,,
+4426,4426,Direct,Referral,add,
+4427,4427,Email Campaign,Referral,,media
+4428,4428,Direct,Organic,,
+4429,4429,Google,Referral,,
+4430,4430,Direct,Organic,commercial,
+4431,4431,Facebook,Paid,,
+4432,4432,Twitter,Organic,structure,
+4433,4433,Email Campaign,Paid,education,
+4434,4434,Google,Paid,,
+4435,4435,Facebook,Referral,one,miss
+4436,4436,Google,Organic,suddenly,
+4437,4437,Email Campaign,Paid,,
+4438,4438,Facebook,Referral,owner,particularly
+4439,4439,Google,Paid,to,street
+4440,4440,Google,Paid,,focus
+4441,4441,Email Campaign,Social,story,believe
+4442,4442,Email Campaign,Paid,,
+4443,4443,Google,Social,,
+4444,4444,Direct,Organic,near,
+4445,4445,Facebook,Paid,too,
+4446,4446,Direct,Social,,
+4447,4447,Facebook,Organic,vote,
+4448,4448,Facebook,Organic,,
+4449,4449,Google,Organic,,
+4450,4450,Twitter,Paid,away,
+4451,4451,Google,Referral,,
+4452,4452,Direct,Social,,
+4453,4453,Email Campaign,Paid,old,
+4454,4454,Google,Social,,
+4455,4455,Twitter,Organic,half,
+4456,4456,Google,Social,travel,
+4457,4457,Twitter,Paid,,
+4458,4458,Email Campaign,Referral,,
+4459,4459,Facebook,Paid,knowledge,
+4460,4460,Facebook,Social,young,anything
+4461,4461,Facebook,Social,walk,recognize
+4462,4462,Twitter,Referral,employee,
+4463,4463,Email Campaign,Organic,,
+4464,4464,Direct,Social,little,
+4465,4465,Email Campaign,Organic,environmental,
+4466,4466,Direct,Paid,strong,
+4467,4467,Direct,Organic,form,
+4468,4468,Twitter,Social,,
+4469,4469,Direct,Paid,,
+4470,4470,Direct,Referral,whole,because
+4471,4471,Direct,Social,product,
+4472,4472,Direct,Organic,,
+4473,4473,Direct,Paid,,
+4474,4474,Direct,Paid,,late
+4475,4475,Direct,Organic,,fall
+4476,4476,Email Campaign,Social,writer,
+4477,4477,Direct,Social,,
+4478,4478,Facebook,Social,forward,
+4479,4479,Email Campaign,Referral,level,
+4480,4480,Twitter,Organic,,
+4481,4481,Twitter,Social,,
+4482,4482,Facebook,Social,off,
+4483,4483,Twitter,Referral,eight,eat
+4484,4484,Google,Social,dark,
+4485,4485,Google,Organic,,its
+4486,4486,Direct,Social,,
+4487,4487,Google,Paid,,
+4488,4488,Direct,Referral,,
+4489,4489,Email Campaign,Social,age,
+4490,4490,Direct,Referral,wall,same
+4491,4491,Email Campaign,Social,on,
+4492,4492,Twitter,Organic,,
+4493,4493,Google,Organic,,
+4494,4494,Facebook,Social,,table
+4495,4495,Direct,Social,,condition
+4496,4496,Facebook,Paid,quality,prove
+4497,4497,Twitter,Organic,,
+4498,4498,Google,Social,computer,
+4499,4499,Google,Organic,,
+4500,4500,Google,Social,other,
+4501,4501,Google,Referral,production,
+4502,4502,Email Campaign,Organic,,
+4503,4503,Email Campaign,Organic,third,
+4504,4504,Twitter,Organic,,happen
+4505,4505,Email Campaign,Social,general,receive
+4506,4506,Email Campaign,Organic,early,
+4507,4507,Twitter,Referral,my,effort
+4508,4508,Direct,Paid,ready,practice
+4509,4509,Facebook,Referral,,
+4510,4510,Twitter,Social,,reason
+4511,4511,Facebook,Paid,,
+4512,4512,Twitter,Paid,close,
+4513,4513,Google,Social,,
+4514,4514,Email Campaign,Social,son,
+4515,4515,Twitter,Organic,,
+4516,4516,Direct,Paid,strong,computer
+4517,4517,Google,Paid,,
+4518,4518,Email Campaign,Paid,significant,significant
+4519,4519,Facebook,Paid,,particular
+4520,4520,Twitter,Organic,clearly,
+4521,4521,Google,Social,relationship,mean
+4522,4522,Direct,Referral,myself,
+4523,4523,Facebook,Social,,
+4524,4524,Direct,Social,right,
+4525,4525,Direct,Referral,may,house
+4526,4526,Direct,Referral,,now
+4527,4527,Facebook,Social,them,
+4528,4528,Twitter,Referral,old,
+4529,4529,Direct,Paid,add,tree
+4530,4530,Direct,Referral,,
+4531,4531,Email Campaign,Paid,meeting,
+4532,4532,Twitter,Referral,,
+4533,4533,Twitter,Paid,sure,
+4534,4534,Facebook,Paid,,head
+4535,4535,Google,Paid,method,
+4536,4536,Twitter,Paid,,remain
+4537,4537,Direct,Organic,oil,tell
+4538,4538,Facebook,Paid,,
+4539,4539,Google,Organic,kid,music
+4540,4540,Direct,Referral,quickly,sort
+4541,4541,Direct,Organic,power,red
+4542,4542,Twitter,Organic,,
+4543,4543,Facebook,Social,,executive
+4544,4544,Twitter,Paid,road,
+4545,4545,Twitter,Paid,cut,
+4546,4546,Facebook,Organic,,
+4547,4547,Facebook,Organic,,
+4548,4548,Email Campaign,Paid,option,
+4549,4549,Google,Paid,five,discover
+4550,4550,Direct,Social,successful,player
+4551,4551,Facebook,Paid,,
+4552,4552,Email Campaign,Social,sign,
+4553,4553,Email Campaign,Referral,race,
+4554,4554,Direct,Referral,,pressure
+4555,4555,Twitter,Paid,name,oil
+4556,4556,Email Campaign,Organic,,
+4557,4557,Email Campaign,Referral,voice,
+4558,4558,Direct,Paid,,
+4559,4559,Email Campaign,Organic,remain,
+4560,4560,Facebook,Referral,,
+4561,4561,Google,Social,,
+4562,4562,Email Campaign,Social,training,
+4563,4563,Email Campaign,Referral,work,full
+4564,4564,Direct,Organic,,air
+4565,4565,Google,Paid,,
+4566,4566,Google,Social,key,
+4567,4567,Email Campaign,Referral,,
+4568,4568,Email Campaign,Organic,sure,type
+4569,4569,Google,Referral,official,
+4570,4570,Email Campaign,Referral,read,she
+4571,4571,Twitter,Paid,think,
+4572,4572,Direct,Social,buy,
+4573,4573,Google,Social,drive,
+4574,4574,Email Campaign,Organic,,executive
+4575,4575,Direct,Organic,,black
+4576,4576,Facebook,Social,,
+4577,4577,Facebook,Organic,learn,price
+4578,4578,Facebook,Paid,,inside
+4579,4579,Twitter,Social,sometimes,
+4580,4580,Google,Paid,must,
+4581,4581,Direct,Organic,,rate
+4582,4582,Facebook,Referral,be,
+4583,4583,Facebook,Organic,enough,agreement
+4584,4584,Facebook,Referral,great,
+4585,4585,Email Campaign,Referral,build,
+4586,4586,Facebook,Referral,,
+4587,4587,Email Campaign,Referral,enough,
+4588,4588,Google,Organic,range,
+4589,4589,Twitter,Paid,,
+4590,4590,Direct,Organic,result,but
+4591,4591,Direct,Paid,movement,say
+4592,4592,Google,Referral,,
+4593,4593,Google,Social,,
+4594,4594,Email Campaign,Paid,,
+4595,4595,Google,Social,power,company
+4596,4596,Direct,Social,research,
+4597,4597,Direct,Paid,experience,
+4598,4598,Google,Paid,,
+4599,4599,Facebook,Referral,speak,democratic
+4600,4600,Facebook,Organic,politics,
+4601,4601,Twitter,Referral,,
+4602,4602,Facebook,Paid,various,
+4603,4603,Google,Paid,ahead,
+4604,4604,Twitter,Social,,
+4605,4605,Google,Organic,require,wait
+4606,4606,Twitter,Paid,can,should
+4607,4607,Email Campaign,Social,then,
+4608,4608,Email Campaign,Organic,,enough
+4609,4609,Google,Referral,probably,tell
+4610,4610,Google,Social,to,
+4611,4611,Google,Paid,operation,
+4612,4612,Direct,Organic,,
+4613,4613,Twitter,Social,,detail
+4614,4614,Direct,Paid,,side
+4615,4615,Google,Social,,
+4616,4616,Google,Referral,,
+4617,4617,Facebook,Referral,near,
+4618,4618,Twitter,Organic,stock,
+4619,4619,Direct,Referral,,
+4620,4620,Email Campaign,Organic,ok,
+4621,4621,Twitter,Referral,,
+4622,4622,Twitter,Organic,feeling,take
+4623,4623,Email Campaign,Social,agree,
+4624,4624,Twitter,Paid,,
+4625,4625,Google,Paid,,
+4626,4626,Twitter,Referral,,that
+4627,4627,Twitter,Paid,door,
+4628,4628,Google,Referral,site,night
+4629,4629,Facebook,Paid,she,
+4630,4630,Google,Organic,coach,
+4631,4631,Direct,Social,behavior,
+4632,4632,Google,Social,,
+4633,4633,Google,Organic,,
+4634,4634,Direct,Organic,,
+4635,4635,Direct,Social,,step
+4636,4636,Google,Paid,term,
+4637,4637,Twitter,Referral,thus,some
+4638,4638,Facebook,Organic,,
+4639,4639,Direct,Organic,somebody,
+4640,4640,Direct,Social,,
+4641,4641,Direct,Social,,
+4642,4642,Email Campaign,Organic,,
+4643,4643,Direct,Paid,,
+4644,4644,Facebook,Referral,trouble,only
+4645,4645,Email Campaign,Organic,structure,tree
+4646,4646,Google,Referral,good,
+4647,4647,Direct,Organic,,
+4648,4648,Email Campaign,Paid,certainly,
+4649,4649,Facebook,Social,,
+4650,4650,Direct,Social,friend,sport
+4651,4651,Twitter,Referral,,
+4652,4652,Direct,Organic,,
+4653,4653,Facebook,Paid,I,
+4654,4654,Direct,Paid,reduce,
+4655,4655,Facebook,Social,wish,
+4656,4656,Facebook,Paid,,factor
+4657,4657,Twitter,Paid,give,cultural
+4658,4658,Facebook,Social,,
+4659,4659,Direct,Organic,,measure
+4660,4660,Twitter,Social,care,fear
+4661,4661,Twitter,Social,,fight
+4662,4662,Direct,Social,ago,
+4663,4663,Google,Paid,hold,
+4664,4664,Google,Paid,,
+4665,4665,Email Campaign,Referral,,information
+4666,4666,Google,Organic,box,
+4667,4667,Twitter,Referral,,only
+4668,4668,Facebook,Paid,start,
+4669,4669,Twitter,Organic,bad,
+4670,4670,Twitter,Social,,
+4671,4671,Email Campaign,Organic,special,
+4672,4672,Twitter,Organic,,agent
+4673,4673,Google,Paid,top,
+4674,4674,Google,Social,put,you
+4675,4675,Google,Organic,too,
+4676,4676,Email Campaign,Paid,,writer
+4677,4677,Direct,Paid,,
+4678,4678,Email Campaign,Organic,,agency
+4679,4679,Google,Organic,,
+4680,4680,Twitter,Social,,
+4681,4681,Email Campaign,Referral,score,natural
+4682,4682,Twitter,Social,,
+4683,4683,Facebook,Social,,
+4684,4684,Email Campaign,Social,,
+4685,4685,Facebook,Social,stock,
+4686,4686,Facebook,Social,,
+4687,4687,Email Campaign,Organic,,
+4688,4688,Twitter,Paid,,
+4689,4689,Direct,Organic,,dark
+4690,4690,Facebook,Organic,,
+4691,4691,Twitter,Paid,million,
+4692,4692,Facebook,Referral,often,
+4693,4693,Twitter,Social,care,realize
+4694,4694,Direct,Paid,,
+4695,4695,Facebook,Paid,,
+4696,4696,Facebook,Referral,,
+4697,4697,Direct,Social,,
+4698,4698,Direct,Social,arm,pressure
+4699,4699,Google,Paid,air,catch
+4700,4700,Twitter,Paid,,second
+4701,4701,Email Campaign,Social,bag,
+4702,4702,Facebook,Social,finally,
+4703,4703,Google,Organic,scene,
+4704,4704,Email Campaign,Organic,,
+4705,4705,Facebook,Organic,,commercial
+4706,4706,Email Campaign,Referral,list,form
+4707,4707,Email Campaign,Organic,,
+4708,4708,Facebook,Referral,tell,
+4709,4709,Email Campaign,Referral,you,
+4710,4710,Facebook,Organic,,
+4711,4711,Facebook,Social,send,
+4712,4712,Twitter,Social,,
+4713,4713,Facebook,Referral,,
+4714,4714,Facebook,Organic,list,
+4715,4715,Email Campaign,Social,,
+4716,4716,Direct,Organic,,
+4717,4717,Twitter,Paid,development,
+4718,4718,Twitter,Paid,,
+4719,4719,Facebook,Organic,,
+4720,4720,Google,Social,,
+4721,4721,Google,Organic,seek,
+4722,4722,Twitter,Referral,question,
+4723,4723,Direct,Paid,fish,
+4724,4724,Direct,Referral,,
+4725,4725,Direct,Social,age,
+4726,4726,Google,Organic,,job
+4727,4727,Google,Referral,such,
+4728,4728,Direct,Paid,,
+4729,4729,Twitter,Paid,science,
+4730,4730,Twitter,Social,,
+4731,4731,Google,Social,,
+4732,4732,Twitter,Organic,approach,
+4733,4733,Twitter,Social,by,
+4734,4734,Email Campaign,Social,green,beyond
+4735,4735,Direct,Referral,position,coach
+4736,4736,Direct,Paid,,partner
+4737,4737,Twitter,Referral,,
+4738,4738,Direct,Referral,,
+4739,4739,Email Campaign,Paid,perform,
+4740,4740,Twitter,Paid,,
+4741,4741,Direct,Organic,subject,
+4742,4742,Email Campaign,Paid,once,
+4743,4743,Twitter,Organic,possible,
+4744,4744,Facebook,Organic,course,
+4745,4745,Facebook,Organic,,memory
+4746,4746,Direct,Organic,imagine,
+4747,4747,Google,Organic,,
+4748,4748,Email Campaign,Organic,,
+4749,4749,Facebook,Social,,
+4750,4750,Twitter,Paid,new,
+4751,4751,Direct,Social,,
+4752,4752,Direct,Referral,enjoy,seven
+4753,4753,Google,Referral,action,artist
+4754,4754,Direct,Referral,,
+4755,4755,Direct,Social,without,
+4756,4756,Facebook,Paid,,
+4757,4757,Direct,Social,,
+4758,4758,Direct,Referral,know,
+4759,4759,Facebook,Referral,reason,
+4760,4760,Direct,Referral,light,
+4761,4761,Direct,Paid,area,music
+4762,4762,Email Campaign,Social,,expect
+4763,4763,Email Campaign,Paid,particularly,second
+4764,4764,Facebook,Referral,vote,
+4765,4765,Twitter,Social,,truth
+4766,4766,Email Campaign,Paid,,
+4767,4767,Google,Referral,name,
+4768,4768,Email Campaign,Organic,,
+4769,4769,Email Campaign,Paid,,
+4770,4770,Email Campaign,Referral,,follow
+4771,4771,Twitter,Referral,hot,
+4772,4772,Direct,Social,central,
+4773,4773,Twitter,Organic,,
+4774,4774,Google,Organic,,early
+4775,4775,Email Campaign,Referral,,future
+4776,4776,Twitter,Social,cold,
+4777,4777,Facebook,Social,language,
+4778,4778,Facebook,Referral,,early
+4779,4779,Facebook,Paid,,fact
+4780,4780,Facebook,Paid,,ground
+4781,4781,Email Campaign,Referral,,
+4782,4782,Email Campaign,Referral,laugh,
+4783,4783,Twitter,Social,,
+4784,4784,Twitter,Social,,
+4785,4785,Facebook,Social,cup,
+4786,4786,Direct,Organic,subject,beautiful
+4787,4787,Direct,Social,a,
+4788,4788,Direct,Paid,,
+4789,4789,Twitter,Social,,
+4790,4790,Email Campaign,Organic,,television
+4791,4791,Direct,Referral,see,
+4792,4792,Email Campaign,Organic,,
+4793,4793,Direct,Organic,bill,
+4794,4794,Google,Social,,
+4795,4795,Facebook,Referral,,note
+4796,4796,Twitter,Paid,,property
+4797,4797,Email Campaign,Paid,buy,
+4798,4798,Direct,Referral,social,
+4799,4799,Twitter,Social,,
+4800,4800,Google,Paid,,
+4801,4801,Google,Organic,policy,
+4802,4802,Direct,Referral,,
+4803,4803,Twitter,Paid,,
+4804,4804,Email Campaign,Paid,think,
+4805,4805,Twitter,Social,law,
+4806,4806,Facebook,Referral,provide,
+4807,4807,Direct,Referral,,national
+4808,4808,Direct,Referral,raise,
+4809,4809,Direct,Social,cost,
+4810,4810,Facebook,Paid,future,opportunity
+4811,4811,Direct,Paid,,
+4812,4812,Email Campaign,Organic,court,this
+4813,4813,Direct,Paid,,part
+4814,4814,Email Campaign,Paid,right,argue
+4815,4815,Email Campaign,Organic,ready,read
+4816,4816,Email Campaign,Social,,
+4817,4817,Email Campaign,Social,bar,
+4818,4818,Twitter,Referral,also,
+4819,4819,Facebook,Social,,
+4820,4820,Email Campaign,Organic,bill,
+4821,4821,Google,Paid,plant,
+4822,4822,Email Campaign,Paid,,
+4823,4823,Google,Social,,morning
+4824,4824,Twitter,Referral,,
+4825,4825,Facebook,Organic,mission,bring
+4826,4826,Google,Organic,same,
+4827,4827,Email Campaign,Referral,fall,
+4828,4828,Direct,Social,,without
+4829,4829,Facebook,Paid,performance,
+4830,4830,Google,Referral,event,
+4831,4831,Email Campaign,Paid,,
+4832,4832,Google,Paid,until,
+4833,4833,Facebook,Organic,,
+4834,4834,Email Campaign,Paid,economic,
+4835,4835,Direct,Organic,simply,necessary
+4836,4836,Google,Referral,,school
+4837,4837,Facebook,Referral,vote,
+4838,4838,Email Campaign,Referral,,
+4839,4839,Direct,Social,soldier,though
+4840,4840,Twitter,Organic,,
+4841,4841,Google,Organic,defense,military
+4842,4842,Twitter,Referral,,
+4843,4843,Facebook,Referral,,official
+4844,4844,Email Campaign,Organic,,
+4845,4845,Twitter,Social,knowledge,
+4846,4846,Facebook,Paid,,
+4847,4847,Direct,Referral,,
+4848,4848,Email Campaign,Organic,page,
+4849,4849,Direct,Paid,together,
+4850,4850,Direct,Paid,,
+4851,4851,Facebook,Referral,until,
+4852,4852,Twitter,Paid,,
+4853,4853,Email Campaign,Social,section,
+4854,4854,Direct,Referral,,it
+4855,4855,Direct,Social,,
+4856,4856,Email Campaign,Paid,ready,agree
+4857,4857,Email Campaign,Social,,head
+4858,4858,Google,Referral,face,hospital
+4859,4859,Twitter,Referral,,attack
+4860,4860,Direct,Organic,child,
+4861,4861,Direct,Referral,worry,
+4862,4862,Facebook,Paid,,
+4863,4863,Twitter,Referral,,
+4864,4864,Email Campaign,Organic,,pick
+4865,4865,Facebook,Referral,whatever,
+4866,4866,Google,Organic,stock,
+4867,4867,Google,Paid,,
+4868,4868,Email Campaign,Referral,,
+4869,4869,Google,Social,of,
+4870,4870,Email Campaign,Referral,,
+4871,4871,Google,Social,there,
+4872,4872,Facebook,Organic,,her
+4873,4873,Email Campaign,Referral,organization,senior
+4874,4874,Direct,Referral,within,
+4875,4875,Direct,Organic,break,move
+4876,4876,Direct,Referral,head,inside
+4877,4877,Facebook,Referral,,
+4878,4878,Direct,Social,,project
+4879,4879,Direct,Organic,bed,
+4880,4880,Direct,Referral,example,report
+4881,4881,Direct,Social,buy,
+4882,4882,Email Campaign,Paid,space,
+4883,4883,Email Campaign,Referral,,
+4884,4884,Facebook,Organic,language,
+4885,4885,Facebook,Organic,music,section
+4886,4886,Google,Referral,modern,
+4887,4887,Facebook,Referral,,
+4888,4888,Google,Paid,,
+4889,4889,Facebook,Organic,nothing,quality
+4890,4890,Twitter,Paid,,
+4891,4891,Direct,Paid,,
+4892,4892,Email Campaign,Social,,
+4893,4893,Direct,Social,,
+4894,4894,Facebook,Social,,student
+4895,4895,Email Campaign,Social,reason,
+4896,4896,Facebook,Organic,,
+4897,4897,Facebook,Referral,door,
+4898,4898,Email Campaign,Social,listen,
+4899,4899,Facebook,Paid,,
+4900,4900,Direct,Paid,green,
+4901,4901,Twitter,Paid,,
+4902,4902,Direct,Paid,use,explain
+4903,4903,Email Campaign,Paid,west,
+4904,4904,Facebook,Social,meet,
+4905,4905,Google,Referral,treat,
+4906,4906,Email Campaign,Paid,simple,
+4907,4907,Twitter,Social,chair,
+4908,4908,Google,Social,,
+4909,4909,Twitter,Paid,,past
+4910,4910,Facebook,Social,,
+4911,4911,Email Campaign,Social,,protect
+4912,4912,Direct,Organic,serve,
+4913,4913,Email Campaign,Organic,,
+4914,4914,Direct,Paid,fast,candidate
+4915,4915,Direct,Social,skill,
+4916,4916,Facebook,Organic,,
+4917,4917,Email Campaign,Social,when,
+4918,4918,Direct,Paid,build,paper
+4919,4919,Direct,Organic,,specific
+4920,4920,Google,Paid,pressure,
+4921,4921,Direct,Referral,too,
+4922,4922,Facebook,Social,,
+4923,4923,Direct,Paid,series,
+4924,4924,Google,Organic,believe,
+4925,4925,Direct,Social,respond,themselves
+4926,4926,Direct,Social,,offer
+4927,4927,Twitter,Social,message,professor
+4928,4928,Google,Organic,prove,
+4929,4929,Facebook,Paid,option,three
+4930,4930,Twitter,Referral,think,
+4931,4931,Google,Referral,it,
+4932,4932,Google,Paid,push,
+4933,4933,Twitter,Referral,,price
+4934,4934,Email Campaign,Referral,,
+4935,4935,Email Campaign,Social,,
+4936,4936,Google,Referral,,fight
+4937,4937,Facebook,Organic,,
+4938,4938,Twitter,Social,these,home
+4939,4939,Twitter,Paid,speech,
+4940,4940,Email Campaign,Referral,suggest,life
+4941,4941,Facebook,Paid,base,
+4942,4942,Email Campaign,Social,,
+4943,4943,Email Campaign,Referral,personal,
+4944,4944,Facebook,Social,,
+4945,4945,Facebook,Organic,,rock
+4946,4946,Google,Organic,until,
+4947,4947,Direct,Paid,prevent,
+4948,4948,Facebook,Social,,
+4949,4949,Email Campaign,Paid,water,may
+4950,4950,Twitter,Paid,,place
+4951,4951,Facebook,Paid,rock,
+4952,4952,Google,Paid,,
+4953,4953,Twitter,Paid,,
+4954,4954,Twitter,Referral,student,
+4955,4955,Facebook,Social,product,
+4956,4956,Email Campaign,Organic,energy,
+4957,4957,Google,Paid,,them
+4958,4958,Direct,Referral,,
+4959,4959,Twitter,Paid,,
+4960,4960,Google,Organic,,
+4961,4961,Facebook,Social,he,bad
+4962,4962,Facebook,Paid,require,
+4963,4963,Email Campaign,Referral,quickly,up
+4964,4964,Google,Organic,,
+4965,4965,Google,Paid,detail,show
+4966,4966,Facebook,Referral,,employee
+4967,4967,Direct,Referral,eight,
+4968,4968,Direct,Organic,sit,
+4969,4969,Direct,Social,enter,
+4970,4970,Twitter,Organic,,
+4971,4971,Twitter,Paid,,
+4972,4972,Google,Social,east,special
+4973,4973,Twitter,Referral,,
+4974,4974,Email Campaign,Social,shake,
+4975,4975,Email Campaign,Paid,lay,could
+4976,4976,Email Campaign,Social,offer,
+4977,4977,Twitter,Paid,,
+4978,4978,Email Campaign,Social,,
+4979,4979,Google,Referral,ask,
+4980,4980,Email Campaign,Organic,,
+4981,4981,Direct,Social,,
+4982,4982,Email Campaign,Referral,decide,student
+4983,4983,Facebook,Organic,car,
+4984,4984,Email Campaign,Paid,,moment
+4985,4985,Facebook,Paid,,
+4986,4986,Twitter,Social,however,
+4987,4987,Email Campaign,Social,,firm
+4988,4988,Direct,Paid,,
+4989,4989,Google,Referral,unit,
+4990,4990,Direct,Referral,,
+4991,4991,Direct,Social,order,
+4992,4992,Direct,Paid,debate,
+4993,4993,Email Campaign,Social,people,
+4994,4994,Facebook,Referral,,
+4995,4995,Google,Organic,,service
+4996,4996,Facebook,Referral,letter,mind
+4997,4997,Email Campaign,Social,air,
+4998,4998,Facebook,Paid,threat,
+4999,4999,Google,Organic,course,
+5000,5000,Facebook,Referral,,

@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Location,Device,Operating_System
+1,65+,Male,Egypt,Tablet,MacOS
+2,18-24,Male,Senegal,Desktop,iOS
+3,35-44,Female,Aruba,Mobile,Android
+4,55-64,Male,Benin,Mobile,Android
+5,18-24,Female,Armenia,Mobile,iOS
+6,65+,Male,Guadeloupe,Mobile,Android
+7,18-24,Female,Tokelau,Desktop,iOS
+8,65+,Female,Italy,Mobile,MacOS
+9,18-24,Male,Sri Lanka,Desktop,iOS
+10,65+,Female,Argentina,Mobile,MacOS
+11,25-34,Female,South Africa,Desktop,iOS
+12,18-24,Male,Djibouti,Tablet,MacOS
+13,55-64,Female,Uruguay,Mobile,Windows
+14,45-54,Female,Montenegro,Mobile,MacOS
+15,35-44,Male,Togo,Mobile,iOS
+16,45-54,Female,Lao People's Democratic Republic,Desktop,Windows
+17,45-54,Female,French Southern Territories,Mobile,Android
+18,25-34,Female,China,Mobile,iOS
+19,18-24,Female,Martinique,Desktop,MacOS
+20,35-44,Male,Brunei Darussalam,Tablet,Android
+21,65+,Female,Norway,Tablet,Windows
+22,45-54,Male,Algeria,Mobile,iOS
+23,45-54,Female,Peru,Mobile,Android
+24,65+,Female,Finland,Mobile,Windows
+25,55-64,Female,Luxembourg,Desktop,Android
+26,35-44,Male,Togo,Mobile,Android
+27,18-24,Male,Andorra,Mobile,Android
+28,65+,Male,Georgia,Mobile,iOS
+29,25-34,Female,Libyan Arab Jamahiriya,Desktop,Windows
+30,18-24,Male,Monaco,Desktop,Windows
+31,18-24,Male,Gabon,Tablet,Android
+32,35-44,Female,Colombia,Tablet,MacOS
+33,18-24,Male,Barbados,Mobile,Android
+34,65+,Male,Iraq,Tablet,Windows
+35,35-44,Male,San Marino,Tablet,Windows
+36,25-34,Male,Bouvet Island (Bouvetoya),Desktop,iOS
+37,65+,Female,Sierra Leone,Tablet,Android
+38,65+,Female,Hong Kong,Desktop,iOS
+39,35-44,Female,Mozambique,Mobile,MacOS
+40,55-64,Female,Burkina Faso,Desktop,MacOS
+41,55-64,Male,Saint Pierre and Miquelon,Desktop,Windows
+42,18-24,Male,Tonga,Tablet,MacOS
+43,25-34,Male,Georgia,Tablet,iOS
+44,65+,Male,Brazil,Mobile,iOS
+45,35-44,Male,Croatia,Mobile,MacOS
+46,35-44,Male,Algeria,Mobile,Android
+47,65+,Male,India,Tablet,iOS
+48,35-44,Female,United States Minor Outlying Islands,Desktop,Android
+49,65+,Male,Palestinian Territory,Mobile,MacOS
+50,18-24,Male,Peru,Tablet,iOS
+51,55-64,Male,Estonia,Mobile,Android
+52,65+,Female,Korea,Mobile,iOS
+53,65+,Female,Iran,Mobile,Android
+54,18-24,Female,Algeria,Mobile,Android
+55,65+,Male,Mauritania,Mobile,MacOS
+56,25-34,Female,Mexico,Mobile,Windows
+57,45-54,Male,Macao,Tablet,MacOS
+58,18-24,Male,Iceland,Mobile,MacOS
+59,65+,Female,Gambia,Desktop,Android
+60,25-34,Female,Zambia,Desktop,iOS
+61,25-34,Female,El Salvador,Tablet,MacOS
+62,35-44,Male,Marshall Islands,Desktop,Android
+63,45-54,Female,Slovenia,Desktop,iOS
+64,65+,Female,Malaysia,Tablet,Windows
+65,25-34,Male,Saint Martin,Desktop,iOS
+66,55-64,Female,Canada,Desktop,MacOS
+67,18-24,Male,Denmark,Mobile,iOS
+68,25-34,Female,Egypt,Mobile,MacOS
+69,25-34,Male,Armenia,Mobile,iOS
+70,25-34,Female,Cuba,Desktop,Windows
+71,35-44,Male,Jordan,Desktop,MacOS
+72,35-44,Male,Mali,Desktop,Android
+73,55-64,Female,Bangladesh,Desktop,Android
+74,18-24,Male,Ireland,Desktop,Windows
+75,25-34,Male,Guinea,Desktop,MacOS
+76,18-24,Female,Martinique,Tablet,Windows
+77,65+,Male,Malawi,Tablet,MacOS
+78,18-24,Male,Bhutan,Mobile,MacOS
+79,25-34,Female,Malawi,Tablet,iOS
+80,45-54,Female,Cook Islands,Tablet,MacOS
+81,45-54,Female,Gibraltar,Mobile,Android
+82,25-34,Male,Macao,Mobile,Windows
+83,35-44,Male,Holy See (Vatican City State),Tablet,Android
+84,65+,Female,Uruguay,Tablet,MacOS
+85,65+,Male,Rwanda,Desktop,MacOS
+86,25-34,Male,Wallis and Futuna,Tablet,Android
+87,25-34,Female,France,Tablet,Windows
+88,25-34,Male,Panama,Desktop,Android
+89,25-34,Female,Paraguay,Tablet,iOS
+90,65+,Male,Saint Lucia,Desktop,MacOS
+91,65+,Female,Gibraltar,Tablet,Windows
+92,65+,Male,Guatemala,Mobile,Android
+93,25-34,Male,Lao People's Democratic Republic,Mobile,Windows
+94,55-64,Female,Mexico,Tablet,iOS
+95,55-64,Female,Egypt,Tablet,MacOS
+96,25-34,Male,Sri Lanka,Mobile,Windows
+97,65+,Female,Cayman Islands,Mobile,iOS
+98,18-24,Male,Gambia,Tablet,Windows
+99,18-24,Female,Estonia,Desktop,Windows
+100,18-24,Male,Antarctica (the territory South of 60 deg S),Desktop,iOS
+101,18-24,Female,Taiwan,Tablet,iOS
+102,55-64,Female,Grenada,Desktop,Android
+103,18-24,Male,Vanuatu,Desktop,Android
+104,18-24,Male,Venezuela,Tablet,MacOS
+105,35-44,Male,Lithuania,Tablet,Android
+106,55-64,Female,Moldova,Mobile,Android
+107,55-64,Male,Saudi Arabia,Tablet,Android
+108,18-24,Male,Georgia,Mobile,Windows
+109,18-24,Male,Faroe Islands,Tablet,Windows
+110,65+,Female,Tonga,Tablet,iOS
+111,18-24,Female,San Marino,Mobile,iOS
+112,18-24,Female,Mauritius,Tablet,Android
+113,55-64,Male,Tokelau,Desktop,iOS
+114,35-44,Female,Oman,Desktop,iOS
+115,18-24,Female,Cuba,Desktop,iOS
+116,35-44,Female,Heard Island and McDonald Islands,Tablet,Windows
+117,35-44,Male,Uruguay,Desktop,Android
+118,45-54,Male,British Indian Ocean Territory (Chagos Archipelago),Desktop,iOS
+119,45-54,Female,Kenya,Desktop,iOS
+120,25-34,Male,Solomon Islands,Tablet,Windows
+121,45-54,Male,France,Tablet,Windows
+122,25-34,Male,Azerbaijan,Desktop,iOS
+123,45-54,Male,Afghanistan,Desktop,MacOS
+124,65+,Female,Albania,Desktop,iOS
+125,35-44,Male,Syrian Arab Republic,Mobile,Windows
+126,35-44,Male,Guatemala,Desktop,Windows
+127,35-44,Male,Singapore,Mobile,Android
+128,65+,Female,Romania,Mobile,Android
+129,65+,Female,Serbia,Desktop,Windows
+130,25-34,Male,Switzerland,Tablet,Android
+131,65+,Female,Cote d'Ivoire,Mobile,iOS
+132,18-24,Female,Pakistan,Desktop,Android
+133,35-44,Male,Syrian Arab Republic,Mobile,Windows
+134,45-54,Female,Burkina Faso,Desktop,Android
+135,25-34,Female,Indonesia,Tablet,Android
+136,18-24,Female,Syrian Arab Republic,Mobile,iOS
+137,35-44,Male,Dominica,Tablet,Windows
+138,25-34,Female,Bahrain,Tablet,iOS
+139,55-64,Female,Korea,Tablet,iOS
+140,65+,Male,Portugal,Mobile,MacOS
+141,25-34,Female,Malaysia,Mobile,MacOS
+142,18-24,Male,French Polynesia,Desktop,MacOS
+143,18-24,Male,Mexico,Desktop,iOS
+144,18-24,Male,Fiji,Tablet,MacOS
+145,65+,Female,Anguilla,Tablet,MacOS
+146,45-54,Male,Belgium,Desktop,Windows
+147,25-34,Male,Chile,Mobile,Windows
+148,55-64,Female,Vanuatu,Tablet,Android
+149,65+,Female,Jordan,Desktop,Windows
+150,45-54,Male,Iraq,Desktop,Android
+151,45-54,Male,Vanuatu,Desktop,Windows
+152,45-54,Female,Sri Lanka,Mobile,Android
+153,65+,Female,Saint Martin,Desktop,Android
+154,25-34,Female,Bahamas,Desktop,MacOS
+155,25-34,Female,French Guiana,Desktop,Android
+156,35-44,Male,Antigua and Barbuda,Tablet,MacOS
+157,18-24,Female,Congo,Tablet,Android
+158,25-34,Male,Namibia,Mobile,iOS
+159,18-24,Male,Lebanon,Desktop,Windows
+160,35-44,Female,Jordan,Desktop,iOS
+161,45-54,Female,Burkina Faso,Mobile,iOS
+162,35-44,Female,Israel,Tablet,Android
+163,55-64,Male,Austria,Mobile,Windows
+164,55-64,Male,Dominican Republic,Mobile,MacOS
+165,65+,Female,Mozambique,Mobile,Windows
+166,45-54,Female,Uzbekistan,Desktop,iOS
+167,18-24,Male,Serbia,Tablet,Android
+168,18-24,Male,Niger,Desktop,MacOS
+169,18-24,Female,Georgia,Desktop,Windows
+170,55-64,Male,American Samoa,Mobile,Android
+171,25-34,Male,Samoa,Tablet,MacOS
+172,65+,Male,Zambia,Desktop,Android
+173,55-64,Female,Madagascar,Desktop,Windows
+174,18-24,Male,Haiti,Mobile,Android
+175,35-44,Male,Iran,Tablet,Android
+176,45-54,Female,Iceland,Mobile,Windows
+177,65+,Male,Egypt,Mobile,Windows
+178,65+,Male,Iran,Mobile,Windows
+179,35-44,Female,Dominica,Desktop,iOS
+180,45-54,Female,Congo,Tablet,MacOS
+181,45-54,Female,Bahamas,Mobile,MacOS
+182,35-44,Female,Kuwait,Tablet,Android
+183,55-64,Male,Pitcairn Islands,Mobile,Windows
+184,55-64,Female,Finland,Desktop,iOS
+185,65+,Female,San Marino,Mobile,Windows
+186,25-34,Male,South Africa,Desktop,iOS
+187,55-64,Male,Latvia,Tablet,MacOS
+188,35-44,Female,Central African Republic,Mobile,iOS
+189,35-44,Male,South Africa,Tablet,Android
+190,45-54,Male,Kiribati,Tablet,Windows
+191,35-44,Female,Mali,Desktop,Android
+192,45-54,Female,Nigeria,Desktop,Android
+193,45-54,Male,Turkmenistan,Tablet,MacOS
+194,65+,Female,Benin,Tablet,iOS
+195,65+,Female,Northern Mariana Islands,Desktop,Windows
+196,65+,Male,Faroe Islands,Desktop,MacOS
+197,18-24,Male,Palau,Mobile,iOS
+198,45-54,Male,Liberia,Tablet,MacOS
+199,55-64,Male,Yemen,Mobile,Android
+200,55-64,Male,Botswana,Tablet,iOS
+201,65+,Male,Yemen,Tablet,Android
+202,18-24,Male,Romania,Mobile,MacOS
+203,65+,Male,Saudi Arabia,Desktop,Windows
+204,65+,Male,Colombia,Desktop,iOS
+205,45-54,Male,Uruguay,Desktop,iOS
+206,18-24,Male,South Georgia and the South Sandwich Islands,Tablet,Android
+207,45-54,Male,Pakistan,Tablet,MacOS
+208,55-64,Female,Bolivia,Mobile,iOS
+209,35-44,Female,Indonesia,Desktop,Windows
+210,35-44,Female,Canada,Tablet,Android
+211,18-24,Male,Papua New Guinea,Tablet,Android
+212,45-54,Male,United States Minor Outlying Islands,Mobile,iOS
+213,18-24,Female,Samoa,Mobile,Windows
+214,55-64,Male,Moldova,Mobile,MacOS
+215,25-34,Female,South Africa,Desktop,MacOS
+216,35-44,Male,Andorra,Desktop,Android
+217,55-64,Male,Nauru,Tablet,MacOS
+218,65+,Male,Kazakhstan,Tablet,Android
+219,18-24,Female,Lesotho,Tablet,Windows
+220,55-64,Male,Taiwan,Mobile,Android
+221,25-34,Female,Honduras,Desktop,iOS
+222,35-44,Female,Cote d'Ivoire,Tablet,Android
+223,35-44,Male,Comoros,Desktop,MacOS
+224,65+,Female,Barbados,Mobile,Android
+225,25-34,Male,Christmas Island,Tablet,iOS
+226,45-54,Female,Ecuador,Mobile,MacOS
+227,55-64,Female,United States Virgin Islands,Tablet,Android
+228,45-54,Male,Chile,Tablet,Android
+229,35-44,Male,China,Tablet,Windows
+230,65+,Female,Iceland,Mobile,MacOS
+231,65+,Male,India,Desktop,MacOS
+232,25-34,Female,Gibraltar,Mobile,Windows
+233,25-34,Male,Nicaragua,Desktop,iOS
+234,65+,Male,Guernsey,Desktop,iOS
+235,18-24,Female,Switzerland,Mobile,Android
+236,35-44,Male,Liechtenstein,Desktop,MacOS
+237,55-64,Female,Saint Lucia,Mobile,MacOS
+238,35-44,Male,Sweden,Tablet,Windows
+239,35-44,Female,Tanzania,Tablet,Android
+240,65+,Male,Mauritius,Desktop,Android
+241,45-54,Male,Mozambique,Tablet,Android
+242,35-44,Female,Suriname,Mobile,Windows
+243,65+,Female,Canada,Mobile,MacOS
+244,55-64,Female,Philippines,Desktop,iOS
+245,45-54,Female,Tuvalu,Mobile,Android
+246,35-44,Male,Armenia,Mobile,Android
+247,18-24,Male,Madagascar,Mobile,Android
+248,35-44,Male,Costa Rica,Mobile,MacOS
+249,35-44,Male,Cuba,Mobile,iOS
+250,35-44,Female,South Georgia and the South Sandwich Islands,Mobile,MacOS
+251,65+,Female,Panama,Mobile,MacOS
+252,55-64,Male,Thailand,Mobile,iOS
+253,25-34,Female,Malaysia,Mobile,Windows
+254,55-64,Female,Guadeloupe,Desktop,iOS
+255,25-34,Female,Afghanistan,Desktop,iOS
+256,55-64,Male,Solomon Islands,Mobile,Android
+257,35-44,Female,Ukraine,Tablet,MacOS
+258,55-64,Male,Micronesia,Tablet,iOS
+259,45-54,Female,Bulgaria,Tablet,Android
+260,45-54,Female,Nepal,Desktop,MacOS
+261,45-54,Female,Italy,Mobile,Windows
+262,65+,Female,Spain,Tablet,MacOS
+263,55-64,Female,Finland,Desktop,Windows
+264,35-44,Female,Saint Martin,Mobile,iOS
+265,18-24,Female,El Salvador,Tablet,Android
+266,18-24,Male,Guinea-Bissau,Desktop,MacOS
+267,18-24,Male,Croatia,Desktop,Android
+268,55-64,Female,Nicaragua,Desktop,Windows
+269,18-24,Male,Malawi,Mobile,Windows
+270,45-54,Female,Belgium,Mobile,MacOS
+271,55-64,Male,Bangladesh,Tablet,Android
+272,25-34,Male,Romania,Desktop,Windows
+273,25-34,Male,Aruba,Mobile,MacOS
+274,55-64,Female,United States Minor Outlying Islands,Mobile,Android
+275,25-34,Female,Ireland,Mobile,MacOS
+276,25-34,Male,Croatia,Mobile,MacOS
+277,55-64,Male,Madagascar,Mobile,Windows
+278,18-24,Male,Yemen,Desktop,Android
+279,25-34,Male,Austria,Desktop,Windows
+280,25-34,Male,Saint Vincent and the Grenadines,Mobile,Windows
+281,25-34,Male,Sri Lanka,Mobile,Windows
+282,35-44,Male,Kazakhstan,Desktop,Android
+283,55-64,Female,Philippines,Desktop,Android
+284,35-44,Female,Suriname,Tablet,MacOS
+285,25-34,Female,Mauritius,Tablet,iOS
+286,45-54,Male,Jersey,Mobile,Android
+287,65+,Female,Mauritius,Desktop,Android
+288,55-64,Female,Aruba,Desktop,MacOS
+289,18-24,Female,Saint Helena,Tablet,Android
+290,25-34,Male,Jamaica,Tablet,Android
+291,18-24,Female,Ghana,Tablet,MacOS
+292,55-64,Male,Somalia,Tablet,Android
+293,18-24,Male,Reunion,Mobile,Android
+294,35-44,Female,Niger,Mobile,Windows
+295,55-64,Male,Cape Verde,Tablet,iOS
+296,55-64,Female,Kuwait,Mobile,MacOS
+297,65+,Female,Jersey,Desktop,Windows
+298,55-64,Female,Falkland Islands (Malvinas),Tablet,iOS
+299,25-34,Female,Eritrea,Mobile,MacOS
+300,55-64,Male,Latvia,Mobile,iOS
+301,45-54,Female,Gibraltar,Mobile,Android
+302,18-24,Female,Sudan,Mobile,Windows
+303,18-24,Female,Bulgaria,Mobile,Windows
+304,25-34,Male,Mali,Tablet,Android
+305,35-44,Male,Ireland,Tablet,MacOS
+306,45-54,Male,Lebanon,Mobile,iOS
+307,18-24,Female,United Arab Emirates,Tablet,iOS
+308,35-44,Male,Montenegro,Desktop,iOS
+309,65+,Male,Cyprus,Mobile,Android
+310,18-24,Male,Lebanon,Tablet,iOS
+311,35-44,Female,North Macedonia,Desktop,MacOS
+312,25-34,Female,Anguilla,Mobile,Android
+313,55-64,Male,Botswana,Desktop,iOS
+314,35-44,Male,Netherlands Antilles,Tablet,MacOS
+315,55-64,Male,Dominica,Mobile,Android
+316,35-44,Male,Sao Tome and Principe,Mobile,Android
+317,65+,Female,French Guiana,Tablet,MacOS
+318,25-34,Female,Saint Kitts and Nevis,Mobile,Windows
+319,55-64,Male,Bolivia,Mobile,MacOS
+320,65+,Male,Slovakia (Slovak Republic),Desktop,iOS
+321,55-64,Male,Colombia,Desktop,iOS
+322,35-44,Male,Norfolk Island,Mobile,iOS
+323,35-44,Male,United States Virgin Islands,Desktop,iOS
+324,55-64,Male,Bangladesh,Desktop,Windows
+325,55-64,Female,Congo,Desktop,MacOS
+326,55-64,Male,Uzbekistan,Mobile,Android
+327,65+,Male,Malta,Desktop,Android
+328,55-64,Male,United States Virgin Islands,Desktop,iOS
+329,55-64,Male,Lesotho,Mobile,Android
+330,55-64,Female,United Arab Emirates,Tablet,Android
+331,18-24,Male,Norway,Mobile,MacOS
+332,55-64,Female,Hong Kong,Mobile,Windows
+333,45-54,Male,Saint Martin,Tablet,MacOS
+334,65+,Male,Micronesia,Mobile,MacOS
+335,18-24,Male,Croatia,Tablet,Windows
+336,35-44,Female,Zimbabwe,Tablet,iOS
+337,18-24,Female,Samoa,Tablet,iOS
+338,35-44,Male,Mali,Tablet,MacOS
+339,65+,Female,Micronesia,Desktop,iOS
+340,45-54,Male,Suriname,Desktop,MacOS
+341,35-44,Female,Fiji,Tablet,Windows
+342,25-34,Male,Moldova,Mobile,Android
+343,45-54,Female,Gambia,Tablet,iOS
+344,55-64,Male,Korea,Desktop,MacOS
+345,55-64,Male,Norway,Tablet,MacOS
+346,35-44,Female,Mexico,Tablet,Windows
+347,35-44,Female,Bosnia and Herzegovina,Desktop,iOS
+348,55-64,Female,Timor-Leste,Desktop,Windows
+349,65+,Female,Honduras,Tablet,MacOS
+350,55-64,Male,Rwanda,Mobile,Android
+351,45-54,Male,British Virgin Islands,Desktop,MacOS
+352,55-64,Female,Israel,Mobile,MacOS
+353,35-44,Female,United States of America,Tablet,Windows
+354,45-54,Female,Cayman Islands,Tablet,Android
+355,25-34,Female,United Kingdom,Desktop,MacOS
+356,65+,Female,Faroe Islands,Desktop,MacOS
+357,55-64,Female,Marshall Islands,Tablet,Android
+358,55-64,Female,Serbia,Mobile,Windows
+359,45-54,Female,Mauritius,Tablet,Windows
+360,35-44,Male,Botswana,Tablet,Windows
+361,18-24,Male,Germany,Desktop,MacOS
+362,55-64,Female,Saint Barthelemy,Desktop,Android
+363,25-34,Male,Denmark,Mobile,MacOS
+364,18-24,Female,Honduras,Tablet,Android
+365,18-24,Female,Grenada,Mobile,Windows
+366,65+,Female,Jordan,Desktop,Android
+367,65+,Male,Slovakia (Slovak Republic),Tablet,iOS
+368,18-24,Male,Guatemala,Mobile,MacOS
+369,55-64,Female,American Samoa,Mobile,Android
+370,18-24,Male,Bahrain,Mobile,iOS
+371,65+,Female,Antarctica (the territory South of 60 deg S),Mobile,Android
+372,18-24,Male,Macao,Mobile,iOS
+373,25-34,Female,Tajikistan,Tablet,Windows
+374,35-44,Female,Zimbabwe,Mobile,Windows
+375,45-54,Male,Montserrat,Mobile,MacOS
+376,65+,Female,Antarctica (the territory South of 60 deg S),Tablet,MacOS
+377,65+,Male,Tanzania,Mobile,Android
+378,55-64,Male,Cape Verde,Desktop,Windows
+379,18-24,Female,Ecuador,Tablet,iOS
+380,45-54,Female,Christmas Island,Mobile,MacOS
+381,45-54,Male,France,Mobile,Android
+382,25-34,Male,Greece,Desktop,iOS
+383,35-44,Male,Guinea-Bissau,Desktop,Windows
+384,45-54,Female,Croatia,Mobile,MacOS
+385,25-34,Male,Northern Mariana Islands,Mobile,iOS
+386,35-44,Female,Northern Mariana Islands,Tablet,iOS
+387,55-64,Male,French Southern Territories,Mobile,MacOS
+388,35-44,Female,Iraq,Desktop,MacOS
+389,45-54,Male,Spain,Desktop,Windows
+390,65+,Male,Tuvalu,Tablet,Windows
+391,35-44,Female,Bahrain,Mobile,iOS
+392,35-44,Female,Equatorial Guinea,Tablet,Windows
+393,35-44,Male,Nicaragua,Desktop,Windows
+394,35-44,Female,Philippines,Tablet,Android
+395,35-44,Male,Togo,Mobile,MacOS
+396,55-64,Female,Montserrat,Tablet,iOS
+397,18-24,Female,Estonia,Mobile,Android
+398,55-64,Female,Bangladesh,Mobile,iOS
+399,25-34,Male,Guam,Mobile,Windows
+400,25-34,Male,French Guiana,Mobile,MacOS
+401,25-34,Male,Bulgaria,Tablet,MacOS
+402,35-44,Female,Rwanda,Tablet,Windows
+403,55-64,Female,Croatia,Mobile,Windows
+404,35-44,Male,South Georgia and the South Sandwich Islands,Tablet,Android
+405,35-44,Female,Cocos (Keeling) Islands,Desktop,iOS
+406,18-24,Male,Macao,Tablet,Android
+407,55-64,Female,Ethiopia,Desktop,iOS
+408,18-24,Female,Jordan,Tablet,Android
+409,65+,Female,Central African Republic,Tablet,Windows
+410,18-24,Female,Namibia,Mobile,iOS
+411,65+,Male,Timor-Leste,Mobile,iOS
+412,65+,Female,Namibia,Tablet,iOS
+413,55-64,Male,Congo,Mobile,Windows
+414,18-24,Female,Croatia,Tablet,Windows
+415,25-34,Male,Guinea,Mobile,iOS
+416,18-24,Female,Norway,Desktop,Android
+417,65+,Male,Latvia,Tablet,MacOS
+418,35-44,Female,Palestinian Territory,Tablet,iOS
+419,45-54,Female,Montenegro,Mobile,Windows
+420,55-64,Female,Myanmar,Desktop,Android
+421,65+,Male,Poland,Mobile,Windows
+422,35-44,Male,Namibia,Desktop,Windows
+423,45-54,Male,Turks and Caicos Islands,Mobile,Android
+424,45-54,Male,Saint Vincent and the Grenadines,Mobile,Android
+425,65+,Male,Iran,Mobile,MacOS
+426,25-34,Female,Bahamas,Desktop,iOS
+427,25-34,Male,Argentina,Mobile,iOS
+428,25-34,Female,Afghanistan,Desktop,iOS
+429,45-54,Male,Belize,Desktop,Windows
+430,55-64,Female,Uruguay,Tablet,Windows
+431,45-54,Female,Kiribati,Tablet,MacOS
+432,18-24,Male,Qatar,Mobile,Android
+433,25-34,Male,Malawi,Mobile,iOS
+434,45-54,Female,Kenya,Desktop,MacOS
+435,55-64,Female,Cocos (Keeling) Islands,Mobile,MacOS
+436,55-64,Male,Kenya,Desktop,Android
+437,55-64,Female,Congo,Mobile,Android
+438,18-24,Male,Saint Pierre and Miquelon,Mobile,iOS
+439,35-44,Male,Greenland,Desktop,Android
+440,65+,Male,Nigeria,Mobile,iOS
+441,25-34,Male,Ecuador,Tablet,Android
+442,65+,Female,Congo,Tablet,MacOS
+443,35-44,Female,Venezuela,Tablet,Windows
+444,65+,Female,Cayman Islands,Mobile,Windows
+445,35-44,Male,Cayman Islands,Tablet,Windows
+446,65+,Female,Guyana,Mobile,MacOS
+447,65+,Female,Gabon,Desktop,MacOS
+448,65+,Male,Montserrat,Mobile,iOS
+449,18-24,Male,Norway,Tablet,Windows
+450,55-64,Male,Marshall Islands,Tablet,iOS
+451,45-54,Male,El Salvador,Mobile,MacOS
+452,55-64,Male,Estonia,Mobile,MacOS
+453,25-34,Male,Samoa,Desktop,iOS
+454,55-64,Male,Saint Pierre and Miquelon,Desktop,Windows
+455,65+,Male,Pakistan,Tablet,MacOS
+456,65+,Male,Iran,Desktop,Windows
+457,25-34,Male,American Samoa,Mobile,iOS
+458,45-54,Male,Congo,Mobile,iOS
+459,18-24,Female,Australia,Tablet,iOS
+460,25-34,Female,Gabon,Desktop,iOS
+461,18-24,Male,Panama,Tablet,MacOS
+462,65+,Female,Netherlands Antilles,Tablet,MacOS
+463,45-54,Male,Ireland,Tablet,Android
+464,25-34,Female,United States Minor Outlying Islands,Tablet,Windows
+465,25-34,Female,Canada,Tablet,Windows
+466,25-34,Female,Mauritania,Desktop,Windows
+467,45-54,Female,Saint Kitts and Nevis,Mobile,iOS
+468,45-54,Female,Djibouti,Tablet,iOS
+469,45-54,Male,Vietnam,Desktop,Android
+470,45-54,Male,Lebanon,Mobile,MacOS
+471,45-54,Female,Aruba,Mobile,Android
+472,45-54,Male,Seychelles,Tablet,Windows
+473,65+,Male,Suriname,Tablet,Android
+474,65+,Male,Guam,Desktop,iOS
+475,65+,Male,Italy,Desktop,Windows
+476,55-64,Female,Cuba,Tablet,Windows
+477,25-34,Female,Gambia,Mobile,MacOS
+478,55-64,Male,Bouvet Island (Bouvetoya),Tablet,Android
+479,55-64,Female,Ghana,Desktop,Windows
+480,35-44,Male,Armenia,Tablet,MacOS
+481,18-24,Male,Belarus,Mobile,iOS
+482,45-54,Female,Palestinian Territory,Mobile,Windows
+483,35-44,Male,Guatemala,Mobile,Android
+484,55-64,Female,Malta,Desktop,Android
+485,55-64,Male,Brunei Darussalam,Tablet,MacOS
+486,65+,Female,Saint Vincent and the Grenadines,Desktop,iOS
+487,25-34,Female,Burkina Faso,Desktop,Android
+488,25-34,Female,Bhutan,Desktop,Android
+489,45-54,Female,Belarus,Mobile,Windows
+490,25-34,Female,Luxembourg,Mobile,iOS
+491,45-54,Male,Saint Vincent and the Grenadines,Desktop,Windows
+492,25-34,Female,Montenegro,Desktop,Windows
+493,65+,Male,Lao People's Democratic Republic,Desktop,Android
+494,65+,Female,Bermuda,Desktop,Android
+495,45-54,Male,Eritrea,Mobile,MacOS
+496,35-44,Male,Mozambique,Tablet,MacOS
+497,55-64,Male,Poland,Desktop,MacOS
+498,35-44,Male,Jamaica,Tablet,iOS
+499,45-54,Male,Norfolk Island,Mobile,MacOS
+500,45-54,Female,South Georgia and the South Sandwich Islands,Tablet,MacOS
+501,35-44,Male,Anguilla,Desktop,Android
+502,18-24,Female,Italy,Mobile,MacOS
+503,55-64,Female,Romania,Desktop,Windows
+504,35-44,Male,Benin,Mobile,iOS
+505,45-54,Female,Ireland,Mobile,iOS
+506,18-24,Male,Colombia,Mobile,Android
+507,18-24,Male,Svalbard & Jan Mayen Islands,Tablet,Windows
+508,65+,Male,United Kingdom,Mobile,MacOS
+509,18-24,Female,Lao People's Democratic Republic,Tablet,iOS
+510,55-64,Female,Korea,Desktop,MacOS
+511,65+,Female,Pitcairn Islands,Mobile,Android
+512,25-34,Female,Greenland,Tablet,Windows
+513,35-44,Male,Indonesia,Mobile,Android
+514,18-24,Male,Paraguay,Tablet,iOS
+515,18-24,Male,Bolivia,Tablet,Android
+516,65+,Male,Senegal,Tablet,Windows
+517,45-54,Female,Gibraltar,Tablet,Android
+518,35-44,Male,Papua New Guinea,Mobile,MacOS
+519,45-54,Male,United States of America,Desktop,iOS
+520,65+,Female,France,Desktop,Windows
+521,35-44,Male,South Africa,Desktop,iOS
+522,65+,Female,Denmark,Tablet,MacOS
+523,55-64,Male,Iran,Mobile,MacOS
+524,55-64,Male,Guatemala,Mobile,Windows
+525,55-64,Female,United States Minor Outlying Islands,Tablet,MacOS
+526,45-54,Male,Greenland,Desktop,iOS
+527,65+,Female,Spain,Tablet,iOS
+528,25-34,Female,Monaco,Desktop,Windows
+529,65+,Female,Guernsey,Desktop,MacOS
+530,18-24,Male,Madagascar,Tablet,Windows
+531,35-44,Male,Iraq,Mobile,iOS
+532,45-54,Female,Indonesia,Tablet,iOS
+533,18-24,Female,Gibraltar,Tablet,Android
+534,55-64,Male,Greenland,Mobile,Windows
+535,45-54,Male,British Indian Ocean Territory (Chagos Archipelago),Mobile,iOS
+536,35-44,Male,Netherlands Antilles,Tablet,Windows
+537,55-64,Female,Egypt,Desktop,Android
+538,25-34,Male,Grenada,Desktop,Windows
+539,35-44,Male,Spain,Mobile,Android
+540,55-64,Male,Malawi,Mobile,Android
+541,55-64,Female,Nigeria,Tablet,iOS
+542,65+,Female,Armenia,Desktop,Windows
+543,25-34,Female,Papua New Guinea,Mobile,MacOS
+544,18-24,Male,Philippines,Tablet,Windows
+545,45-54,Male,Iran,Mobile,Windows
+546,65+,Female,Netherlands Antilles,Mobile,iOS
+547,35-44,Male,Saudi Arabia,Tablet,MacOS
+548,55-64,Female,Maldives,Mobile,MacOS
+549,25-34,Female,Venezuela,Mobile,MacOS
+550,55-64,Female,Greenland,Tablet,iOS
+551,25-34,Male,El Salvador,Desktop,MacOS
+552,45-54,Female,Kenya,Desktop,Windows
+553,25-34,Male,Antarctica (the territory South of 60 deg S),Desktop,Windows
+554,18-24,Female,Germany,Tablet,iOS
+555,65+,Female,Ecuador,Tablet,iOS
+556,25-34,Female,Cayman Islands,Mobile,iOS
+557,55-64,Male,Bangladesh,Tablet,iOS
+558,65+,Male,Cameroon,Mobile,MacOS
+559,25-34,Female,Norfolk Island,Mobile,iOS
+560,65+,Female,Kyrgyz Republic,Desktop,Windows
+561,45-54,Male,Estonia,Tablet,MacOS
+562,25-34,Female,Romania,Mobile,Android
+563,35-44,Male,Mexico,Tablet,Android
+564,25-34,Male,Germany,Desktop,MacOS
+565,25-34,Female,Venezuela,Tablet,Android
+566,35-44,Female,Turks and Caicos Islands,Tablet,Windows
+567,35-44,Female,Nepal,Tablet,Windows
+568,65+,Female,Christmas Island,Desktop,MacOS
+569,25-34,Female,Norfolk Island,Desktop,Windows
+570,55-64,Male,Palau,Tablet,MacOS
+571,55-64,Female,Kiribati,Mobile,iOS
+572,18-24,Male,Tonga,Desktop,MacOS
+573,25-34,Male,Finland,Tablet,Android
+574,18-24,Female,Panama,Tablet,MacOS
+575,18-24,Male,Cameroon,Mobile,iOS
+576,18-24,Male,Papua New Guinea,Mobile,iOS
+577,25-34,Female,Liberia,Tablet,Windows
+578,55-64,Male,Belize,Desktop,MacOS
+579,18-24,Male,Congo,Desktop,Android
+580,25-34,Male,United States of America,Tablet,iOS
+581,45-54,Male,Saint Barthelemy,Tablet,Android
+582,25-34,Male,Somalia,Tablet,MacOS
+583,45-54,Female,Liechtenstein,Desktop,iOS
+584,25-34,Female,Equatorial Guinea,Desktop,MacOS
+585,18-24,Female,Western Sahara,Mobile,MacOS
+586,55-64,Female,Syrian Arab Republic,Tablet,iOS
+587,18-24,Female,Italy,Desktop,Windows
+588,35-44,Male,Cyprus,Desktop,MacOS
+589,25-34,Female,Turkey,Desktop,MacOS
+590,65+,Male,United States Minor Outlying Islands,Tablet,Windows
+591,35-44,Male,South Africa,Desktop,Windows
+592,35-44,Female,Holy See (Vatican City State),Mobile,iOS
+593,55-64,Female,Yemen,Mobile,MacOS
+594,65+,Female,Saint Pierre and Miquelon,Mobile,Windows
+595,18-24,Male,Oman,Desktop,Android
+596,18-24,Male,Algeria,Desktop,Android
+597,35-44,Male,Lao People's Democratic Republic,Desktop,Windows
+598,45-54,Male,Mongolia,Mobile,Windows
+599,35-44,Female,Bangladesh,Mobile,Android
+600,35-44,Male,Solomon Islands,Desktop,iOS
+601,55-64,Female,Belgium,Desktop,MacOS
+602,55-64,Male,Dominican Republic,Desktop,Android
+603,35-44,Female,Macao,Tablet,Windows
+604,25-34,Female,Afghanistan,Mobile,Windows
+605,18-24,Male,Western Sahara,Desktop,MacOS
+606,35-44,Male,Antigua and Barbuda,Desktop,Android
+607,25-34,Female,Guyana,Tablet,MacOS
+608,65+,Male,Guatemala,Mobile,Windows
+609,18-24,Female,Nicaragua,Tablet,Windows
+610,18-24,Male,France,Desktop,Windows
+611,45-54,Female,Slovenia,Tablet,iOS
+612,35-44,Female,Canada,Tablet,Android
+613,65+,Female,Christmas Island,Desktop,Android
+614,65+,Female,Montserrat,Mobile,Windows
+615,35-44,Female,France,Desktop,iOS
+616,45-54,Female,Venezuela,Desktop,MacOS
+617,45-54,Male,Hungary,Mobile,MacOS
+618,55-64,Male,Estonia,Mobile,iOS
+619,35-44,Female,Spain,Tablet,Windows
+620,18-24,Male,Somalia,Desktop,Android
+621,35-44,Male,Central African Republic,Desktop,iOS
+622,65+,Female,Western Sahara,Mobile,Windows
+623,18-24,Male,Niger,Mobile,Android
+624,55-64,Male,Saint Lucia,Tablet,MacOS
+625,18-24,Female,Korea,Mobile,Android
+626,18-24,Male,Seychelles,Desktop,iOS
+627,55-64,Female,Nepal,Tablet,Windows
+628,35-44,Male,Turkey,Desktop,Windows
+629,25-34,Female,Belize,Tablet,MacOS
+630,25-34,Male,Qatar,Tablet,MacOS
+631,55-64,Male,Guadeloupe,Tablet,MacOS
+632,65+,Female,Holy See (Vatican City State),Desktop,iOS
+633,45-54,Female,Falkland Islands (Malvinas),Mobile,Windows
+634,25-34,Male,Cocos (Keeling) Islands,Tablet,Android
+635,55-64,Male,China,Tablet,Android
+636,65+,Male,Ghana,Tablet,iOS
+637,55-64,Female,North Macedonia,Tablet,iOS
+638,35-44,Female,Panama,Desktop,iOS
+639,25-34,Female,Saint Vincent and the Grenadines,Desktop,iOS
+640,35-44,Female,Wallis and Futuna,Desktop,Android
+641,45-54,Male,Panama,Desktop,MacOS
+642,55-64,Male,Guam,Tablet,Windows
+643,35-44,Male,Paraguay,Tablet,MacOS
+644,45-54,Male,Bhutan,Tablet,Android
+645,45-54,Female,El Salvador,Mobile,Windows
+646,35-44,Male,Jersey,Mobile,Windows
+647,25-34,Female,Bermuda,Desktop,iOS
+648,35-44,Female,Tonga,Desktop,Android
+649,45-54,Female,Australia,Desktop,Windows
+650,18-24,Female,Jersey,Tablet,MacOS
+651,25-34,Female,Estonia,Tablet,Windows
+652,65+,Female,Afghanistan,Tablet,Windows
+653,45-54,Female,Faroe Islands,Desktop,Windows
+654,18-24,Male,Guam,Mobile,Windows
+655,65+,Male,Liechtenstein,Desktop,MacOS
+656,25-34,Female,Slovenia,Mobile,Android
+657,45-54,Male,Bolivia,Mobile,MacOS
+658,65+,Female,France,Tablet,iOS
+659,18-24,Male,Saint Helena,Tablet,iOS
+660,25-34,Male,Falkland Islands (Malvinas),Desktop,Android
+661,65+,Male,Netherlands Antilles,Desktop,Windows
+662,55-64,Male,Guam,Tablet,iOS
+663,45-54,Male,Korea,Tablet,Android
+664,55-64,Female,El Salvador,Mobile,Windows
+665,18-24,Male,Zambia,Tablet,MacOS
+666,25-34,Male,Norway,Tablet,Android
+667,45-54,Female,Timor-Leste,Mobile,Android
+668,18-24,Male,Paraguay,Tablet,Android
+669,65+,Male,Ethiopia,Desktop,Android
+670,65+,Female,Taiwan,Tablet,Windows
+671,18-24,Male,Ghana,Desktop,MacOS
+672,25-34,Male,Colombia,Mobile,iOS
+673,65+,Male,Iceland,Tablet,Android
+674,55-64,Male,Maldives,Mobile,Android
+675,45-54,Female,Kuwait,Mobile,MacOS
+676,65+,Male,Peru,Mobile,iOS
+677,45-54,Female,Aruba,Desktop,iOS
+678,65+,Male,Cote d'Ivoire,Desktop,iOS
+679,25-34,Female,Costa Rica,Mobile,Android
+680,25-34,Female,Italy,Mobile,MacOS
+681,55-64,Female,Lao People's Democratic Republic,Tablet,iOS
+682,35-44,Female,Tanzania,Desktop,iOS
+683,35-44,Female,Northern Mariana Islands,Desktop,iOS
+684,45-54,Male,Faroe Islands,Desktop,Android
+685,55-64,Male,Spain,Tablet,Android
+686,18-24,Male,Saint Martin,Mobile,MacOS
+687,18-24,Female,Togo,Tablet,Android
+688,35-44,Male,Ukraine,Mobile,Windows
+689,65+,Male,Norfolk Island,Desktop,MacOS
+690,18-24,Male,Brazil,Tablet,Android
+691,35-44,Male,Pakistan,Desktop,iOS
+692,18-24,Female,Uruguay,Tablet,iOS
+693,55-64,Male,Morocco,Mobile,Windows
+694,65+,Male,Belize,Tablet,MacOS
+695,65+,Male,Venezuela,Tablet,MacOS
+696,25-34,Female,Bulgaria,Mobile,Android
+697,45-54,Male,Grenada,Desktop,Windows
+698,35-44,Female,Montenegro,Desktop,Android
+699,25-34,Male,Zambia,Mobile,Windows
+700,25-34,Female,Northern Mariana Islands,Mobile,iOS
+701,45-54,Male,French Guiana,Mobile,Android
+702,35-44,Male,Ukraine,Tablet,iOS
+703,18-24,Female,Mauritania,Mobile,Windows
+704,25-34,Male,Timor-Leste,Mobile,Windows
+705,65+,Male,Australia,Mobile,Windows
+706,35-44,Male,Guinea,Tablet,Windows
+707,18-24,Female,Saint Barthelemy,Desktop,MacOS
+708,45-54,Female,Grenada,Tablet,Windows
+709,55-64,Female,India,Tablet,iOS
+710,55-64,Female,Comoros,Desktop,MacOS
+711,18-24,Male,Spain,Desktop,iOS
+712,65+,Female,Cocos (Keeling) Islands,Tablet,iOS
+713,35-44,Female,Sudan,Tablet,Android
+714,45-54,Male,Italy,Tablet,Android
+715,45-54,Male,Macao,Desktop,Android
+716,25-34,Male,Svalbard & Jan Mayen Islands,Mobile,MacOS
+717,35-44,Male,Turks and Caicos Islands,Mobile,MacOS
+718,18-24,Male,Montenegro,Tablet,iOS
+719,65+,Male,Cambodia,Tablet,Android
+720,25-34,Female,Belize,Tablet,Windows
+721,65+,Female,Turkey,Mobile,MacOS
+722,35-44,Male,Comoros,Mobile,Windows
+723,55-64,Female,Aruba,Tablet,iOS
+724,55-64,Female,Nicaragua,Desktop,MacOS
+725,35-44,Male,Croatia,Tablet,Windows
+726,25-34,Female,Slovakia (Slovak Republic),Tablet,Windows
+727,18-24,Female,Djibouti,Desktop,MacOS
+728,35-44,Male,United Arab Emirates,Desktop,iOS
+729,35-44,Female,Belarus,Tablet,Android
+730,45-54,Female,Ecuador,Mobile,Windows
+731,25-34,Male,Japan,Desktop,Windows
+732,65+,Female,India,Mobile,iOS
+733,45-54,Female,Turkey,Mobile,Android
+734,35-44,Female,Cameroon,Desktop,Android
+735,35-44,Female,Malaysia,Mobile,MacOS
+736,35-44,Male,Bouvet Island (Bouvetoya),Desktop,iOS
+737,55-64,Male,Tajikistan,Tablet,MacOS
+738,18-24,Female,Saint Kitts and Nevis,Desktop,MacOS
+739,55-64,Male,Switzerland,Tablet,MacOS
+740,35-44,Female,Rwanda,Mobile,Android
+741,25-34,Male,Western Sahara,Mobile,iOS
+742,55-64,Female,Iceland,Mobile,MacOS
+743,18-24,Male,Micronesia,Mobile,MacOS
+744,35-44,Male,Maldives,Desktop,Android
+745,25-34,Female,Liberia,Mobile,MacOS
+746,55-64,Male,Italy,Desktop,iOS
+747,35-44,Male,Kenya,Desktop,Windows
+748,65+,Female,Switzerland,Tablet,MacOS
+749,25-34,Female,Greece,Tablet,MacOS
+750,18-24,Female,Suriname,Mobile,Android
+751,65+,Female,El Salvador,Tablet,MacOS
+752,45-54,Female,Somalia,Mobile,Android
+753,25-34,Female,Zimbabwe,Mobile,Android
+754,45-54,Female,Anguilla,Tablet,MacOS
+755,25-34,Male,Madagascar,Tablet,Android
+756,18-24,Female,Burundi,Mobile,iOS
+757,65+,Female,Latvia,Tablet,MacOS
+758,45-54,Male,Burkina Faso,Desktop,Windows
+759,45-54,Female,Madagascar,Tablet,iOS
+760,45-54,Female,Guernsey,Desktop,Android
+761,65+,Male,Ethiopia,Tablet,Windows
+762,55-64,Female,Saint Lucia,Tablet,MacOS
+763,45-54,Female,Afghanistan,Tablet,Windows
+764,55-64,Male,Palau,Tablet,Windows
+765,35-44,Male,Morocco,Mobile,Windows
+766,18-24,Female,Kenya,Tablet,iOS
+767,35-44,Male,Aruba,Desktop,Windows
+768,35-44,Male,Congo,Mobile,iOS
+769,18-24,Female,Uruguay,Mobile,Android
+770,25-34,Female,Zambia,Desktop,Android
+771,55-64,Female,Tanzania,Mobile,Android
+772,45-54,Female,Mayotte,Mobile,MacOS
+773,55-64,Male,Guernsey,Mobile,Windows
+774,45-54,Female,Gibraltar,Mobile,iOS
+775,25-34,Male,Tajikistan,Desktop,MacOS
+776,18-24,Female,Tanzania,Tablet,Android
+777,65+,Male,Namibia,Desktop,Windows
+778,35-44,Male,Western Sahara,Mobile,Android
+779,35-44,Female,Malawi,Desktop,Windows
+780,55-64,Female,Samoa,Desktop,MacOS
+781,45-54,Male,Lesotho,Tablet,MacOS
+782,55-64,Male,Saint Kitts and Nevis,Desktop,Windows
+783,18-24,Male,Panama,Desktop,Android
+784,25-34,Male,Lebanon,Tablet,iOS
+785,45-54,Female,Jersey,Desktop,iOS
+786,35-44,Female,Bolivia,Mobile,MacOS
+787,55-64,Female,Andorra,Desktop,MacOS
+788,35-44,Female,Malawi,Mobile,iOS
+789,35-44,Female,Nigeria,Mobile,iOS
+790,35-44,Female,Lesotho,Desktop,Windows
+791,25-34,Male,Monaco,Desktop,Android
+792,65+,Male,Paraguay,Desktop,Android
+793,65+,Male,Niue,Tablet,Windows
+794,55-64,Female,Qatar,Desktop,iOS
+795,65+,Female,France,Mobile,Windows
+796,35-44,Male,Holy See (Vatican City State),Tablet,Windows
+797,35-44,Male,Portugal,Desktop,Android
+798,45-54,Male,Kazakhstan,Desktop,Android
+799,35-44,Male,Belize,Mobile,Android
+800,18-24,Female,Cocos (Keeling) Islands,Mobile,MacOS
+801,55-64,Male,India,Mobile,Android
+802,18-24,Male,Samoa,Desktop,Windows
+803,25-34,Male,Armenia,Desktop,iOS
+804,25-34,Female,Latvia,Tablet,MacOS
+805,65+,Male,Jordan,Desktop,iOS
+806,18-24,Female,Anguilla,Mobile,Android
+807,45-54,Female,Cayman Islands,Desktop,iOS
+808,35-44,Female,Nepal,Mobile,Windows
+809,18-24,Male,Nicaragua,Tablet,Windows
+810,18-24,Female,Rwanda,Mobile,iOS
+811,45-54,Male,Estonia,Desktop,iOS
+812,25-34,Female,Montenegro,Tablet,iOS
+813,18-24,Female,New Caledonia,Desktop,iOS
+814,55-64,Male,Mexico,Desktop,MacOS
+815,65+,Male,Wallis and Futuna,Tablet,MacOS
+816,45-54,Male,Gibraltar,Desktop,MacOS
+817,55-64,Male,Norfolk Island,Desktop,Windows
+818,55-64,Male,Norfolk Island,Mobile,Android
+819,45-54,Female,Bahamas,Desktop,Android
+820,25-34,Male,Sweden,Desktop,iOS
+821,25-34,Male,Kenya,Mobile,Android
+822,55-64,Female,Kiribati,Tablet,Windows
+823,18-24,Male,Thailand,Desktop,Android
+824,35-44,Male,Kyrgyz Republic,Tablet,Android
+825,18-24,Male,Bosnia and Herzegovina,Tablet,Android
+826,45-54,Female,Somalia,Desktop,Windows
+827,18-24,Male,Madagascar,Tablet,Android
+828,25-34,Female,Canada,Desktop,Android
+829,45-54,Female,Panama,Mobile,iOS
+830,65+,Female,Korea,Tablet,Windows
+831,45-54,Male,Philippines,Desktop,Windows
+832,55-64,Female,Mauritania,Mobile,MacOS
+833,18-24,Male,Guatemala,Mobile,Android
+834,55-64,Male,Kazakhstan,Mobile,Windows
+835,35-44,Male,Cook Islands,Tablet,MacOS
+836,25-34,Male,Tajikistan,Mobile,iOS
+837,45-54,Male,British Virgin Islands,Mobile,Android
+838,45-54,Male,Samoa,Tablet,MacOS
+839,65+,Male,South Georgia and the South Sandwich Islands,Tablet,Windows
+840,65+,Male,Chile,Tablet,Android
+841,25-34,Female,Guernsey,Mobile,iOS
+842,55-64,Male,Sao Tome and Principe,Tablet,Windows
+843,55-64,Female,United States of America,Mobile,MacOS
+844,65+,Male,Ghana,Desktop,Windows
+845,35-44,Female,Zimbabwe,Mobile,Windows
+846,45-54,Male,Malaysia,Desktop,Android
+847,25-34,Female,Palestinian Territory,Desktop,Windows
+848,55-64,Male,Kiribati,Tablet,Android
+849,18-24,Male,Lao People's Democratic Republic,Mobile,Windows
+850,55-64,Female,Panama,Tablet,Android
+851,25-34,Male,United Kingdom,Tablet,iOS
+852,35-44,Female,Namibia,Mobile,Android
+853,65+,Male,South Georgia and the South Sandwich Islands,Desktop,Windows
+854,65+,Female,Zimbabwe,Desktop,iOS
+855,45-54,Male,Armenia,Mobile,Windows
+856,55-64,Male,Congo,Mobile,iOS
+857,35-44,Female,Samoa,Tablet,Android
+858,25-34,Male,Nigeria,Tablet,Windows
+859,45-54,Female,Albania,Mobile,Android
+860,18-24,Male,Bermuda,Mobile,Windows
+861,25-34,Female,San Marino,Desktop,Windows
+862,45-54,Male,Greenland,Mobile,Android
+863,45-54,Female,Taiwan,Mobile,Android
+864,18-24,Male,Ireland,Desktop,iOS
+865,55-64,Female,Micronesia,Tablet,Windows
+866,25-34,Male,Ethiopia,Desktop,MacOS
+867,55-64,Male,Ukraine,Mobile,Android
+868,18-24,Female,British Indian Ocean Territory (Chagos Archipelago),Mobile,MacOS
+869,65+,Male,Slovakia (Slovak Republic),Desktop,Android
+870,65+,Male,Vietnam,Mobile,Android
+871,18-24,Male,Spain,Desktop,iOS
+872,45-54,Male,Myanmar,Tablet,MacOS
+873,25-34,Female,Germany,Desktop,MacOS
+874,18-24,Male,Belize,Desktop,MacOS
+875,25-34,Female,Bahamas,Mobile,iOS
+876,18-24,Female,Philippines,Tablet,iOS
+877,35-44,Female,Saint Helena,Tablet,Android
+878,18-24,Female,Swaziland,Mobile,iOS
+879,25-34,Female,Bermuda,Desktop,iOS
+880,25-34,Female,Palestinian Territory,Tablet,Android
+881,25-34,Male,Romania,Tablet,MacOS
+882,35-44,Female,Somalia,Desktop,MacOS
+883,35-44,Male,Sao Tome and Principe,Tablet,MacOS
+884,55-64,Male,San Marino,Mobile,Android
+885,55-64,Male,Bangladesh,Mobile,MacOS
+886,45-54,Male,Nigeria,Mobile,Windows
+887,25-34,Female,Grenada,Tablet,Windows
+888,25-34,Male,Reunion,Mobile,Windows
+889,25-34,Female,Costa Rica,Desktop,Windows
+890,35-44,Female,Estonia,Tablet,iOS
+891,25-34,Female,Armenia,Mobile,MacOS
+892,55-64,Male,Peru,Mobile,Android
+893,25-34,Male,Bouvet Island (Bouvetoya),Mobile,Android
+894,25-34,Female,Turkey,Mobile,MacOS
+895,55-64,Female,Svalbard & Jan Mayen Islands,Mobile,MacOS
+896,35-44,Female,South Georgia and the South Sandwich Islands,Desktop,Android
+897,18-24,Female,Micronesia,Desktop,MacOS
+898,55-64,Male,Saint Kitts and Nevis,Tablet,MacOS
+899,18-24,Female,Saint Martin,Tablet,iOS
+900,25-34,Female,Uganda,Desktop,Android
+901,55-64,Female,Vanuatu,Mobile,MacOS
+902,35-44,Female,Reunion,Desktop,Windows
+903,65+,Female,Guatemala,Mobile,Windows
+904,45-54,Male,Saint Barthelemy,Desktop,MacOS
+905,65+,Female,Benin,Desktop,MacOS
+906,18-24,Male,United States Virgin Islands,Tablet,Windows
+907,25-34,Female,Turks and Caicos Islands,Desktop,iOS
+908,25-34,Male,Netherlands,Desktop,MacOS
+909,18-24,Male,French Polynesia,Tablet,MacOS
+910,25-34,Female,Bahrain,Desktop,MacOS
+911,55-64,Male,Italy,Tablet,iOS
+912,55-64,Female,Kiribati,Tablet,MacOS
+913,18-24,Male,Singapore,Desktop,iOS
+914,35-44,Female,Bouvet Island (Bouvetoya),Tablet,Windows
+915,45-54,Male,Aruba,Mobile,iOS
+916,18-24,Female,Mongolia,Desktop,Windows
+917,18-24,Female,Bosnia and Herzegovina,Desktop,Android
+918,45-54,Female,Trinidad and Tobago,Mobile,Android
+919,25-34,Male,Guernsey,Mobile,Android
+920,35-44,Male,Kuwait,Tablet,Android
+921,25-34,Female,Sao Tome and Principe,Mobile,Windows
+922,25-34,Female,Switzerland,Mobile,Windows
+923,35-44,Female,Zimbabwe,Mobile,Windows
+924,65+,Male,Faroe Islands,Mobile,Windows
+925,35-44,Male,Tonga,Tablet,Windows
+926,18-24,Female,Andorra,Mobile,iOS
+927,65+,Female,Nepal,Tablet,iOS
+928,18-24,Female,Paraguay,Mobile,iOS
+929,35-44,Male,Belgium,Tablet,MacOS
+930,18-24,Female,Andorra,Mobile,MacOS
+931,55-64,Female,Saint Vincent and the Grenadines,Mobile,Android
+932,65+,Female,Lesotho,Desktop,Android
+933,65+,Male,Ghana,Tablet,iOS
+934,55-64,Male,Saint Helena,Desktop,iOS
+935,65+,Male,Dominican Republic,Desktop,Android
+936,25-34,Female,Andorra,Mobile,MacOS
+937,45-54,Female,Bolivia,Tablet,MacOS
+938,45-54,Male,Belize,Mobile,MacOS
+939,25-34,Female,Fiji,Desktop,iOS
+940,35-44,Female,Colombia,Desktop,iOS
+941,55-64,Female,Kazakhstan,Mobile,Android
+942,25-34,Male,Chile,Mobile,Windows
+943,45-54,Male,Serbia,Mobile,Android
+944,55-64,Male,Norfolk Island,Desktop,Windows
+945,25-34,Male,Western Sahara,Desktop,MacOS
+946,65+,Male,Egypt,Tablet,Windows
+947,55-64,Male,Iran,Mobile,Android
+948,25-34,Female,South Africa,Desktop,Android
+949,55-64,Male,Kazakhstan,Mobile,MacOS
+950,45-54,Female,Albania,Tablet,iOS
+951,55-64,Male,Ethiopia,Desktop,Android
+952,65+,Male,Libyan Arab Jamahiriya,Desktop,iOS
+953,65+,Male,Iraq,Desktop,Android
+954,18-24,Male,British Virgin Islands,Mobile,iOS
+955,35-44,Female,Iran,Mobile,Android
+956,45-54,Male,Algeria,Desktop,MacOS
+957,25-34,Male,Libyan Arab Jamahiriya,Mobile,MacOS
+958,45-54,Male,Mongolia,Desktop,iOS
+959,55-64,Female,Bangladesh,Tablet,iOS
+960,25-34,Female,United Arab Emirates,Mobile,Windows
+961,45-54,Male,Micronesia,Desktop,Windows
+962,35-44,Male,Jersey,Desktop,iOS
+963,35-44,Male,French Polynesia,Mobile,Android
+964,35-44,Female,Niger,Mobile,iOS
+965,18-24,Female,Mauritania,Mobile,MacOS
+966,45-54,Female,Saint Martin,Desktop,iOS
+967,25-34,Male,Kenya,Tablet,MacOS
+968,25-34,Female,Ireland,Mobile,Windows
+969,45-54,Female,Isle of Man,Mobile,MacOS
+970,55-64,Male,Taiwan,Desktop,iOS
+971,55-64,Male,North Macedonia,Mobile,MacOS
+972,45-54,Male,India,Mobile,iOS
+973,25-34,Female,Cambodia,Desktop,Windows
+974,65+,Male,Grenada,Desktop,Windows
+975,45-54,Male,Chad,Tablet,MacOS
+976,65+,Female,Korea,Desktop,Android
+977,18-24,Male,Tanzania,Mobile,iOS
+978,18-24,Male,Iran,Tablet,iOS
+979,65+,Female,Dominican Republic,Tablet,Android
+980,35-44,Female,Holy See (Vatican City State),Mobile,MacOS
+981,45-54,Male,Guernsey,Desktop,Windows
+982,25-34,Female,Micronesia,Mobile,Windows
+983,55-64,Male,Greece,Mobile,iOS
+984,18-24,Female,Mozambique,Tablet,Windows
+985,35-44,Male,Indonesia,Mobile,iOS
+986,45-54,Female,Czech Republic,Mobile,MacOS
+987,65+,Male,Tunisia,Tablet,Windows
+988,55-64,Male,Sweden,Desktop,Android
+989,18-24,Female,Lesotho,Desktop,MacOS
+990,25-34,Male,Georgia,Desktop,Android
+991,55-64,Male,Nigeria,Mobile,iOS
+992,25-34,Female,Tajikistan,Tablet,MacOS
+993,18-24,Male,Estonia,Tablet,MacOS
+994,55-64,Male,Ecuador,Mobile,Windows
+995,25-34,Male,Seychelles,Tablet,Windows
+996,45-54,Female,Switzerland,Desktop,Android
+997,45-54,Male,Costa Rica,Desktop,MacOS
+998,25-34,Male,Myanmar,Desktop,iOS
+999,18-24,Female,Costa Rica,Mobile,MacOS
+1000,45-54,Female,Antarctica (the territory South of 60 deg S),Tablet,Windows
